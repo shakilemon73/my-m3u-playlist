@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HlJOrGI.png" tvg-name="9Life (720p) [Geo-blocked]" group-title="Lifestyle",9Life (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xglh33.png" tvg-name="10 Bold Adelaide (1080p)" group-title="Lifestyle;Relax",10 Bold Adelaide (1080p)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6D228s.png" tvg-name="13 Prime (720p)" group-title="Lifestyle",13 Prime (720p)
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" tvg-name="30A Luxe Life Discovered (720p)" group-title="Lifestyle",30A Luxe Life Discovered (720p)
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sC0K5BZ.png" tvg-name="36.6 TV" group-title="Lifestyle",36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
