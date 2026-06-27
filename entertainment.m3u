@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" tvg-name="1KZN TV (576p)" group-title="Entertainment;Family;General",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhQFLEl.png" tvg-name="2x2 (576i)" group-title="Entertainment",2x2 (576i)
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kfngtev.png" tvg-name="4ever Theater" group-title="Entertainment",4ever Theater
+https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fpaxyop.png" tvg-name="4seven (576p)" group-title="Entertainment",4seven (576p)
+https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" tvg-name="4U TV (720p)" group-title="Entertainment",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jrGrfof.png" tvg-name="5AAB TV (720p) [Not 24/7]" group-title="Entertainment",5AAB TV (720p) [Not 24/7]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9xR6l.png" tvg-name="5SELECT (576p)" group-title="Entertainment",5SELECT (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PI11s9s.png" tvg-name="5STAR (576p)" group-title="Entertainment",5STAR (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" tvg-name="Live Channel" group-title="Entertainment",Live Channel
+http://213.91.179.28:8000/play/a0cn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jkx9W88.png" tvg-name="8TV" group-title="Entertainment",8TV
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cwLzqaw.png" tvg-name="9Gem (720p) [Geo-blocked]" group-title="Entertainment",9Gem (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLijQI8.png" tvg-name="9Go! (720p) [Geo-blocked]" group-title="Entertainment;Kids",9Go! (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/utI1tJV.png" tvg-name="13 Entretención (720p)" group-title="Entertainment",13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0SuwMU.png" tvg-name="13 Realities (1080p)" group-title="Entertainment",13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png" tvg-name="13th Street Universal HD (1080p)" group-title="Entertainment",13th Street Universal HD (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gCNnLq.png" tvg-name="13 Ulica (1080p)" group-title="Entertainment",13 Ulica (1080p)
+http://91.146.94.234:10001/play/a088
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png" tvg-name="20 Mediaset [Geo-blocked]" group-title="Entertainment",20 Mediaset [Geo-blocked]
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" tvg-name="30A Georgia Hollywood Review TV (720p)" group-title="Entertainment;News",30A Georgia Hollywood Review TV (720p)
+https://30a-tv.com/gh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSdwqZN.png" tvg-name="30A Sidewalks (720p)" group-title="Entertainment",30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" tvg-name="30A Television Channel (720p)" group-title="Entertainment",30A Television Channel (720p)
+https://30a-tv.com/feeds/masters/30atv.m3u8
