@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/49ZENis.png" tvg-name="3Cat Plats bruts (1080p)" group-title="Classic;Comedy;Public;Series",3Cat Plats bruts (1080p)
-https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBbxEf.png" tvg-name="13Rec (576p)" group-title="Classic",13Rec (576p)
-http://45.4.1.201:8000/play/a11i/index.m3u8
