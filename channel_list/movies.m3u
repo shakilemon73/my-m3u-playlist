@@ -1,5 +1,57 @@
 #EXTM3U
 # HINDI & INTERNATIONAL MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SuqJaK.png" tvg-name="24 Hour Free Movies" group-title="Cinema em inglês",24 Hour Free Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LeusTQY.png" tvg-name="Bowery Classics | Distro TV" group-title="Cinema em inglês",Bowery Classics | Distro TV
+https://dai.google.com/linear/hls/event/7D2Q73U6RpyYzJYog5Lx6Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223/" tvg-name="CineLife | EUA" group-title="Cinema em inglês",CineLife | EUA
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223/" tvg-name="CineLife | Distro" group-title="Cinema em inglês",CineLife | Distro
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223/" tvg-name="CineLife | Plex" group-title="Cinema em inglês",CineLife | Plex
+https://dai.google.com/linear/hls/event/UTF4M044RUKTjJ4DQv5jUQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" tvg-name="Cinepride | EUA | Galxy TV 2" group-title="Cinema em inglês",Cinepride | EUA | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" tvg-name="Cinepride | EUA | Galxy TV 3" group-title="Cinema em inglês",Cinepride | EUA | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2591
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT1qvEc.png" tvg-name="Comet | Stirr" group-title="Cinema em inglês",Comet | Stirr
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejyvmON.png" tvg-name="Electric Now | EUA 6" group-title="Cinema em inglês",Electric Now | EUA 6
+https://ov.ottera.tv/live/master.m3u8?channel=elec_en
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" tvg-name="FrightFlix | Galxy TV 2" group-title="Cinema em inglês",FrightFlix | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2582
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" tvg-name="FrightFlix | Galxy TV 3" group-title="Cinema em inglês",FrightFlix | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2594
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuosgyp.png" tvg-name="Galxy TV" group-title="Cinema em inglês",Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2595
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bq0AGTk.png" tvg-name="Hi-YAH!" group-title="Cinema em inglês",Hi-YAH!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/" tvg-name="Horror Machine | Local Now" group-title="Cinema em inglês",Horror Machine | Local Now
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/" tvg-name="Horror Machine | Local Now" group-title="Cinema em inglês",Horror Machine | Local Now
+https://dai.google.com/linear/hls/event/b102wvjXSLGQWwRTT-QaaA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" tvg-name="KMovies | legenda em inglês" group-title="Cinema em inglês",KMovies | legenda em inglês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" tvg-name="KMovies 2 | legenda em inglês" group-title="Cinema em inglês",KMovies 2 | legenda em inglês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" tvg-name="KMovies 3 | legenda em inglês" group-title="Cinema em inglês",KMovies 3 | legenda em inglês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" tvg-name="MyTime Movie Network | EUA" group-title="Cinema em inglês",MyTime Movie Network | EUA
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRHBzOm.png" tvg-name="The Archive | EUA 5" group-title="Cinema em inglês",The Archive | EUA 5
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRHBzOm.png" tvg-name="The Archive | EUA 6" group-title="Cinema em inglês",The Archive | EUA 6
+https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sxf26dk.png" tvg-name="The Lone Star Channel | Distro" group-title="Cinema em inglês",The Lone Star Channel | Distro
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sxf26dk.png" tvg-name="The Lone Star Channel | Distro | link 2" group-title="Cinema em inglês",The Lone Star Channel | Distro | link 2
+https://dai.google.com/linear/hls/event/i98gkOy4R6GGN_j-P3wZvw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sxf26dk.png" tvg-name="The Lone Star Channel | Rakuten" group-title="Cinema em inglês",The Lone Star Channel | Rakuten
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" tvg-name="Watch It Scream! | Galxy TV 2" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" tvg-name="Watch It Scream! | Galxy TV 3" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2598
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
