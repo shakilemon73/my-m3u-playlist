@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="29" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="TV",CNBC
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3624.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlJOrGI.png" tvg-name="9Life (720p) [Geo-blocked]" group-title="Lifestyle",9Life (720p) [Geo-blocked]
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2xglh33.png" tvg-name="10 Bold Adelaide (1080p)" group-title="Lifestyle;Relax",10 Bold Adelaide (1080p)
