@@ -1,5 +1,9 @@
 # SPORTS & FOOTBALL
 #EXTM3U
+#EXTINF:-1 tvg-chno="39" tvg-id="[SPOARHD].DSports.Argentina.HD.uy" tvg-name="DIRECTV Sports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DIRECTV Sports
+http://201.230.121.85:8000/play/dssporthd/index.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="[SPOPLH].DSports.+.HD.uy" tvg-name="DIRECTV Sports +" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DIRECTV Sports +
+http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="TV",BBC One
 http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV",BBC America
@@ -8,6 +12,14 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="Bioscope Sports" tvg-name="Bioscope Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Bioscope%2B_logo.png" group-title="Sports;Football;Live Events",Bioscope Sports Live
 https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="TV",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="TV",ESPN News
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
+#EXTINF:-1 tvg-chno="50" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="TV",ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
