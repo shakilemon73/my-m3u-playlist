@@ -1,5 +1,28 @@
 # SPORTS & FOOTBALL
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="FIFA.TV.Live" tvg-name="[Mundial 2026] En Vivo: FIFA TV Global Match | MULTI" tvg-logo="https://images.fifa.com/image/upload/t_fe-site-v1-co-branding-header-logo/v1655387431/editorial/logo/fifa-logo-desktop.svg" group-title="Live Events",[Mundial 2026] En Vivo: FIFA TV Global Match | MULTI
+http://190.181.61.93:8000/play/a00w
+
+#EXTINF:-1 tvg-chno="2" tvg-id="DSports.Live" tvg-name="[Mundial 2026] En Vivo: DSports Sudamérica | ESPAÑOL" tvg-logo="https://directvgo.com/assets/images/dtv-logo.png" group-title="Live Events",[Mundial 2026] En Vivo: DSports Sudamérica | ESPAÑOL
+http://45.5.57.58:8000/play/a07p
+
+#EXTINF:-1 tvg-chno="3" tvg-id="CazeTV1.Live" tvg-name="[Mundial 2026] Ao Vivo: CazéTV Opção 1 | PORTUGUÊS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Caz%C3%A9TV_logo.png" group-title="Live Events",[Mundial 2026] Ao Vivo: CazéTV Opção 1 | PORTUGUÊS
+http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="ESPN.Mundial" tvg-name="[Mundial 2026] En Vivo: ESPN Mundial | Disney+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Live Events",[Mundial 2026] En Vivo: ESPN Mundial | Disney+ HD
+http://148.222.230.144:8000/play/a0f0
+
+#EXTINF:-1 tvg-chno="5" tvg-id="TyCSports.Live" tvg-name="[Mundial 2026] En Vivo: TyC Sports Argentina | ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TyC_Sports_Logo.svg" group-title="Live Events",[Mundial 2026] En Vivo: TyC Sports Argentina | ESPAÑOL
+http://200.91.32.158:8080/zychd/index.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="FoxSports.Live" tvg-name="[Mundial 2026] Live Match: FOX USA Network | ENGLISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_Sports_logo.svg" group-title="Live Events",[Mundial 2026] Live Match: FOX USA Network | ENGLISH
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Telemundo.Live" tvg-name="[Mundial 2026] En Vivo: Telemundo Deportes | ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Telemundo_2018_logo.svg" group-title="Live Events",[Mundial 2026] En Vivo: Telemundo Deportes | ESPAÑOL
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+
+#EXTINF:-1 tvg-chno="8" tvg-id="TUDN.Mex" tvg-name="[Mundial 2026] En Vivo: TUDN México | ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/TUDN_logo.svg" group-title="Live Events",[Mundial 2026] En Vivo: TUDN México | ESPAÑOL
+http://45.171.64.30:2000/play/a08j
 #EXTINF:-1 tvg-chno="39" tvg-id="[SPOARHD].DSports.Argentina.HD.uy" tvg-name="DIRECTV Sports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DIRECTV Sports
 http://201.230.121.85:8000/play/dssporthd/index.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="[SPOPLH].DSports.+.HD.uy" tvg-name="DIRECTV Sports +" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DIRECTV Sports +
