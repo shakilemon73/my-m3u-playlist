@@ -3,3 +3,11 @@
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WtBbxEf.png" tvg-name="13Rec (576p)" group-title="Classic",13Rec (576p)
 http://45.4.1.201:8000/play/a11i/index.m3u8
+#EXTINF:-1 tvg-id="WSFLDT3.us" tvg-name="Antenna TV" tvg-logo="" group-title="USA - Classic TV",Antenna TV
+http://173.229.4.243:5004/auto/v39.3
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV" tvg-logo="" group-title="USA - Classic TV",MeTV
+http://173.229.4.243:5004/auto/v10.2
+#EXTINF:-1 tvg-id="WGNDT4.us" tvg-name="Rewind TV" tvg-logo="" group-title="USA - Classic TV",Rewind TV
+http://173.229.4.240:5004/auto/v9.4
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM East" tvg-logo="" group-title="USA - Classic TV",TCM East
+http://rezofoot.tv/TCM/index.m3u8
