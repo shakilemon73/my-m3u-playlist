@@ -33,6 +33,42 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gCNnLq.png" tvg-name="13 Ulica (1080p)" group-title="Entertainment",13 Ulica (1080p)
 http://91.146.94.234:10001/play/a088
+#EXTINF:-1 group-title="Entretenimiento",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+#EXTINF:-1 group-title="Entretenimiento",PRIDEtv Latam
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
+#EXTINF:-1 group-title="Entretenimiento",Moni TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Spark
+https://cdn.global.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento",TL+
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento",TL+ Santa Ana
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Primired
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento",ONR
+https://cdn.global.elektamedia.com/live/c7eds/ONR/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="Entretenimiento",VCONLINE
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Punto 99
+https://stmv5.voxtvhd.com.br/tvcoolretro/tvcoolretro/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Varied TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Canal LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+#EXTINF:-1 group-title="Entretenimiento",LRP Television
+https://v2.tustreaming.cl/lrp/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",ClickTV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png" tvg-name="20 Mediaset [Geo-blocked]" group-title="Entertainment",20 Mediaset [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" tvg-name="30A Georgia Hollywood Review TV (720p)" group-title="Entertainment;News",30A Georgia Hollywood Review TV (720p)
