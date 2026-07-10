@@ -1,5 +1,7 @@
 #EXTM3U
 # HINDI & INTERNATIONAL MOVIES
+#EXTINF:-1 tvg-id="WarnerTV.mx" tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/WarnerTV.png" group-title="International - Movies",Warner TV
+http://187.245.231.227:8000/play/a0ob/index.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
