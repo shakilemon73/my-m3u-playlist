@@ -1,5 +1,11 @@
 # SPORTS & FOOTBALL
 #EXTM3U
+#EXTINF:-1 tvg-id="ESPN1.mx" tvg-name="ESPN1 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="International - Sports",ESPN1 (Latin America)
+http://38.19.41.143:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="International - Sports",ESPN2 (Latin America)
+http://38.19.41.143:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN3 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN3.png" group-title="International - Sports",ESPN3 (Latin America)
+http://38.19.41.143:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ACCNetwork.png" group-title="USA - Sports",ACC Network
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/9273.ts
 #EXTINF:-1 tvg-id="BTN.us" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/BTN.png" group-title="USA - Sports",Big Ten Network
