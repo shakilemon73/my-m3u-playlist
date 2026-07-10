@@ -1,5 +1,9 @@
 # SPORTS & FOOTBALL
 #EXTM3U
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Canada - Sports",TSN 1
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57292.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN4.png" group-title="Canada - Sports",TSN 4
+http://fortv.cc:8080/live/maureennorman@live.ca/1385@5831/66783.ts
 #EXTINF:-1 tvg-id="ESPN1.mx" tvg-name="ESPN1 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="International - Sports",ESPN1 (Latin America)
 http://38.19.41.143:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="International - Sports",ESPN2 (Latin America)
