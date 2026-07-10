@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="" group-title="USA - Entertainment",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ComedyCentral.png" group-title="USA - Entertainment",Comedy Central
 http://206.212.244.63/44/index.m3u8
-#EXTINF:-1 tvg-id="EntertainmentTelevision.us" tvg-name="E! (Entertainment Television)" tvg-logo="" group-title="USA - Entertainment",E! (Entertainment Television)
+#EXTINF:-1 tvg-id="EntertainmentTelevision.us" tvg-name="E! (Entertainment Television)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/E!.png" group-title="USA - Entertainment",E! (Entertainment Television)
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/11651.ts
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="" group-title="USA - Entertainment",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/FX.png" group-title="USA - Entertainment",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX USA" tvg-logo="" group-title="USA - Entertainment",FXX USA
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX USA" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/FXX.png" group-title="USA - Entertainment",FXX USA
 http://fortv.cc:8080/live/parks@prudent.com/0314@8162/46699.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="" group-title="USA - Entertainment",Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/InvestigationDiscovery.png" group-title="USA - Entertainment",Investigation Discovery
 http://206.212.244.63/4239/index.m3u8
-#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="" group-title="USA - Entertainment",Magnolia Network
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/MagnoliaNetwork.png" group-title="USA - Entertainment",Magnolia Network
 http://206.212.244.63/107/index.m3u8
-#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" tvg-logo="" group-title="USA - Entertainment",OWN
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/OWN.png" group-title="USA - Entertainment",OWN
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/46698.ts
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="" group-title="USA - Entertainment",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ParamountNetwork.png" group-title="USA - Entertainment",Paramount Network
 http://206.212.244.63/137/index.m3u8
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="" group-title="USA - Entertainment",TBS East
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TBS.png" group-title="USA - Entertainment",TBS East
 http://206.212.244.63/154/index.m3u8
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="" group-title="USA - Entertainment",TLC
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TLC.png" group-title="USA - Entertainment",TLC
 http://206.212.244.63/159/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="" group-title="USA - Entertainment",TNT East
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TNT.png" group-title="USA - Entertainment",TNT East
 http://84.17.50.102/tnt/index.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="" group-title="USA - Entertainment",truTV East
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/truTV.png" group-title="USA - Entertainment",truTV East
 http://206.212.244.63/163/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="" group-title="USA - Entertainment",USA Network
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/USANetwork.png" group-title="USA - Entertainment",USA Network
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/10252.ts
-#EXTINF:-1 tvg-id="Viceland.us" tvg-name="Vice TV (Viceland)" tvg-logo="" group-title="USA - Entertainment",Vice TV (Viceland)
+#EXTINF:-1 tvg-id="Viceland.us" tvg-name="Vice TV (Viceland)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ViceTV.png" group-title="USA - Entertainment",Vice TV (Viceland)
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/46697.ts
 #EXTINF:-1 tvg-chno="47" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="TV",E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
