@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/Boomerang.png" group-title="USA - Kids",Boomerang
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/14741.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CartoonNetwork.png" group-title="USA - Kids",Cartoon Network East
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/DiscoveryFamily.png" group-title="USA - Kids",Discovery Family
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57347.ts
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/DisneyXD.png" group-title="USA - Kids",Disney XD
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/75621.ts
+#EXTINF:-1 tvg-id="MeTVToons.us" tvg-name="MeTV Toons" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/MeTVToons.png" group-title="USA - Kids",MeTV Toons
+http://173.229.4.243:5004/auto/v33.7
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickSpongebob" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/Nickelodeon.png" group-title="USA - Kids",NickSpongebob
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/36.ts
 #EXTINF:-1 tvg-chno="46" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="TV",Boomerang
