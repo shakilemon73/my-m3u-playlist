@@ -1,5 +1,13 @@
 # SPORTS & FOOTBALL
 #EXTM3U
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/tsports.png" group-title="News & Sports",T Sports HD
+http://murgi.live:8083/TSportsHD/index.m3u8?token=4395a51bc678e7f75607a55bc393f1515aefc4c7-90bed8c5b0a8ecabdca7371d0014a09a-1783877887-1783867087
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/somoytv.png" group-title="News & Sports",Somoy TV
+http://murgi.live:8083/SomoyTv/index.m3u8?token=db7f8486e8d479b5fa3d0250a90a5c03716f49aa-5dab19195e6c18cbac84016d811101fd-1783877950-1783867150
+#EXTINF:-1 tvg-name="News24 BD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/news24bd.png" group-title="News & Sports",News24 BD
+http://murgi.live:8083/News24/index.m3u8?token=f9c424e3aa1fc49265ef2bacf9b100eae97c8fd2-2e52302fe82b1c5d1f4e4962def397e9-1783878456-1783867656
+#EXTINF:-1 tvg-name="PTV Home" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/ptvhome.png" group-title="News & Sports",PTV Home (Pakistan)
+http://murgi.live:8083/Feedget/ptv_pk/index.m3u8?token=c0f99326eb29f495e34f26c6a18e77d1eb7cde38-3f52a09d0b9478f33793ca604419246b-1783878167-1783867367
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Canada - Sports",TSN 1
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57292.ts
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN4.png" group-title="Canada - Sports",TSN 4
