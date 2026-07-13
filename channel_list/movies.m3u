@@ -1,5 +1,27 @@
 #EXTM3U
 # HINDI & INTERNATIONAL MOVIES
+#EXTINF:-1 tvg-name="&pictures HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/andpictureshd.png" group-title="Entertainment & Movies",&pictures HD (Source 1)
+http://murgi.live:8083/andpictureHD/index.m3u8?token=1ed18ace4e15e4cf8c561fae83f9b54a458f54cd-cf5144836ba975efbb58e05803e15f5d-1783876881-1783866081
+#EXTINF:-1 tvg-name="&pictures HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/andpictureshd.png" group-title="Alternative Source",&pictures HD (Source 2)
+http://murgi.live:8083/andpictureHD/index.m3u8?token=7b10bf18b09897b3b7a2e6f83ee7e6343ded6332-62c5f39a7772bec04eb106d6377d2408-1783877543-1783866743
+#EXTINF:-1 tvg-name="Sony MAX" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sonymax.png" group-title="Entertainment & Movies",Sony MAX (Source 1)
+http://murgi.live:8083/Feedget/SonyMAX_37/index.m3u8?token=4fa584814e01647932e043cd1404a017298bc3b7-fa3392d94038445e17bee4635b74eaeb-1783877626-1783866826
+#EXTINF:-1 tvg-name="Sony MAX" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sonymax.png" group-title="Alternative Source",Sony MAX (Source 2)
+http://murgi.live:8083/Feedget/SonyMAX_37/index.m3u8?token=4fa584814e01647932e043cd1404a017298bc3b7-fa3392d94038445e17bee4635b74eaeb-1783877626-1783866826
+#EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sethd.png" group-title="Entertainment & Movies",Sony Entertainment Television HD (Source 1)
+http://murgi.live:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8?token=272d02ff4784ec1136dfca3d60c3503780bf6927-beedf3131efc75a45d66de16d3a676e6-1783877591-1783866791
+#EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sethd.png" group-title="Alternative Source",Sony Entertainment Television HD (Source 2)
+http://murgi.live:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8?token=272d02ff4784ec1136dfca3d60c3503780bf6927-beedf3131efc75a45d66de16d3a676e6-1783877591-1783866791
+#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sonypixhd.png" group-title="Entertainment & Movies",Sony PIX HD
+http://murgi.live:8083/Feedget/SonyPIXHD/index.m3u8?token=054a2c641f61f7ce883f8aa8c4c1bb28071f137d-e924f5305ee3864b199933f8bd410315-1783877837-1783867037
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/zeecinemahd.png" group-title="Entertainment & Movies",Zee Cinema HD
+http://murgi.live:8083/Feedget/ZeeCinemaHD_38/index.m3u8?token=20025685aed175e78b89056fc2d239fb5f0b579b-b2c935493ebfd1567a5f3326df338445-1783877912-1783867112
+#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/starmovies.png" group-title="Entertainment & Movies",Star Movies
+http://murgi.live:8083/Feedget/Star-Movies/index.m3u8?token=48f17e9da94063fb45cf3cacfd26ebc402aed3a2-146863f13ddbbf1f04476d217b68b7aa-1783878764-1783867964
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/stargold.png" group-title="Entertainment & Movies",Star Gold
+http://murgi.live:8083/Star-Gold/index.m3u8?token=d1589d8b137ac49f10335b0c2e821c37e18c1d75-759e1a288b3d17769893e3ec95415a79-1783878606-1783867806
+#EXTINF:-1 tvg-id="WarnerTV.mx" tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/WarnerTV.png" group-title="International - Movies",Warner TV
+http://187.245.231.227:8000/play/a0ob/index.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2

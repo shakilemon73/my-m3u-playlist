@@ -3,7 +3,18 @@
 #############################
 # Bangla Channels
 #############################
-
+#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sonyaath.png" group-title="Bangla Channels",Sony Aath
+http://murgi.live:8083/Feedget/SonyAath_7/index.m3u8?token=578a53d5769453bc754e32ebe8884e3612227255-221280f9eaea129e854960f55538b411-1783877615-1783866815
+#EXTINF:-1 tvg-name="ETV Bangla" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/etvbangla.png" group-title="Bangla Channels",ETV Bangla
+http://murgi.live:8083/ETV/index.m3u8?token=750821a396bbf3ed082e8c809de8eb2c252d524f-de7ec696331cb4d4d3b73c46239031e4-1783878098-1783867298
+#EXTINF:-1 tvg-name="Enterr10 Bangla" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/enterr10bangla.png" group-title="Bangla Channels",Enterr10 Bangla
+http://murgi.live:8083/enterr10-bangla/index.m3u8?token=83b9b791a09415df6d248c8f482e005df5e22488-4eb7b473c6b701a249b0374514b3e272-1783878540-1783867740
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/zeebangla.png" group-title="Bangla Channels",Zee Bangla
+http://murgi.live:8083/Feedget/ZeeBangla_8/index.m3u8?token=e11abdcc1f016cf8a20d58344e483c95f87aa25a-df307fd076c65c2bf10ee31116dfd77e-1783878631-1783867831
+#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/colorsbangla.png" group-title="Bangla Channels",Colors Bangla
+http://murgi.live:8083/colors-bangla/index.m3u8?token=0a4d7af2f770deedf4f7eb7f61ba15813817ac89-35a8277cfc9ff5abcf29d21456eaf719-1783878700-1783867900
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/starjalshahd.png" group-title="Bangla Channels",Star Jalsha HD
+http://murgi.live:8083/StarJalshaHD/index.m3u8?token=f7c818910ee72a1a5247f91e571da43fd3302733-6f3cb94f70194bbb6884457c1da3027e-1783878245-1783867445
 #EXTINF:-1 tvg-name="71 TV" group-title="Live Tv",71 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla" group-title="Bangladeshi 🇧🇩",ATN Bangla

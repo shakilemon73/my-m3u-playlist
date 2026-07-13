@@ -1,22 +1,63 @@
 # SPORTS & FOOTBALL
 #EXTM3U
-#EXTM3U
-
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/tsports.png" group-title="News & Sports",T Sports HD
+http://murgi.live:8083/TSportsHD/index.m3u8?token=4395a51bc678e7f75607a55bc393f1515aefc4c7-90bed8c5b0a8ecabdca7371d0014a09a-1783877887-1783867087
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/somoytv.png" group-title="News & Sports",Somoy TV
+http://murgi.live:8083/SomoyTv/index.m3u8?token=db7f8486e8d479b5fa3d0250a90a5c03716f49aa-5dab19195e6c18cbac84016d811101fd-1783877950-1783867150
+#EXTINF:-1 tvg-name="News24 BD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/news24bd.png" group-title="News & Sports",News24 BD
+http://murgi.live:8083/News24/index.m3u8?token=f9c424e3aa1fc49265ef2bacf9b100eae97c8fd2-2e52302fe82b1c5d1f4e4962def397e9-1783878456-1783867656
+#EXTINF:-1 tvg-name="PTV Home" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/ptvhome.png" group-title="News & Sports",PTV Home (Pakistan)
+http://murgi.live:8083/Feedget/ptv_pk/index.m3u8?token=c0f99326eb29f495e34f26c6a18e77d1eb7cde38-3f52a09d0b9478f33793ca604419246b-1783878167-1783867367
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Canada - Sports",TSN 1
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57292.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN4.png" group-title="Canada - Sports",TSN 4
+http://fortv.cc:8080/live/maureennorman@live.ca/1385@5831/66783.ts
+#EXTINF:-1 tvg-id="ESPN1.mx" tvg-name="ESPN1 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="International - Sports",ESPN1 (Latin America)
+http://38.19.41.143:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="International - Sports",ESPN2 (Latin America)
+http://38.19.41.143:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN3 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN3.png" group-title="International - Sports",ESPN3 (Latin America)
+http://38.19.41.143:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ACCNetwork.png" group-title="USA - Sports",ACC Network
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/9273.ts
+#EXTINF:-1 tvg-id="BTN.us" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/BTN.png" group-title="USA - Sports",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsHQ.png" group-title="USA - Sports",CBS Sports HQ
+https://jmp2.uk/stvp-USBB4800005VO
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsNetwork.png" group-title="USA - Sports",CBS Sports Network
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/10454.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="USA - Sports",ESPN
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/14197.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="USA - Sports",ESPN2
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/2210.ts
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPNU.png" group-title="USA - Sports",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1 (FOX Sports 1)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/FS1.png" group-title="USA - Sports",FS1 (FOX Sports 1)
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/1846.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/MLBNetwork.png" group-title="USA - Sports",MLB Network
+http://206.212.244.63/6147/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NBATV.png" group-title="USA - Sports",NBA TV
+http://kstv.us:8080/live/Mondomatt/7892703068/22501.ts
+#EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NFLChannel.png" group-title="USA - Sports",NFL Channel
+https://jmp2.uk/stvp-US2600007WJ
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NFLNetwork.png" group-title="USA - Sports",NFL Network
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/83724.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NHLNetwork.png" group-title="USA - Sports",NHL Network
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/253636.ts
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SECNetwork.png" group-title="USA - Sports",SEC Network
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/17608.ts
+#EXTINF:-1 tvg-id="Sportsgrid.us" tvg-name="SportsGrid" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SportsGrid.png" group-title="USA - Sports",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FIFA TV (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/1024px-FIFA_logo_without_slogan.svg.png" group-title="Live Events",FIFA TV (Extra)
 http://190.181.61.93:8000/play/a00w
-
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX World Cup (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX World Cup (Extra)
 http://200.35.176.154:8000/play/a066
-
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports (South America)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports (South America)
 http://45.5.57.58:8000/play/a07p
-
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports Venezuela (South America)
 http://200.115.120.1:8000/play/ca109
-
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports View Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports View Mobile (South America)
 http://200.91.32.158:8080/dsportshd/index.m3u8
-
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports 2 (South America)
 http://190.7.19.197:232/play/a09h
 

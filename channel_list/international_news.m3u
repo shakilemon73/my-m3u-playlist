@@ -1,4 +1,22 @@
 # INTERNATIONAL NEWS
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ABCNewsLive.png" group-title="USA - News",ABC News Live
+https://jmp2.uk/stvp-USBC39000171G
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSNews.png" group-title="USA - News",CBS News 24/7
+https://jmp2.uk/stvp-USBA370000104
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CNBC.png" group-title="USA - News",CNBC
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/9815.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CNN.png" group-title="USA - News",CNN
+http://cord-cutter.net:8080/parks@prudent.com/0314@8162/1817
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/HLN.png" group-title="USA - News",HLN
+http://206.212.244.63/92/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MS NOW" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/MSNBC.png" group-title="USA - News",MS NOW
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/21376.ts
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NBCNewsNow.png" group-title="USA - News",NBC News NOW
+https://jmp2.uk/stvp-USBB2200014DK
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/Newsmax.png" group-title="USA - News",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us" tvg-name="NewsNation" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NewsNation.png" group-title="USA - News",NewsNation
+http://206.212.244.63/712/index.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="TV",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="TV",C-SPAN
