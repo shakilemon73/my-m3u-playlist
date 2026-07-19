@@ -1,492 +1,263 @@
-# SPORTS & FOOTBALL
 #EXTM3U
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/tsports.png" group-title="News & Sports",T Sports HD
-http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/somoytv.png" group-title="News & Sports",Somoy TV
-http://murgi.live:8083/SomoyTv/index.m3u8?token=db7f8486e8d479b5fa3d0250a90a5c03716f49aa-5dab19195e6c18cbac84016d811101fd-1783877950-1783867150
-#EXTINF:-1 tvg-name="News24 BD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/news24bd.png" group-title="News & Sports",News24 BD
-http://murgi.live:8083/News24/index.m3u8?token=f9c424e3aa1fc49265ef2bacf9b100eae97c8fd2-2e52302fe82b1c5d1f4e4962def397e9-1783878456-1783867656
-#EXTINF:-1 tvg-name="PTV Home" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/ptvhome.png" group-title="News & Sports",PTV Home (Pakistan)
-http://murgi.live:8083/Feedget/ptv_pk/index.m3u8?token=c0f99326eb29f495e34f26c6a18e77d1eb7cde38-3f52a09d0b9478f33793ca604419246b-1783878167-1783867367
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Canada - Sports",TSN 1
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Canada - Sports",TSN 1
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57292.ts
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN4.png" group-title="Canada - Sports",TSN 4
-http://fortv.cc:8080/live/maureennorman@live.ca/1385@5831/66783.ts
-#EXTINF:-1 tvg-id="ESPN1.mx" tvg-name="ESPN1 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="International - Sports",ESPN1 (Latin America)
-http://38.19.41.143:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="International - Sports",ESPN2 (Latin America)
-http://38.19.41.143:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN3 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN3.png" group-title="International - Sports",ESPN3 (Latin America)
-http://38.19.41.143:8000/play/a07t/index.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ACCNetwork.png" group-title="USA - Sports",ACC Network
-http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/9273.ts
-#EXTINF:-1 tvg-id="BTN.us" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/BTN.png" group-title="USA - Sports",Big Ten Network
-http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-name="CBS Sports HQ" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsHQ.png" group-title="USA - Sports",CBS Sports HQ
-https://jmp2.uk/stvp-USBB4800005VO
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsNetwork.png" group-title="USA - Sports",CBS Sports Network
-http://fortv.cc:8080/live/parks@prudent.com/0314@8162/10454.ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="USA - Sports",ESPN
-http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/14197.ts
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="USA - Sports",ESPN2
-http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/2210.ts
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPNU.png" group-title="USA - Sports",ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1 (FOX Sports 1)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/FS1.png" group-title="USA - Sports",FS1 (FOX Sports 1)
-http://fortv.cc:8080/live/parks@prudent.com/0314@8162/1846.ts
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/MLBNetwork.png" group-title="USA - Sports",MLB Network
-http://206.212.244.63/6147/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NBATV.png" group-title="USA - Sports",NBA TV
-http://kstv.us:8080/live/Mondomatt/7892703068/22501.ts
-#EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NFLChannel.png" group-title="USA - Sports",NFL Channel
-https://jmp2.uk/stvp-US2600007WJ
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NFLNetwork.png" group-title="USA - Sports",NFL Network
-http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/83724.ts
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NHLNetwork.png" group-title="USA - Sports",NHL Network
-http://fortv.cc:8080/live/parks@prudent.com/0314@8162/253636.ts
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SECNetwork.png" group-title="USA - Sports",SEC Network
-http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/17608.ts
-#EXTINF:-1 tvg-id="Sportsgrid.us" tvg-name="SportsGrid" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SportsGrid.png" group-title="USA - Sports",SportsGrid
-https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FIFA TV (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/1024px-FIFA_logo_without_slogan.svg.png" group-title="Live Events",FIFA TV (Extra)
-http://190.181.61.93:8000/play/a00w
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX World Cup (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX World Cup (Extra)
-http://200.35.176.154:8000/play/a066
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports (South America)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports (South America)
-http://45.5.57.58:8000/play/a07p
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports Venezuela (South America)
-http://200.115.120.1:8000/play/ca109
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports View Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports View Mobile (South America)
-http://200.91.32.158:8080/dsportshd/index.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports 2 (South America)
-http://190.7.19.197:232/play/a09h
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports 2 View Mobile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports 2 View Mobile (South America)
-http://200.91.32.158:8080/dsports2hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="DSports +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports + (South America)
-http://38.252.215.33:8000/play/a01l
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="ESPN World Cup | Disney+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Live Events",ESPN World Cup | Disney+ (South America)
-http://148.222.230.144:8000/play/a0f0
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Telefe (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Telefe_logo.svg/1024px-Telefe_logo.svg.png" group-title="Live Events",Telefe (Argentina)
-http://200.91.32.158:8080/telefehd/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TV Publica (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Televisi%C3%B3n_P%C3%BAblica_Argentina_logo_2021.svg/1200px-Televisi%C3%B3n_P%C3%BAblica_Argentina_logo_2021.svg.png" group-title="Live Events",TV Publica (Argentina)
-http://200.91.32.158:8080/tvpublica/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TyC Sports (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TyC_Sports_Logo_2019.svg/1200px-TyC_Sports_Logo_2019.svg.png" group-title="Live Events",TyC Sports (Argentina)
-http://200.91.32.158:8080/tychd/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TyC Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TyC_Sports_Logo_2019.svg/1200px-TyC_Sports_Logo_2019.svg.png" group-title="Live Events",TyC Sports 2 (Argentina)
-http://200.91.32.158:8080/tyc2hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Red Uno LPZ HD (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Red_Uno_logo.png/640px-Red_Uno_logo.png" group-title="Live Events",Red Uno LPZ HD (Bolivia)
-http://190.181.61.93:8000/play/a003
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Red Uno SCZ (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Red_Uno_logo.png/640px-Red_Uno_logo.png" group-title="Live Events",Red Uno SCZ (Bolivia)
-http://190.181.61.93:8000/play/a002
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Unitel LPZ (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel LPZ (Bolivia)
-http://190.181.61.93:8000/play/a00n
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Unitel CBBA 13.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel CBBA 13.1 (Bolivia)
-http://190.181.61.93:8000/play/a00u
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Unitel LPZ 2.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel LPZ 2.1 (Bolivia)
-http://190.181.61.93:8000/play/a00t
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Unitel SCZ 9.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel SCZ 9.1 (Bolivia)
-http://190.181.61.93:8000/play/901
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TV Globo (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_da_TV_Globo_%282021%29.svg/1024px-Logotipo_da_TV_Globo_%282021%29.svg.png" group-title="Live Events",TV Globo (Brazil)
-http://189.75.129.27:8000/play/a016
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TV Globo Minas (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_da_TV_Globo_%282021%29.svg/1024px-Logotipo_da_TV_Globo_%282021%29.svg.png" group-title="Live Events",TV Globo Minas (Brazil)
-http://189.76.78.2:8000/play/66345448
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="SporTV (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SporTV_logo_2021.svg/1200px-SporTV_logo_2021.svg.png" group-title="Live Events",SporTV (Brazil)
-http://189.76.78.2:8000/play/4511145
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="SporTV 4K (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SporTV_logo_2021.svg/1200px-SporTV_logo_2021.svg.png" group-title="Live Events",SporTV 4K (Brazil)
-http://45.185.11.126:8000/play/a06f
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="SporTV 2 (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SporTV_logo_2021.svg/1200px-SporTV_logo_2021.svg.png" group-title="Live Events",SporTV 2 (Brazil)
-http://189.75.129.27:8000/play/a01a
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Ge TV (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/GE_GloboEsporte_logo.png" group-title="Live Events",Ge TV (Brazil)
-http://45.185.11.126:8000/play/a08v
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="N Sports (Brazil)" tvg-logo="https://nsports.com.br/assets/images/logo-nsports.png" group-title="Live Events",N Sports (Brazil)
-http://189.75.129.27:8000/play/a007
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="SBT (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBT_logo.svg/1200px-SBT_logo.svg.png" group-title="Live Events",SBT (Brazil)
-http://79.127.243.211:14095/
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CazeTV (1) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (1) (Brazil)
-http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CazeTV (2) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (2) (Brazil)
-http://201.151.118.136:1234/stream/mundial2026/cazetvop2/master.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CazeTV (3) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (3) (Brazil)
-http://201.151.118.136:1234/stream/mundial2026/cazetvop3/master.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TSN 1 (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TSN_Logo_2015.svg/1200px-TSN_Logo_2015.svg.png" group-title="Live Events",TSN 1 (Canada)
-http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TSN 4 (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TSN_Logo_2015.svg/1200px-TSN_Logo_2015.svg.png" group-title="Live Events",TSN 4 (Canada)
-http://85.237.89.160:9590/usa-s/TSN4/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CTV (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CTV_logo_2018.svg/1200px-CTV_logo_2018.svg.png" group-title="Live Events",CTV (Canada)
-http://stream.cammonitorplus.net/1712/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CTV 2 (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CTV_Two_logo.svg/1200px-CTV_Two_logo.svg.png" group-title="Live Events",CTV 2 (Canada)
-http://stream.cammonitorplus.net/1731/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Chilevision (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chilevisi%C3%B3n_Logo_2018.svg/1200px-Chilevisi%C3%B3n_Logo_2018.svg.png" group-title="Live Events",Chilevision (Chile)
-http://190.95.11.223:8000/play/066
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Caracol TV (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Live Events",Caracol TV (Colombia)
-http://181.118.151.218:8000/play/a08k
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="RCN (Colombia)" group-title="Live Events",RCN (Colombia)
-http://181.118.151.218:8000/play/a01c
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Win Sports (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Win_Sports_Logo.svg/1200px-Win_Sports_Logo.svg.png" group-title="Live Events",Win Sports (Colombia)
-http://181.118.151.218:8000/play/a02u
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Teletica (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Teletica_2015.png/479px-Logo_Teletica_2015.png" group-title="Live Events",Teletica (Costa Rica)
-http://45.228.233.60:8000/play/a01i
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Costa Rica)
-http://186.151.95.60:8000/play/a071
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX+ (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX+ (Costa Rica)
-http://45.5.116.228:8000/play/a07l
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Teleamazonas (Ecuador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_Teleamazonas.svg/1200px-Logo_Teleamazonas.svg.png" group-title="Live Events",Teleamazonas (Ecuador)
-http://45.185.163.75:8000/play/a00s
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 4 TCS (El Salvador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Canal_4_El_Salvador.png/640px-Canal_4_El_Salvador.png" group-title="Live Events",Canal 4 TCS (El Salvador)
-http://190.61.114.186:8000/play/a03o
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX (El Salvador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (El Salvador)
-http://187.245.231.227:8000/play/a0vc
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="La 1 (Spain)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/La_1_pantalla_2008.svg/1200px-La_1_pantalla_2008.svg.png" group-title="Live Events",La 1 (Spain)
-http://213.97.163.175:4022/udp/239.10.20.5:1234
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX 13 Salt Lake City UT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/KSTU_Fox_13_logo.svg/1200px-KSTU_Fox_13_logo.svg.png" group-title="Live Events",FOX 13 Salt Lake City UT (United States)
-https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="WPGH Fox 53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/WPGH_Fox_53_logo.svg/1200px-WPGH_Fox_53_logo.svg.png" group-title="Live Events",WPGH Fox 53 (United States)
-http://164.52.224.212:5004/auto/v53.1
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (United States)
-http://stream.cammonitorplus.net/1752/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FS1 (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Live Events",FS1 (United States)
-http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo Miami (United States)
-http://132.255.210.69:9000/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Telemundo 20 Utah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo 20 Utah (United States)
-https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Telemundo (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo (United States)
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Telexitos (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TeleXitos_logo.svg/1200px-TeleXitos_logo.svg.png" group-title="Live Events",Telexitos (United States)
-http://190.197.41.183/TELEXITOS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 3 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_3_Guatemala.png/640px-Canal_3_Guatemala.png" group-title="Live Events",Canal 3 (Guatemala)
-http://190.83.9.222:8000/play/ca102
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 7 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal_7_Guatemala.png" group-title="Live Events",Canal 7 (Guatemala)
-http://179.60.224.196:8000/play/a0ij
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 11 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Canal_11_Guatemala.png" group-title="Live Events",Canal 11 (Guatemala)
-http://190.83.9.222:8000/play/ca104
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 13 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Canal_13_Guatemala.png" group-title="Live Events",Canal 13 (Guatemala)
-http://190.83.9.222:8000/play/ca105
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Tigo Sports (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="Live Events",Tigo Sports (Guatemala)
-http://179.60.224.196:8000/play/a0i0
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Guatemala)
-http://187.245.231.227:8000/play/a0ve
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Telecadena 4/7 (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Telecadena_7_y_4_logo.png/640px-Telecadena_7_y_4_logo.png" group-title="Live Events",Telecadena 4/7 (Honduras)
-http://177.10.184.193:8000/play/a05e
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TSi (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/TSi_Honduras.png" group-title="Live Events",TSi (Honduras)
-http://177.10.184.193:8000/play/a0fk
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 5 El Lider (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_5_Honduras_logo.png" group-title="Live Events",Canal 5 El Lider (Honduras)
-https://transcoder.metronethn.com/CANAL5_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Honduras)
-http://187.245.231.227:8000/play/a0va
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Tigo Sports (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="Live Events",Tigo Sports (Honduras)
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Rai 1 HD (Italy)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rai_1_logo_%282016%29.svg/1200px-Rai_1_logo_%282016%29.svg.png" group-title="Live Events",Rai 1 HD (Italy)
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Fuji TV (Japan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fuji_Television_logo_horizontal.svg/1200px-Fuji_Television_logo_horizontal.svg.png" group-title="Live Events",Fuji TV (Primehome) (Japan)
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="NHK G HD (Japan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NHK_Logo.svg/1200px-NHK_Logo.svg.png" group-title="Live Events",NHK G HD (Japan)
-https://nhk4.mov3.co/hls/nhk.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Las Estrellas (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Las_Estrellas_logo.svg/1200px-Las_Estrellas_logo.svg.png" group-title="Live Events",Las Estrellas (Mexico)
-http://187.249.120.128:8888/play/a0le
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 5 (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Canal_5_Televisa_logo.svg/1200px-Canal_5_Televisa_logo.svg.png" group-title="Live Events",Canal 5 (Mexico)
-http://38.194.226.190:8000/play/a02e
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Azteca 7 (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Azteca_7_logo_%282018%29.svg/1200px-Azteca_7_logo_%282018%29.svg.png" group-title="Live Events",Azteca 7 (Mexico)
-http://38.65.175.86:8000/play/a0la
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Azteca Deportes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Azteca_Deportes.png" group-title="Live Events",Azteca Deportes Network (Mexico)
-http://38.194.226.190:8000/play/a02r
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="NU9VE (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_Nu9ve_logo.svg/1200px-El_Nu9ve_logo.svg.png" group-title="Live Events",NU9VE (Mexico)
-http://45.167.253.246:8010/play/a00f
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TUDN (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Live Events",TUDN (Mexico)
-http://45.171.64.30:2000/play/a08j
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 10 (Nicaragua)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Canal_10_Nicaragua.png" group-title="Live Events",Canal 10 (Nicaragua)
-http://177.10.184.193:8000/play/a0g5
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="FOX (Nicaragua)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Nicaragua)
-http://187.245.231.227:8000/play/a0v9
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="NPO 1 (Netherlands)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png" group-title="Live Events",NPO 1 (Netherlands)
-http://83.85.109.250:9981/stream/channelid/1376429938?profile=pass
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Trece (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Trece_Paraguay_logo.svg/1200px-Trece_Paraguay_logo.svg.png" group-title="Live Events",Trece (Paraguay)
-http://200.85.51.158:64333/play/a049
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="GEN (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/SomosGEN.png" group-title="Live Events",GEN (Paraguay)
-http://200.85.51.158:64333/play/a001
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Unicanal (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Unicanal_Logo_2017.png/640px-Unicanal_Logo_2017.png" group-title="Live Events",Unicanal (Paraguay)
-http://200.85.51.158:64333/play/a04a
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="POPU TV (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Popu_TV_logo.png" group-title="Live Events",POPU TV (Paraguay)
-http://190.93.229.30:8000/play/a0be
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="America Television (Peru)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.svg.png" group-title="Live Events",America Television (Peru)
-http://45.5.57.58:8000/play/a05r
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Telemundo (Puerto Rico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo (Puerto Rico)
-http://doubleclicktv.live/live/Jessica123/Jessica123/688578.m3u8
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CDN 37 (Dominican Republic)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CDN_37_logo.png" group-title="Live Events",CDN 37 (Dominican Republic)
-http://186.33.24.156:8000/play/a0i7
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CDN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/CDN_Deportes.png" group-title="Live Events",CDN Deportes (Dominican Republic)
-http://186.33.24.156:8000/play/a0i6
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TRT1 HD (Turkey)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo_2021.svg/1200px-TRT_1_logo_2021.svg.png" group-title="Live Events",TRT1 HD (Turkey)
-http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TRT Sport HD (Turkey)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TRT_Spor_logo_2021.svg/1200px-TRT_Spor_logo_2021.svg.png" group-title="Live Events",TRT Sport HD (Turkey)
-http://176.65.146.171:9981/stream/channelid/835819132?profile=htsp
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Canal 5 Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Uruguay_2021.png" group-title="Live Events",Canal 5 Uruguay (Uruguay)
-https://tinyurl.com/canal5uy
-
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="Televen (Venezuela)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Televen_logo.svg/1200px-Televen_logo.svg.png" group-title="Live Events",Televen (Venezuela)
-http://38.188.48.83:8000/play/a0lk
-
-#EXTINF:-1 tvg-chno="8" tvg-id="TUDN.Mex" tvg-name="[Mundial 2026] En Vivo: TUDN México | ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/TUDN_logo.svg" group-title="Live Events",[Mundial 2026] En Vivo: TUDN México | ESPAÑOL
-http://45.171.64.30:2000/play/a08j
-#EXTINF:-1 tvg-chno="39" tvg-id="[SPOARHD].DSports.Argentina.HD.uy" tvg-name="DIRECTV Sports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DIRECTV Sports
-http://201.230.121.85:8000/play/dssporthd/index.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="[SPOPLH].DSports.+.HD.uy" tvg-name="DIRECTV Sports +" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DIRECTV Sports +
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="TV",BBC One
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV",BBC America
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="Bioscope Sports" tvg-name="Bioscope Live Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Bioscope%2B_logo.png" group-title="Sports;Football;Live Events",Bioscope Sports Live
-https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="TV",ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="TV",ESPN News
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
-#EXTINF:-1 tvg-chno="50" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="TV",ESPN U
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026 4K
-http://103.114.11.37:8081/FIFAPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="TV",Big Ten Network
-http://23.237.104.106:8080/USA_BTN/index.m3u
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026 4K
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://cdn-tt.pages.dev/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://cdn-tt.pages.dev/ch2.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
-http://23.237.104.106:8080/USA_ACCN/mpegts
-#EXTINF:-1 tvg-chno="5" tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="TV",Altitude Sports
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-http://198.195.239.50:8095/unt-s/video.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 202
-http://66.102.126.10:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 tvg-logo/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="TVRI sport" tvg-name="TVRI sport" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",TVRI sport
-http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Btv
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TNS 1" tvg-name="TNS 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",TNS 1
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-#EXTINF:-1 tvg-id="TNS 2" tvg-name="TNS 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",TNS 2
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
-#EXTINF:-1 tvg-id="Somoy" tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Somoy
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-id="Unite 8 Sports 1 HD" tvg-name="Unite 8 Sports 1 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Unite 8 Sports 1 HD
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-id="Unite 8 Sports 2 HD" tvg-name="Unite 8 Sports 2 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Unite 8 Sports 2 HD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1 tvg-id="TVP Sports" tvg-name="TVP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",TVP Sports
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 tvg-id="Bein_Sports_1 720p" tvg-name="Bein Sports 1 720p" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Bein Sports 1 720p
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1 UHD" tvg-name="beIN SPORTS 1 UHD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",beIN SPORTS 1 UHD
-https://player.viloud.tv/embed/play?url=https:%2F%2Fataide0.elugohome.com%2Fbein1.m3u8
-#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",M6
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1 tvg-id="WIN_Sports" tvg-name="WIN Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",WIN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",FOX
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",FS1
-http://fastshare1.com:8080/live/931461266/374152877/751354.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 tvg-id="S Football" tvg-name="S Football" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",S Football
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",T Sports HD
-https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",PTV 4K
-http://starhub.pro/live/farhat-3379/67897-913379/89.ts
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",DAZN 1
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="ESPN S1" tvg-name="ESPN S1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",ESPN S1
-https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
-#EXTINF:-1 tvg-id="ESPN S2" tvg-name="ESPN S2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",ESPN S2
-http://186.33.40.97:8789/play/20
-#EXTINF:-1 tvg-id="D Sports" tvg-name="D Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1 tvg-id="Tudn Sports" tvg-name="Tudn Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Tudn Sports
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" tvg-name="A SPOR" group-title="Football",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Football",Bein Sports 1🎯
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-name="Crazy Ex" group-title="Sports",Crazy Ex
-https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
-#EXTINF:-1 tvg-name="Crazy Ex" group-title="Live Tv",Crazy_ex
-https://nomawnoijl.gpcdn.net/akash/crazy_ex/chunks.m3u8
-#EXTINF:-1 tvg-name="DD Sports" group-title="Cricket 🏏",DD SPORTS
+#EXTINF:-1 tvg-name="DD Sports" group-title="Cricket 🏏",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
-#EXTINF:-1 tvg-name="DD Sports" group-title="Sports",DD Sports 2.0
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-name="FIFA+" group-title="Football",FIFA+
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="Fighters" group-title="Live Tv",Fighter
-https://nomawnoijl.gpcdn.net/akash/fighter/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" tvg-name="Fighters" group-title="Sports",Fighters
-https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
-#EXTINF:-1 tvg-name="Flash Guys" group-title="Live Tv",Flash Guys
-https://nomawnoijl.gpcdn.net/akash/flashguys/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" tvg-name="Flash Guys" group-title="Sports",Flash Guys HD
-https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX Sports" group-title="Sport",FOX Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Sport",Fox Sports 1
-https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Fubo Sports Network" group-title="Sport",Fubo Sports Network (1080p) [Geo-blocked]
-https://lnc-fubo.tubi.video/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://encrypted mtbs 0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" tvg-name="Live Sports" group-title="Live Sports",Live Sports
-https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-name="Motor Vision" group-title="Cricket 🏏",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:-1 tvg-name="MuxIP-SportsFirst TV" group-title="Football",MuxIP-SportsFirst TV🎯
-https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
-#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Football",Real Madrid tv Football
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" group-title="Cricket 🏏",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-1.jpg" tvg-name="Skynet Sports 1" group-title="Uncategorized",Skynet Sports 1
-http://172.32.1.88:1935/tvprogram/SKY-NET-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" tvg-name="Skynet Sports 2" group-title="Uncategorized",Skynet Sports 2
-http://172.32.1.88:1935/tvprogram/SKY-NET-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" tvg-name="Skynet Sports 6" group-title="Uncategorized",Skynet Sports 6
-http://172.32.1.88:1935/tvprogram/SKY-NET-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" tvg-name="Skynet Sports HD" group-title="Uncategorized",Skynet Sports HD
-http://172.32.1.88:1935/tvprogram/SKY-NET-HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-six-hd.jpg" tvg-name="SONY SIX" group-title="Uncategorized",SONY SIX
-http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png" tvg-name="Sony Sports Ten 3 HD" group-title="Sports",Sony Sports Ten 3 HD
-http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png" tvg-name="Sony Sports Ten 5" group-title="Sports",Sony Sports Ten 5
-http://103.99.249.139/sonyten3/index.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" tvg-name="SONY TEN 1 HD" group-title="Uncategorized",SONY TEN 1 HD
-http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" tvg-name="SONY TEN 2 HD" group-title="Uncategorized",SONY TEN 2 HD
-http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" tvg-name="SONY TEN 3" group-title="Uncategorized",SONY TEN 3
-http://172.32.1.88:1935/tvprogram/TEN3HD/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports Range" group-title="Live Tv",sportrange
-https://nomawnoijl.gpcdn.net/akash/sportrange/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" tvg-name="Sports Range" group-title="Sports",Sports Range
-https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sports-18-hd1-fifa-2022.jpg" tvg-name="SPORTS 18 HD (FIFA-22)" group-title="Uncategorized",SPORTS 18 HD (FIFA-22)
-https://stream.sunplex.live/SPORTS-18/index.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" tvg-name="Sports Legends" group-title="Sports",Sports Legends
-https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
-#EXTINF:-1 tvg-name="Sports Legends" group-title="Live Tv",Sports Legends
-https://nomawnoijl.gpcdn.net/akash/sportslegends/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" tvg-name="Star Sports 1 HD" group-title="Sports",Star Sports 1 HD
-http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" tvg-name="Star Sports 1 HD" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Football",Bein Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-name="FIFA+" group-title="Football",FIFA+
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="MuxIP-SportsFirst TV" group-title="Football",MuxIP-SportsFirst TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
+#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Football",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
+https://cdn-tt.pages.dev/ch2.m3u8
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="Football World Cup 2026" group-title="Football World Cup 2026",Football World Cup 2026
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="ESPN1 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="International - Sports",ESPN1 (Latin America)
+http://38.19.41.143:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-name="ESPN2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="International - Sports",ESPN2 (Latin America)
+http://38.19.41.143:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-name="ESPN3 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN3.png" group-title="International - Sports",ESPN3 (Latin America)
+http://38.19.41.143:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-name="ESPN S2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",ESPN S2
+http://186.33.40.97:8789/play/20
+#EXTINF:-1 tvg-name="PTV 4K" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",PTV 4K
+http://starhub.pro/live/farhat-3379/67897-913379/89.ts
+#EXTINF:-1 tvg-name="S Football" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",S Football
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Somoy
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="TNS 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",TNS 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+#EXTINF:-1 tvg-name="TNS 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",TNS 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-name="Unite 8 Sports 1 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",Unite 8 Sports 1 HD
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 tvg-name="America Television (Peru)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.svg.png" group-title="Live Events",America Television (Peru)
+http://45.5.57.58:8000/play/a05r
+#EXTINF:-1 tvg-name="Azteca 7 (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Azteca_7_logo_%282018%29.svg/1200px-Azteca_7_logo_%282018%29.svg.png" group-title="Live Events",Azteca 7 (Mexico)
+http://38.65.175.86:8000/play/a0la
+#EXTINF:-1 tvg-name="CDN 37 (Dominican Republic)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CDN_37_logo.png" group-title="Live Events",CDN 37 (Dominican Republic)
+http://186.33.24.156:8000/play/a0i7
+#EXTINF:-1 tvg-name="CDN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/CDN_Deportes.png" group-title="Live Events",CDN Deportes
+http://186.33.24.156:8000/play/a0i6
+#EXTINF:-1 tvg-name="CTV (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CTV_logo_2018.svg/1200px-CTV_logo_2018.svg.png" group-title="Live Events",CTV (Canada)
+http://stream.cammonitorplus.net/1712/index.m3u8
+#EXTINF:-1 tvg-name="CTV 2 (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CTV_Two_logo.svg/1200px-CTV_Two_logo.svg.png" group-title="Live Events",CTV 2 (Canada)
+http://stream.cammonitorplus.net/1731/index.m3u8
+#EXTINF:-1 tvg-name="Canal 10 (Nicaragua)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Canal_10_Nicaragua.png" group-title="Live Events",Canal 10 (Nicaragua)
+http://177.10.184.193:8000/play/a0g5
+#EXTINF:-1 tvg-name="Canal 11 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Canal_11_Guatemala.png" group-title="Live Events",Canal 11 (Guatemala)
+http://190.83.9.222:8000/play/ca104
+#EXTINF:-1 tvg-name="Canal 13 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Canal_13_Guatemala.png" group-title="Live Events",Canal 13 (Guatemala)
+http://190.83.9.222:8000/play/ca105
+#EXTINF:-1 tvg-name="Canal 3 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_3_Guatemala.png/640px-Canal_3_Guatemala.png" group-title="Live Events",Canal 3 (Guatemala)
+http://190.83.9.222:8000/play/ca102
+#EXTINF:-1 tvg-name="Canal 4 TCS (El Salvador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Canal_4_El_Salvador.png/640px-Canal_4_El_Salvador.png" group-title="Live Events",Canal 4 TCS (El Salvador)
+http://190.61.114.186:8000/play/a03o
+#EXTINF:-1 tvg-name="Canal 5 El Lider (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_5_Honduras_logo.png" group-title="Live Events",Canal 5 El Lider (Honduras)
+https://transcoder.metronethn.com/CANAL5_HD/index.m3u8
+#EXTINF:-1 tvg-name="Canal 5 Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Uruguay_2021.png" group-title="Live Events",Canal 5 Uruguay
+https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-name="Canal 7 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal_7_Guatemala.png" group-title="Live Events",Canal 7 (Guatemala)
+http://179.60.224.196:8000/play/a0ij
+#EXTINF:-1 tvg-name="Caracol TV (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Live Events",Caracol TV (Colombia)
+http://181.118.151.218:8000/play/a08k
+#EXTINF:-1 tvg-name="CazeTV (1) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (1) (Brazil)
+http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8
+#EXTINF:-1 tvg-name="CazeTV (2) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (2) (Brazil)
+http://201.151.118.136:1234/stream/mundial2026/cazetvop2/master.m3u8
+#EXTINF:-1 tvg-name="CazeTV (3) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (3) (Brazil)
+http://201.151.118.136:1234/stream/mundial2026/cazetvop3/master.m3u8
+#EXTINF:-1 tvg-name="Chilevision (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chilevisi%C3%B3n_Logo_2018.svg/1200px-Chilevisi%C3%B3n_Logo_2018.svg.png" group-title="Live Events",Chilevision (Chile)
+http://190.95.11.223:8000/play/066
+#EXTINF:-1 tvg-name="DSports (South America)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports (South America)
+http://45.5.57.58:8000/play/a07p
+#EXTINF:-1 tvg-name="DSports +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports +
+http://38.252.215.33:8000/play/a01l
+#EXTINF:-1 tvg-name="DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports 2
+http://190.7.19.197:232/play/a09h
+#EXTINF:-1 tvg-name="DSports Venezuela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/DirecTV_Sports_logo.png" group-title="Live Events",DSports Venezuela
+http://200.115.120.1:8000/play/ca109
+#EXTINF:-1 tvg-name="FIFA TV (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/1024px-FIFA_logo_without_slogan.svg.png" group-title="Live Events",FIFA TV (Extra)
+http://190.181.61.93:8000/play/a00w
+#EXTINF:-1 tvg-name="FOX (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Costa Rica)
+http://186.151.95.60:8000/play/a071
+#EXTINF:-1 tvg-name="FOX (El Salvador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (El Salvador)
+http://187.245.231.227:8000/play/a0vc
+#EXTINF:-1 tvg-name="FOX (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Guatemala)
+http://187.245.231.227:8000/play/a0ve
+#EXTINF:-1 tvg-name="FOX (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Honduras)
+http://187.245.231.227:8000/play/a0va
+#EXTINF:-1 tvg-name="FOX (Nicaragua)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (Nicaragua)
+http://187.245.231.227:8000/play/a0v9
+#EXTINF:-1 tvg-name="FOX (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX (United States)
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-name="FOX 13 Salt Lake City UT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/KSTU_Fox_13_logo.svg/1200px-KSTU_Fox_13_logo.svg.png" group-title="Live Events",FOX 13 Salt Lake City UT
+https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
+#EXTINF:-1 tvg-name="FOX World Cup (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX World Cup (Extra)
+http://200.35.176.154:8000/play/a066
+#EXTINF:-1 tvg-name="FOX+ (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fox_Broadcasting_Company_logo.svg/1280px-Fox_Broadcasting_Company_logo.svg.png" group-title="Live Events",FOX+ (Costa Rica)
+http://45.5.116.228:8000/play/a07l
+#EXTINF:-1 tvg-name="FS1 (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Live Events",FS1 (United States)
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
+#EXTINF:-1 tvg-name="Fuji TV (Japan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fuji_Television_logo_horizontal.svg/1200px-Fuji_Television_logo_horizontal.svg.png" group-title="Live Events",Fuji TV (Japan)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="GEN (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/SomosGEN.png" group-title="Live Events",GEN (Paraguay)
+http://200.85.51.158:64333/play/a001
+#EXTINF:-1 tvg-name="Ge TV (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/GE_GloboEsporte_logo.png" group-title="Live Events",Ge TV (Brazil)
+http://45.185.11.126:8000/play/a08v
+#EXTINF:-1 tvg-name="La 1 (Spain)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/La_1_pantalla_2008.svg/1200px-La_1_pantalla_2008.svg.png" group-title="Live Events",La 1 (Spain)
+http://213.97.163.175:4022/udp/239.10.20.5:1234
+#EXTINF:-1 tvg-name="N Sports (Brazil)" tvg-logo="https://nsports.com.br/assets/images/logo-nsports.png" group-title="Live Events",N Sports (Brazil)
+http://189.75.129.27:8000/play/a007
+#EXTINF:-1 tvg-name="NHK G HD (Japan)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NHK_Logo.svg/1200px-NHK_Logo.svg.png" group-title="Live Events",NHK G HD (Japan)
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="NPO 1 (Netherlands)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png" group-title="Live Events",NPO 1 (Netherlands)
+http://83.85.109.250:9981/stream/channelid/1376429938?profile=pass
+#EXTINF:-1 tvg-name="NU9VE (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_Nu9ve_logo.svg/1200px-El_Nu9ve_logo.svg.png" group-title="Live Events",NU9VE (Mexico)
+http://45.167.253.246:8010/play/a00f
+#EXTINF:-1 tvg-name="POPU TV (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Popu_TV_logo.png" group-title="Live Events",POPU TV (Paraguay)
+http://190.93.229.30:8000/play/a0be
+#EXTINF:-1 tvg-name="RCN (Colombia)" group-title="Live Events",RCN (Colombia)
+http://181.118.151.218:8000/play/a01c
+#EXTINF:-1 tvg-name="Rai 1 HD (Italy)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rai_1_logo_%282016%29.svg/1200px-Rai_1_logo_%282016%29.svg.png" group-title="Live Events",Rai 1 HD (Italy)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Red Uno LPZ HD (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Red_Uno_logo.png/640px-Red_Uno_logo.png" group-title="Live Events",Red Uno LPZ HD (Bolivia)
+http://190.181.61.93:8000/play/a003
+#EXTINF:-1 tvg-name="Red Uno SCZ (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Red_Uno_logo.png/640px-Red_Uno_logo.png" group-title="Live Events",Red Uno SCZ (Bolivia)
+http://190.181.61.93:8000/play/a002
+#EXTINF:-1 tvg-name="SBT (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBT_logo.svg/1200px-SBT_logo.svg.png" group-title="Live Events",SBT (Brazil)
+http://79.127.243.211:14095/
+#EXTINF:-1 tvg-name="SporTV (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SporTV_logo_2021.svg/1200px-SporTV_logo_2021.svg.png" group-title="Live Events",SporTV (Brazil)
+http://189.76.78.2:8000/play/4511145
+#EXTINF:-1 tvg-name="SporTV 2 (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SporTV_logo_2021.svg/1200px-SporTV_logo_2021.svg.png" group-title="Live Events",SporTV 2 (Brazil)
+http://189.75.129.27:8000/play/a01a
+#EXTINF:-1 tvg-name="SporTV 4K (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SporTV_logo_2021.svg/1200px-SporTV_logo_2021.svg.png" group-title="Live Events",SporTV 4K (Brazil)
+http://45.185.11.126:8000/play/a06f
+#EXTINF:-1 tvg-name="TRT Sport HD (Turkey)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TRT_Spor_logo_2021.svg/1200px-TRT_Spor_logo_2021.svg.png" group-title="Live Events",TRT Sport HD (Turkey)
+http://176.65.146.171:9981/stream/channelid/835819132?profile=htsp
+#EXTINF:-1 tvg-name="TRT1 HD (Turkey)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TRT_1_logo_2021.svg/1200px-TRT_1_logo_2021.svg.png" group-title="Live Events",TRT1 HD (Turkey)
+http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
+#EXTINF:-1 tvg-name="TSN 1 (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TSN_Logo_2015.svg/1200px-TSN_Logo_2015.svg.png" group-title="Live Events",TSN 1 (Canada)
+http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
+#EXTINF:-1 tvg-name="TSN 4 (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TSN_Logo_2015.svg/1200px-TSN_Logo_2015.svg.png" group-title="Live Events",TSN 4 (Canada)
+http://85.237.89.160:9590/usa-s/TSN4/index.m3u8
+#EXTINF:-1 tvg-name="TSi (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/TSi_Honduras.png" group-title="Live Events",TSi (Honduras)
+http://177.10.184.193:8000/play/a0fk
+#EXTINF:-1 tvg-name="TUDN (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Live Events",TUDN (Mexico)
+http://45.171.64.30:2000/play/a08j
+#EXTINF:-1 tvg-name="TV Globo (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_da_TV_Globo_%282021%29.svg/1024px-Logotipo_da_TV_Globo_%282021%29.svg.png" group-title="Live Events",TV Globo (Brazil)
+http://189.75.129.27:8000/play/a016
+#EXTINF:-1 tvg-name="TV Globo Minas (Brazil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_da_TV_Globo_%282021%29.svg/1024px-Logotipo_da_TV_Globo_%282021%29.svg.png" group-title="Live Events",TV Globo Minas (Brazil)
+http://189.76.78.2:8000/play/66345448
+#EXTINF:-1 tvg-name="Teleamazonas (Ecuador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_Teleamazonas.svg/1200px-Logo_Teleamazonas.svg.png" group-title="Live Events",Teleamazonas (Ecuador)
+http://45.185.163.75:8000/play/a00s
+#EXTINF:-1 tvg-name="Telecadena 4/7 (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Telecadena_7_y_4_logo.png/640px-Telecadena_7_y_4_logo.png" group-title="Live Events",Telecadena 4/7 (Honduras)
+http://177.10.184.193:8000/play/a05e
+#EXTINF:-1 tvg-name="Telemundo (Puerto Rico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo (Puerto Rico)
+http://doubleclicktv.live/live/Jessica123/Jessica123/688578.m3u8
+#EXTINF:-1 tvg-name="Telemundo (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo (United States)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+#EXTINF:-1 tvg-name="Telemundo 20 Utah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo 20 Utah
+https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
+#EXTINF:-1 tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Telemundo_2018_logo.svg/1200px-Telemundo_2018_logo.svg.png" group-title="Live Events",Telemundo Miami
+http://132.255.210.69:9000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-name="Teletica (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Teletica_2015.png/479px-Logo_Teletica_2015.png" group-title="Live Events",Teletica (Costa Rica)
+http://45.228.233.60:8000/play/a01i
+#EXTINF:-1 tvg-name="Televen (Venezuela)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Televen_logo.svg/1200px-Televen_logo.svg.png" group-title="Live Events",Televen (Venezuela)
+http://38.188.48.83:8000/play/a0lk
+#EXTINF:-1 tvg-name="Telexitos (United States)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TeleXitos_logo.svg/1200px-TeleXitos_logo.svg.png" group-title="Live Events",Telexitos (United States)
+http://190.197.41.183/TELEXITOS/playlist.m3u8
+#EXTINF:-1 tvg-name="Tigo Sports (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="Live Events",Tigo Sports (Guatemala)
+http://179.60.224.196:8000/play/a0i0
+#EXTINF:-1 tvg-name="Tigo Sports (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="Live Events",Tigo Sports (Honduras)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:-1 tvg-name="Trece (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Trece_Paraguay_logo.svg/1200px-Trece_Paraguay_logo.svg.png" group-title="Live Events",Trece (Paraguay)
+http://200.85.51.158:64333/play/a049
+#EXTINF:-1 tvg-name="TyC Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TyC_Sports_Logo_2019.svg/1200px-TyC_Sports_Logo_2019.svg.png" group-title="Live Events",TyC Sports 2 (Argentina)
+http://200.91.32.158:8080/tyc2hd/index.m3u8
+#EXTINF:-1 tvg-name="Unicanal (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Unicanal_Logo_2017.png/640px-Unicanal_Logo_2017.png" group-title="Live Events",Unicanal (Paraguay)
+http://200.85.51.158:64333/play/a04a
+#EXTINF:-1 tvg-name="Unitel CBBA 13.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel CBBA 13.1 (Bolivia)
+http://190.181.61.93:8000/play/a00u
+#EXTINF:-1 tvg-name="Unitel LPZ (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel LPZ (Bolivia)
+http://190.181.61.93:8000/play/a00n
+#EXTINF:-1 tvg-name="Unitel LPZ 2.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel LPZ 2.1 (Bolivia)
+http://190.181.61.93:8000/play/a00t
+#EXTINF:-1 tvg-name="Unitel SCZ 9.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/2/29/Logo_de_Unitel.png" group-title="Live Events",Unitel SCZ 9.1 (Bolivia)
+http://190.181.61.93:8000/play/901
+#EXTINF:-1 tvg-name="Win Sports (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Win_Sports_Logo.svg/1200px-Win_Sports_Logo.svg.png" group-title="Live Events",Win Sports (Colombia)
+http://181.118.151.218:8000/play/a02u
+#EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://encrypted mtbs 0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
+https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/tsports.png" group-title="News & Sports",T Sports HD
+http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
+#EXTINF:-1 tvg-name="FOX Sports" group-title="Sport",FOX Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="DD Sports" group-title="Sports",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" tvg-name="Star Sports 2 HD Hindi" group-title="Sports",Star Sports 2 HD Hindi
-http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" tvg-name="Thunder Er" group-title="Sports",Thunder Er
-https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
-#EXTINF:-1 tvg-name="Thunder Er" group-title="Live Tv",Thunder Er
-https://nomawnoijl.gpcdn.net/akash/thunder/chunks.m3u8
+#EXTINF:-1 tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
+#EXTINF:-1 tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="TV",Altitude Sports
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/332892.ts
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="DIRECTV Sports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109752_light_360w_270h.png" group-title="TV",DIRECTV Sports
+http://201.230.121.85:8000/play/dssporthd/index.m3u8
+#EXTINF:-1 tvg-name="DIRECTV Sports +" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_white_360w_270h.png" group-title="TV",DIRECTV Sports +
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="TV",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="TV",ESPN News
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
+#EXTINF:-1 tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ACCNetwork.png" group-title="USA - Sports",ACC Network
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/9273.ts
+#EXTINF:-1 tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/BTN.png" group-title="USA - Sports",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsHQ.png" group-title="USA - Sports",CBS Sports HQ
+https://jmp2.uk/stvp-USBB4800005VO
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsNetwork.png" group-title="USA - Sports",CBS Sports Network
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/10454.ts
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="USA - Sports",ESPN
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/14197.ts
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="USA - Sports",ESPN2
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/2210.ts
+#EXTINF:-1 tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPNU.png" group-title="USA - Sports",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-name="FS1 (FOX Sports 1)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/FS1.png" group-title="USA - Sports",FS1 (FOX Sports 1)
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/1846.ts
+#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/MLBNetwork.png" group-title="USA - Sports",MLB Network
+http://206.212.244.63/6147/index.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NBATV.png" group-title="USA - Sports",NBA TV
+http://kstv.us:8080/live/Mondomatt/7892703068/22501.ts
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NFLNetwork.png" group-title="USA - Sports",NFL Network
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/83724.ts
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NHLNetwork.png" group-title="USA - Sports",NHL Network
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/253636.ts
+#EXTINF:-1 tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SECNetwork.png" group-title="USA - Sports",SEC Network
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/17608.ts
+#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SportsGrid.png" group-title="USA - Sports",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
