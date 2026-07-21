@@ -82,13 +82,12 @@ http://189.75.129.27:8000/play/a007
 http://79.127.243.211:14095/
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CazeTV (1) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (1) (Brazil)
-http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8
-
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CazeTV (2) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (2) (Brazil)
 http://201.151.118.136:1234/stream/mundial2026/cazetvop2/master.m3u8
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="CazeTV (3) (Brazil)" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Live Events",CazeTV (3) (Brazil)
-http://201.151.118.136:1234/stream/mundial2026/cazetvop3/master.m3u8
+http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8
 
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="TSN 1 (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TSN_Logo_2015.svg/1200px-TSN_Logo_2015.svg.png" group-title="Live Events",TSN 1 (Canada)
 http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
