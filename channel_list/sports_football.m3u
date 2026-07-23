@@ -50,11 +50,11 @@ http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-name="Football World Cup 2026" group-title="Football World Cup 2026",Football World Cup 2026
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="ESPN1 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="International - Sports",ESPN1 (Latin America)
+#EXTINF:-1 tvg-name="ESPN1 (Latin America)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="International - Sports",ESPN1 (Latin America)
 http://38.19.41.143:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-name="ESPN2 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="International - Sports",ESPN2 (Latin America)
+#EXTINF:-1 tvg-name="ESPN2 (Latin America)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="International - Sports",ESPN2 (Latin America)
 http://38.19.41.143:8000/play/a04q/index.m3u8
-#EXTINF:-1 tvg-name="ESPN3 (Latin America)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN3.png" group-title="International - Sports",ESPN3 (Latin America)
+#EXTINF:-1 tvg-name="ESPN3 (Latin America)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png.png" group-title="International - Sports",ESPN3 (Latin America)
 http://38.19.41.143:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-name="ESPN S2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Live Event",ESPN S2
 http://186.33.40.97:8789/play/20
@@ -230,13 +230,13 @@ http://190.181.61.93:8000/play/901
 http://181.118.151.218:8000/play/a02u
 #EXTINF:-1 tvg-name="Live Sports" tvg-logo="https://encrypted mtbs 0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/tsports.png" group-title="News & Sports",T Sports HD
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="News & Sports",T Sports HD
 http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
 #EXTINF:-1 tvg-name="FOX Sports" group-title="Sport",FOX Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="DD Sports" group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1280px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
@@ -256,31 +256,30 @@ http://41.205.93.154/ESPN/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3640.ts
 #EXTINF:-1 tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21590.ts
-#EXTINF:-1 tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ACCNetwork.png" group-title="USA - Sports",ACC Network
+#EXTINF:-1 tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1280px-ACC_Network_ESPN_logo.svg.png" group-title="USA - Sports",ACC Network
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/9273.ts
-#EXTINF:-1 tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/BTN.png" group-title="USA - Sports",Big Ten Network
+#EXTINF:-1 tvg-name="Big Ten Network" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="USA - Sports",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsHQ.png" group-title="USA - Sports",CBS Sports HQ
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CBS_Sports_HQ_2021_%28Stacked%29.svg/revision/latest?cb=20210629162058" group-title="USA - Sports",CBS Sports HQ
 https://jmp2.uk/stvp-USBB4800005VO
-#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CBSSportsNetwork.png" group-title="USA - Sports",CBS Sports Network
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/CBS_Sports_Network_2021_%28Blue%29.svg" group-title="USA - Sports",CBS Sports Network
 http://fortv.cc:8080/live/parks@prudent.com/0314@8162/10454.ts
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN.png" group-title="USA - Sports",ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="USA - Sports",ESPN
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/14197.ts
-#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPN2.png" group-title="USA - Sports",ESPN2
+#EXTINF:-1 tvg-name="ESPN2" tvg-logo="https://images.seeklogo.com/logo-png/30/1/espn-2-logo-png_seeklogo-301758.png" group-title="USA - Sports",ESPN2
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/2210.ts
-#EXTINF:-1 tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ESPNU.png" group-title="USA - Sports",ESPNU
+#EXTINF:-1 tvg-name="ESPNU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/ESPNU_%28Horizontal%29.svg/revision/latest?cb=20230928233052" group-title="USA - Sports",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-name="FS1 (FOX Sports 1)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/FS1.png" group-title="USA - Sports",FS1 (FOX Sports 1)
+#EXTINF:-1 tvg-name="FS1 (FOX Sports 1)" tvg-logo="#EXTINF:-1 tvg-name="MLB Network" tvg-logohttps://w7.pngwing.com/pngs/634/692/png-transparent-fox-sports-2-fox-sports-networks-television-channel-fox-sports-1-fs-television-blue-angle-thumbnail.png" group-title="USA - Sports",MLB Network" group-title="USA - Sports",FS1 (FOX Sports 1)
 http://fortv.cc:8080/live/parks@prudent.com/0314@8162/1846.ts
-#EXTINF:-1 tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/MLBNetwork.png" group-title="USA - Sports",MLB Network
 http://206.212.244.63/6147/index.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NBATV.png" group-title="USA - Sports",NBA TV
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.pngaaa.com/566/233566-middle.png" group-title="USA - Sports",NBA TV
 http://kstv.us:8080/live/Mondomatt/7892703068/22501.ts
-#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NFLNetwork.png" group-title="USA - Sports",NFL Network
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://w7.pngwing.com/pngs/367/175/png-transparent-nfl-preseason-nfl-network-television-logo-bet-television-text-trademark.png" group-title="USA - Sports",NFL Network
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/83724.ts
-#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/NHLNetwork.png" group-title="USA - Sports",NHL Network
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/NHL_Network_2012.svg" group-title="USA - Sports",NHL Network
 http://fortv.cc:8080/live/parks@prudent.com/0314@8162/253636.ts
-#EXTINF:-1 tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SECNetwork.png" group-title="USA - Sports",SEC Network
+#EXTINF:-1 tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SEC_Network_logo.svg" group-title="USA - Sports",SEC Network
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/17608.ts
-#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/SportsGrid.png" group-title="USA - Sports",SportsGrid
+#EXTINF:-1 tvg-name="SportsGrid" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/11/sports-grid.jpg.jpeg" group-title="USA - Sports",SportsGrid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
