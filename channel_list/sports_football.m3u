@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports Networks",Sky Sports Premier League
+https://xemzi.short.gy/2000002
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sports Networks",Sky Sports Main Event
+https://xemzi.short.gy/2000001
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sports Networks",Sky Sports Football
+https://xemzi.short.gy/2000003
+#EXTINF:-1 tvg-name="Sky Sports F1/Sky Sports Darts" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports Networks",Sky Sports F1/Sky Sports Darts
+https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-name="Sky Sports Action/Sky Sports NFL" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sports Networks",Sky Sports Action/Sky Sports NFL
+https://xemzi.short.gy/2000011
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sports Networks",Sky Sports Mix
+https://xemzi.short.gy/2000008
+#EXTINF:-1 tvg-name="Sky Sports+" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sports Networks",Sky Sports+
+https://xemzi.short.gy/2000012
+#EXTINF:-1 tvg-name="Sky Sports Racing" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="Sports Networks",Sky Sports Racing
+https://xemzi.short.gy/2000010
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sports Networks",Sky Sports Cricket
+https://xemzi.short.gy/2000006
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sports Networks",Sky Sports Golf
+https://xemzi.short.gy/2000009
+#EXTINF:-1 tvg-name="TNT Sports Ultimate" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Sports Networks",TNT Sports Ultimate
+https://xemzi.short.gy/2000031
 #EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Canada - Sports",TSN 1
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57292.ts
 #EXTINF:-1 tvg-name="DD Sports" group-title="Cricket 🏏",DD Sports
