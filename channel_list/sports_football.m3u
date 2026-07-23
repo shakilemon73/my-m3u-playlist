@@ -24,21 +24,21 @@ https://xemzi.short.gy/2000009
 https://xemzi.short.gy/2000031
 #EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Canada - Sports",TSN 1
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57292.ts
-#EXTINF:-1 tvg-name="DD Sports" group-title="Cricket 🏏",DD Sports
+#EXTINF:-1 tvg-name="DD Sports" tvg-logo="https://banner2.cleanpng.com/20180603/eoe/avoobo7tw.webp" group-title="Cricket 🏏",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
-#EXTINF:-1 tvg-name="Motor Vision" group-title="Cricket 🏏",Motor Vision
+#EXTINF:-1 tvg-name="Motor Vision" tvg-logo="https://images.seeklogo.com/logo-png/50/2/motorvision-logo-png_seeklogo-507976.png" group-title="Sports",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:-1 tvg-name="Redbull TV" group-title="Cricket 🏏",Redbull TV
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
+#EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://www.vhv.rs/dpng/d/381-3819577_a-spor-live-parsa-tv-msnbc-logo-image.png" group-title="Football",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Football",Bein Sports 1
+#EXTINF:-1 tvg-name="Bein Sports Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Football",Bein Sports 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-name="FIFA+" group-title="Football",FIFA+
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png" group-title="Football",FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="MuxIP-SportsFirst TV" group-title="Football",MuxIP-SportsFirst TV
+#EXTINF:-1 tvg-name="SportsFirst TV" tvg-logo="https://image.pitchbook.com/2E1RM3WzaEcT5YmKMAWNAqbofGE1730895344297_200x200" group-title="Football",MuxIP-SportsFirst TV
 https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
-#EXTINF:-1 tvg-name="Real Madrid TV" group-title="Football",Real Madrid TV
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" group-title="Football",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 https://cdn-tt.pages.dev/ch1.m3u8
@@ -48,7 +48,7 @@ https://cdn-tt.pages.dev/ch2.m3u8
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
 #EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 tvg-name="Football World Cup 2026" group-title="Football World Cup 2026",Football World Cup 2026
+#EXTINF:-1 tvg-name="Football World Cup 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="ESPN1 (Latin America)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="International - Sports",ESPN1 (Latin America)
 http://38.19.41.143:8000/play/a04r/index.m3u8
