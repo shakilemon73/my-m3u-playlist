@@ -1,22 +1,22 @@
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",PTV
+#EXTINF:-1  tvg-logo="https://p7.hiclipart.com/preview/13/246/396/logo-ptv-sports-television-channel-pakistan-cricket.jpg",PTV
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Willow Sports
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20241011098963/en/2269728/22/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1280px-Star_Sports_1_HD.png",Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Star Sports 2
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/580754d3f297cb205707bb3a/1565806895477/61086ad65aa32aaf7fa609fef4dc5404.jpg",Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",A Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",beIN sports Xtra HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",FIFA Live
+#EXTINF:-1  tvg-logo="https://icon2.cleanpng.com/lnd/20241221/yw/d489a74f4b2683e53c280a8b60d22b.webp",FIFA Live
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports 1 Max Arabic
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",Bein Sports 1 Max Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.png",Bein Sports
+#EXTINF:-1  tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugyzsAFseJ8_uMMCd67_ONBj29vT7w_J6RkZZfKEsR7OxIVyIx0aRfDbD&s=10",Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",beIN sports 5 English
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Eq16lJbirPJYEtPR9xsgH3qxwCCVlC4Nah0Ns8bhVg&s=10",beIN sports 5 English
 https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" group-title="Cricket 🏏",A Sports HD 🇵🇰
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
