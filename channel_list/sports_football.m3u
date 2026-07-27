@@ -1,5 +1,255 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-name="FS1 (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 (Estados Unidos)
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
+
+#EXTINF:-1 tvg-name="Win Sports (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Win_Sports_logo.svg/512px-Win_Sports_logo.svg.png" group-title="Football",Win Sports (Colombia)
+http://181.118.151.218:8000/play/a02u
+
+#EXTINF:-1 tvg-name="DSports (Sudamérica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DSports_logo.svg/512px-DSports_logo.svg.png" group-title="Sports",DSports (Sudamérica)
+http://190.119.176.186:8000/play/a098
+
+#EXTINF:-1 tvg-name="DSports 2 (Sudamérica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DSports_logo.svg/512px-DSports_logo.svg.png" group-title="Sports",DSports 2 (Sudamérica)
+http://190.7.19.197:232/play/a09h
+
+#EXTINF:-1 tvg-name="DSports + (Sudamérica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DSports_logo.svg/512px-DSports_logo.svg.png" group-title="Sports",DSports + (Sudamérica)
+http://38.224.175.2:8000/play/a011
+
+#EXTINF:-1 tvg-name="DSports Venezuela (Sudamérica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DSports_logo.svg/512px-DSports_logo.svg.png" group-title="Sports",DSports Venezuela (Sudamérica)
+http://200.115.120.1:8000/play/ca109
+
+#EXTINF:-1 tvg-name="TyC Sports (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports (Argentina)
+http://190.7.19.197:232/play/a04w
+
+#EXTINF:-1 tvg-name="TyC Sports 2 (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports 2 (Argentina)
+http://200.91.32.158:8080/tyc2hd/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDN (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/TUDN_logo.svg/512px-TUDN_logo.svg.png" group-title="Football",TUDN (México)
+http://45.171.64.30:2000/play/a08j
+
+#EXTINF:-1 tvg-name="TSN 1 (Canadá)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN_logo.svg/512px-TSN_logo.svg.png" group-title="Sports",TSN 1 (Canadá)
+http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN 4 (Canadá)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN_logo.svg/512px-TSN_logo.svg.png" group-title="Sports",TSN 4 (Canadá)
+http://85.237.89.160:9590/usa-s/TSN4/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/SporTV_logo_2021.svg/512px-SporTV_logo_2021.svg.png" group-title="Sports",SporTV (Brasil)
+http://189.76.78.2:8000/play/4511145
+
+#EXTINF:-1 tvg-name="SporTV 2 (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/SporTV_logo_2021.svg/512px-SporTV_logo_2021.svg.png" group-title="Sports",SporTV 2 (Brasil)
+http://189.75.129.27:8000/play/a01a
+
+#EXTINF:-1 tvg-name="SporTV 4K (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/SporTV_logo_2021.svg/512px-SporTV_logo_2021.svg.png" group-title="Sports",SporTV 4K (Brasil)
+http://45.185.11.126:8000/play/a06f
+
+#EXTINF:-1 tvg-name="N Sports (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NSports_logo.svg/512px-NSports_logo.svg.png" group-title="Sports",N Sports (Brasil)
+http://189.75.129.27:8000/play/a007
+
+#EXTINF:-1 tvg-name="Ge TV (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Globo_Esporte_logo.svg/512px-Globo_Esporte_logo.svg.png" group-title="Sports",Ge TV (Brasil)
+http://45.185.11.126:8000/play/a08v
+
+#EXTINF:-1 tvg-name="Tigo Sports (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Sports",Tigo Sports (Guatemala)
+http://179.60.224.196:8000/play/a0i0
+
+#EXTINF:-1 tvg-name="Tigo Sports (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Sports",Tigo Sports (Honduras)
+http://38.188.186.47:4000/play/a018
+
+#EXTINF:-1 tvg-name="CDN Deportes (República Dominicana)" tvg-logo="https://cdn.cdn.com.do/wp-content/uploads/2018/06/cdn-deportes-logo.png" group-title="Sports",CDN Deportes (República Dominicana)
+http://167.249.23.67:8000/play/a01r
+
+#EXTINF:-1 tvg-name="Match TV (Rusia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Match_TV_logo.svg/512px-Match_TV_logo.svg.png" group-title="Sports",Match TV (Rusia)
+http://tv.tuva.ru/machtv/index.m3u8
+
+#EXTINF:-1 tvg-name="Qazsport (Kazajistán)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Qazsport_logo.svg/512px-Qazsport_logo.svg.png" group-title="Sports",Qazsport (Kazajistán)
+http://stream.mcquack.net/72/index.m3u8
+
+#EXTINF:-1 tvg-name="FIFA TV (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/FIFA_logo.svg/512px-FIFA_logo.svg.png" group-title="Football",FIFA TV (Extra)
+http://190.181.61.93:8000/play/a00w
+
+#EXTINF:-1 tvg-name="FOX Mundial (Extra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fox_Sports_logo.svg/512px-Fox_Sports_logo.svg.png" group-title="Football",FOX Mundial (Extra)
+http://200.35.176.154:8000/play/a066
+
+
+# --- GENERAL CHANNELS ---
+
+#EXTINF:-1 tvg-name="CTV (Canadá)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CTV_Logo_2018.svg/512px-CTV_Logo_2018.svg.png" group-title="General",CTV (Canadá)
+http://stream.cammonitorplus.net/1712/index.m3u8
+
+#EXTINF:-1 tvg-name="CTV 2 (Canadá)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CTV_2_logo.svg/512px-CTV_2_logo.svg.png" group-title="General",CTV 2 (Canadá)
+http://stream.cammonitorplus.net/1731/index.m3u8
+
+#EXTINF:-1 tvg-name="RCN (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RCN_Television_logo.svg/512px-RCN_Television_logo.svg.png" group-title="General",RCN (Colombia)
+http://181.118.151.218:8000/play/a01c
+
+#EXTINF:-1 tvg-name="Caracol TV (Colombia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="General",Caracol TV (Colombia)
+http://181.118.151.218:8000/play/a08k
+
+#EXTINF:-1 tvg-name="Chilevisión (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Chilevisi%C3%B3n_2018.svg/512px-Chilevisi%C3%B3n_2018.svg.png" group-title="General",Chilevisión (Chile)
+http://190.95.11.223:8000/play/066
+
+#EXTINF:-1 tvg-name="Teleamazonas (Ecuador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Teleamazonas_logo.svg/512px-Teleamazonas_logo.svg.png" group-title="General",Teleamazonas (Ecuador)
+http://45.185.163.75:8000/play/a00s
+
+#EXTINF:-1 tvg-name="FOX+ (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FOX_Plus_logo.svg/512px-FOX_Plus_logo.svg.png" group-title="General",FOX+ (Costa Rica)
+http://45.5.116.228:8000/play/a07l
+
+#EXTINF:-1 tvg-name="FOX (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fox_Channel_logo.svg/512px-Fox_Channel_logo.svg.png" group-title="General",FOX (Costa Rica)
+http://186.151.95.60:8000/play/a071
+
+#EXTINF:-1 tvg-name="Teletica (Costa Rica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Teletica_logo.svg/512px-Teletica_logo.svg.png" group-title="General",Teletica (Costa Rica)
+http://45.228.233.60:8000/play/a01i
+
+#EXTINF:-1 tvg-name="Canal 4 TCS (El Salvador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Canal_4_El_Salvador.svg/512px-Canal_4_El_Salvador.svg.png" group-title="General",Canal 4 TCS (El Salvador)
+http://190.61.114.186:8000/play/a03o
+
+#EXTINF:-1 tvg-name="FOX (El Salvador)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fox_Channel_logo.svg/512px-Fox_Channel_logo.svg.png" group-title="General",FOX (El Salvador)
+http://187.245.231.227:8000/play/a0vc
+
+#EXTINF:-1 tvg-name="Canal 3 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal_3_Guatemala_logo.svg/512px-Canal_3_Guatemala_logo.svg.png" group-title="General",Canal 3 (Guatemala)
+http://190.83.9.222:8000/play/ca102
+
+#EXTINF:-1 tvg-name="Canal 7 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Canal_7_Guatemala.svg/512px-Canal_7_Guatemala.svg.png" group-title="General",Canal 7 (Guatemala)
+http://179.60.224.196:8000/play/a0ij
+
+#EXTINF:-1 tvg-name="Canal 11 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Canal_11_Guatemala.svg/512px-Canal_11_Guatemala.svg.png" group-title="General",Canal 11 (Guatemala)
+http://190.83.9.222:8000/play/ca104
+
+#EXTINF:-1 tvg-name="Canal 13 (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Canal_13_Guatemala.svg/512px-Canal_13_Guatemala.svg.png" group-title="General",Canal 13 (Guatemala)
+http://190.83.9.222:8000/play/ca105
+
+#EXTINF:-1 tvg-name="FOX (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fox_Channel_logo.svg/512px-Fox_Channel_logo.svg.png" group-title="General",FOX (Guatemala)
+http://187.245.231.227:8000/play/a0ve
+
+#EXTINF:-1 tvg-name="TSi (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TSi_Honduras_logo.svg/512px-TSi_Honduras_logo.svg.png" group-title="General",TSi (Honduras)
+http://200.115.96.66:4000/play/a00a
+
+#EXTINF:-1 tvg-name="Telecadena 7/4 (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telecadena_7-4_logo.svg/512px-Telecadena_7-4_logo.svg.png" group-title="General",Telecadena 4/7 (Honduras)
+http://200.115.96.66:4000/play/a002
+
+#EXTINF:-1 tvg-name="Canal 5 El Líder (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canal_5_Honduras.svg/512px-Canal_5_Honduras.svg.png" group-title="General",Canal 5 El Líder (Honduras)
+https://transcoder.metronethn.com/CANAL5_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX (Honduras)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fox_Channel_logo.svg/512px-Fox_Channel_logo.svg.png" group-title="General",FOX (Honduras)
+http://187.245.231.227:8000/play/a0va
+
+#EXTINF:-1 tvg-name="Fuji TV (Primehome) (Japón)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fuji_TV_logo.svg/512px-Fuji_TV_logo.svg.png" group-title="General",Fuji TV (Primehome) (Japón)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-name="NTV (Japón)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nippon_TV_logo.svg/512px-Nippon_TV_logo.svg.png" group-title="General",NTV (Japón)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772996&sign=9646a534ad6906c18eb09c5322f156f80622179c0ca0f69da4d4ba2850ad7838
+
+#EXTINF:-1 tvg-name="NHK G HD (Japón)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/NHK_General_TV_logo.svg/512px-NHK_General_TV_logo.svg.png" group-title="General",NHK G HD (Japón)
+https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-name="NU9VE (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nu9ve_logo.svg/512px-Nu9ve_logo.svg.png" group-title="General",NU9VE (México)
+http://45.167.253.246:8010/play/a00f
+
+#EXTINF:-1 tvg-name="Azteca 7 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Azteca_7_logo.svg/512px-Azteca_7_logo.svg.png" group-title="General",Azteca 7 (México)
+http://38.65.175.86:8000/play/a0la
+
+#EXTINF:-1 tvg-name="Las Estrellas (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Las_Estrellas_logo.svg/512px-Las_Estrellas_logo.svg.png" group-title="General",Las Estrellas (México)
+http://38.65.175.86:8000/play/a0le
+
+#EXTINF:-1 tvg-name="América Televisión (Perú)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Am%C3%A9rica_Televisi%C3%B3n_logo.svg/512px-Am%C3%A9rica_Televisi%C3%B3n_logo.svg.png" group-title="General",América Televisión (Perú)
+http://45.5.57.58:8000/play/a05r
+
+#EXTINF:-1 tvg-name="GEN (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/GEN_Paraguay_logo.svg/512px-GEN_Paraguay_logo.svg.png" group-title="General",GEN (Paraguay)
+http://200.85.51.158:64333/play/a001
+
+#EXTINF:-1 tvg-name="Trece (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Trece_Paraguay_logo.svg/512px-Trece_Paraguay_logo.svg.png" group-title="General",Trece (Paraguay)
+http://200.85.51.158:64333/play/a049
+
+#EXTINF:-1 tvg-name="POPU TV (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Popular_TV_Paraguay.png/512px-Popular_TV_Paraguay.png" group-title="General",POPU TV (Paraguay)
+http://190.93.229.30:8000/play/a0be
+
+#EXTINF:-1 tvg-name="Unicanal (Paraguay)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Unicanal_logo.svg/512px-Unicanal_logo.svg.png" group-title="General",Unicanal (Paraguay)
+http://200.85.51.158:64333/play/a04a
+
+#EXTINF:-1 tvg-name="Telemundo (Puerto Rico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Telemundo_logo.svg/512px-Telemundo_logo.svg.png" group-title="General",Telemundo (Puerto Rico)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-name="BBC One (Reino Unido)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/BBC_One_logo.svg/512px-BBC_One_logo.svg.png" group-title="General",BBC One (Reino Unido)
+http://doubleclicktv.live/live/Jessica123/Jessica123/276755.ts
+
+#EXTINF:-1 tvg-name="La 1 (España)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/La_1_TVE_logo.svg/512px-La_1_TVE_logo.svg.png" group-title="General",La 1 (España)
+http://213.97.163.175:4022/udp/239.10.20.5:1234
+
+#EXTINF:-1 tvg-name="SBT (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SBT_logo.svg/512px-SBT_logo.svg.png" group-title="General",SBT (Brasil)
+http://79.127.243.211:14095/
+
+#EXTINF:-1 tvg-name="TV Globo (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TV_Globo_logo_2021.svg/512px-TV_Globo_logo_2021.svg.png" group-title="General",TV Globo (Brasil)
+http://189.75.129.27:8000/play/a016
+
+#EXTINF:-1 tvg-name="TV Globo Minas (Brasil)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TV_Globo_logo_2021.svg/512px-TV_Globo_logo_2021.svg.png" group-title="General",TV Globo Minas (Brasil)
+http://189.76.78.2:8000/play/66345448
+
+#EXTINF:-1 tvg-name="FOX (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fox_Broadcasting_Company_logo.svg/512px-Fox_Broadcasting_Company_logo.svg.png" group-title="General",FOX (Estados Unidos)
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo Miami (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Telemundo_logo.svg/512px-Telemundo_logo.svg.png" group-title="General",Telemundo Miami (Estados Unidos)
+http://132.255.210.69:9000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo 20 Utah (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Telemundo_logo.svg/512px-Telemundo_logo.svg.png" group-title="General",Telemundo 20 Utah (Estados Unidos)
+https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
+
+#EXTINF:-1 tvg-name="FOX 13 Salt Lake City UT (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fox_Broadcasting_Company_logo.svg/512px-Fox_Broadcasting_Company_logo.svg.png" group-title="General",FOX 13 Salt Lake City UT (Estados Unidos)
+https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
+
+#EXTINF:-1 tvg-name="Telexitos (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TeleXitos_logo.svg/512px-TeleXitos_logo.svg.png" group-title="General",Telexitos (Estados Unidos)
+http://190.197.41.183/TELEXITOS/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Telemundo_logo.svg/512px-Telemundo_logo.svg.png" group-title="General",Telemundo (Estados Unidos)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
+
+#EXTINF:-1 tvg-name="Unitel LPZ (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unitel_Bolivia_logo.svg/512px-Unitel_Bolivia_logo.svg.png" group-title="General",Unitel LPZ (Bolivia)
+http://190.181.61.93:8000/play/a00n
+
+#EXTINF:-1 tvg-name="Unitel LPZ 2.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unitel_Bolivia_logo.svg/512px-Unitel_Bolivia_logo.svg.png" group-title="General",Unitel LPZ 2.1 (Bolivia)
+http://190.181.61.93:8000/play/a00t
+
+#EXTINF:-1 tvg-name="Unitel CBBA 13.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unitel_Bolivia_logo.svg/512px-Unitel_Bolivia_logo.svg.png" group-title="General",Unitel CBBA 13.1 (Bolivia)
+http://190.181.61.93:8000/play/a00u
+
+#EXTINF:-1 tvg-name="Unitel SCZ 9.1 (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unitel_Bolivia_logo.svg/512px-Unitel_Bolivia_logo.svg.png" group-title="General",Unitel SCZ 9.1 (Bolivia)
+http://190.181.61.93:8000/play/901
+
+#EXTINF:-1 tvg-name="Red Uno SCZ (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Red_Uno_de_Bolivia_logo.svg/512px-Red_Uno_de_Bolivia_logo.svg.png" group-title="General",Red Uno SCZ (Bolivia)
+http://190.181.61.93:8000/play/a002
+
+#EXTINF:-1 tvg-name="Red Uno LPZ HD (Bolivia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Red_Uno_de_Bolivia_logo.svg/512px-Red_Uno_de_Bolivia_logo.svg.png" group-title="General",Red Uno LPZ HD (Bolivia)
+http://190.181.61.93:8000/play/a003
+
+#EXTINF:-1 tvg-name="TV Pública (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TV_P%C3%BAblica_Argentina_2020.svg/512px-TV_P%C3%BAblica_Argentina_2020.svg.png" group-title="General",TV Pública (Argentina)
+http://190.7.19.197:232/play/a03c
+
+#EXTINF:-1 tvg-name="Telefe Interior (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Telefe_logo.svg/512px-Telefe_logo.svg.png" group-title="General",Telefe Interior (Argentina)
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Satelital (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Telefe_logo.svg/512px-Telefe_logo.svg.png" group-title="General",Telefe Satelital (Argentina)
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Buenos Aires (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Telefe_logo.svg/512px-Telefe_logo.svg.png" group-title="General",Telefe Buenos Aires (Argentina)
+http://190.7.19.197:232/play/a059
+
+#EXTINF:-1 tvg-name="CuarentaTV (Argentina)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/40TV_logo.svg/512px-40TV_logo.svg.png" group-title="General",CuarentaTV (Argentina)
+https://stream.xlmedia.lat/live/c67es/cuarentaTV/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="FOX (Nicaragua)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fox_Channel_logo.svg/512px-Fox_Channel_logo.svg.png" group-title="General",FOX (Nicaragua)
+http://187.245.231.227:8000/play/a0v9
+
+#EXTINF:-1 tvg-name="Canal 10 (Nicaragua)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_Nicaragua.svg/512px-Canal_10_Nicaragua.svg.png" group-title="General",Canal 10 (Nicaragua)
+http://177.10.184.193:8000/play/a0g5
+
+#EXTINF:-1 tvg-name="CDN 37 (República Dominicana)" tvg-logo="https://cdn.cdn.com.do/wp-content/uploads/2018/06/cdn-37-logo.png" group-title="General",CDN 37 (República Dominicana)
+http://167.249.23.67:8000/play/a02q
+
+#EXTINF:-1 tvg-name="Rai 1 (Italia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rai_1_logo_2016.svg/512px-Rai_1_logo_2016.svg.png" group-title="General",Rai 1 (Italia)
+https://mynettv.duckdns.org/stream/channelid/749089377?profile=pass
+
+#EXTINF:-1 tvg-name="Rai 1 4K (Italia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rai_1_logo_2016.svg/512px-Rai_1_logo_2016.svg.png" group-title="General",Rai 1 4K (Italia)
+https://mynettv.duckdns.org/stream/channelid/1539667822?profile=pass
+
+#EXTINF:-1 tvg-name="M6 (Francia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/M6_logo.svg/512px-M6_logo.svg.png" group-title="General",M6 (Francia)
+http://149.18.45.187/live/9429887059/7598860521/161.ts
 #EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports Networks",Sky Sports Premier League
 https://xemzi.short.gy/2000002
 #EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sports Networks",Sky Sports Main Event
