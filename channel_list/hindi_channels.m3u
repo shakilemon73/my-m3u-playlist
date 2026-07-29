@@ -1,3 +1,4 @@
 #EXTM3U x-tvg-url="" group-title="Hindi Channels" playlist-name="Hindi Channels"
 #EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Channels" tvg-description="Star Plus HD is a leading Hindi general entertainment channel broadcasting top Indian TV dramas, soap operas, and reality shows in high definition.",Star Plus HD
+http://202.70.146.135:8000/play/a009/index.m3u8
 http://5dtv.cc:8080/live/gagan/1234/66208.m3u8
