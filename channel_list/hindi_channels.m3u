@@ -1,3 +1,460 @@
 #EXTM3U x-tvg-url="" group-title="Hindi Channels" playlist-name="Hindi Channels"
 #EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi Channels" tvg-description="Star Plus HD is a leading Hindi general entertainment channel broadcasting top Indian TV dramas, soap operas, and reality shows in high definition.",Star Plus HD
 http://5dtv.cc:8080/live/gagan/1234/66208.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony SET (TATAPLAY)" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Hindi Channels",IN | Sony SET (TATAPLAY)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221251.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Hindi Channels",IN | Star Plus FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66208.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Bharat" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Hindi Channels",IN | Star Bharat
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221255.m3u8
+
+#EXTINF:-1 tvg-name="IN: STAR UTSAV" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="Hindi Channels",IN: STAR UTSAV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112977.m3u8
+
+#EXTINF:-1 tvg-name="IN | Zee TV [FHD]" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Hindi Channels",IN | Zee TV [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66163.m3u8
+
+#EXTINF:-1 tvg-name="IN | Colors Rishtey" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="Hindi Channels",IN | Colors Rishtey
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66188.m3u8
+
+#EXTINF:-1 tvg-name="IN: SONY SAB [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hindi Channels",IN: SONY SAB [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104194.m3u8
+
+#EXTINF:-1 tvg-name="IN: Color Cineplex SuperHits" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Hindi Channels",IN: Color Cineplex SuperHits
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66199.m3u8
+
+#EXTINF:-1 tvg-name="IN: Dangal" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/fe1331a5-f411-46a5-a24c-3af5172a60dc/2558617115/dangal-tv-live-series-hints-logo" group-title="Hindi Channels",IN: Dangal
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/355655.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Sab" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Hindi Channels",IN | Sony Sab
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221256.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Sab HD" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Hindi Channels",IN | Sony Sab HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66174.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Sab UK*" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Hindi Channels",IN | Sony Sab UK*
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66175.m3u8
+
+#EXTINF:-1 tvg-name="IN | &Tv" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Hindi Channels",IN | &Tv
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221253.m3u8
+
+#EXTINF:-1 tvg-name="IN | &Tv HD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Hindi Channels",IN | &Tv HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66172.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Bharat HD" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Hindi Channels",IN | Star Bharat HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66170.m3u8
+
+#EXTINF:-1 tvg-name="IN | ZEE ACTION" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Hindi Channels",IN | ZEE ACTION
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66191.m3u8
+
+#EXTINF:-1 tvg-name="IND: BIG MAGIC" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="Hindi Channels",IND: BIG MAGIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104198.m3u8
+
+#EXTINF:-1 tvg-name="IND: B4U Kadak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="Hindi Channels",IND: B4U Kadak
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104199.m3u8
+
+#EXTINF:-1 tvg-name="IN | Zee Anmol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="Hindi Channels",IN | Zee Anmol
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66357.m3u8
+
+#EXTINF:-1 tvg-name="IN: DD National" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Hindi Channels",IN: DD National
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112975.m3u8
+
+#EXTINF:-1 tvg-name="IN: ZEE TV CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="Hindi Channels",IN: ZEE TV CANADA
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112976.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Wah" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="Hindi Channels",IN | Sony Wah
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112979.m3u8
+
+#EXTINF:-1 tvg-name="IND: Dabangg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Dabangg-TV_logo.jpg" group-title="Hindi Channels",IND: Dabangg
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206270.m3u8
+
+#EXTINF:-1 tvg-name="IN | ZEE AFLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="Hindi Channels",IN | ZEE AFLAM
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206277.m3u8
+
+#EXTINF:-1 tvg-name="IN: ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="Hindi Channels",IN: ZEE Bollywood
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/207200.m3u8
+
+#EXTINF:-1 tvg-name="IND: MANORANJAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="Hindi Channels",IND: MANORANJAN TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104203.m3u8
+
+#EXTINF:-1 tvg-name="IND: DHAMAAL TV*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Hindi Channels",IND: DHAMAAL TV*
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112978.m3u8
+
+#EXTINF:-1 tvg-name="IND: Bhojpuri_Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png" group-title="Hindi Channels",IND: Bhojpuri_Cinema
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/269091.m3u8
+
+#EXTINF:-1 tvg-name="IND: BBO CLASSIC" group-title="Hindi Channels",IND: BBO CLASSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/308228.m3u8
+
+#EXTINF:-1 tvg-name="IN: Dangal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Dangal-2.jpg" group-title="Hindi Channels",IN: Dangal 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/356002.m3u8
+
+#EXTINF:-1 tvg-name="IN | BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Hindi Channels",IN | BBO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66277.m3u8
+
+#EXTINF:-1 tvg-name="IN: Manoranjan Grand" tvg-logo="http://b1g.fun/logos2/manoranjan_grand.jpg" group-title="Hindi Channels",IN: Manoranjan Grand
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/355999.m3u8
+
+#EXTINF:-1 tvg-name="IN: B4U Bhojpuri" group-title="Hindi Channels",IN: B4U Bhojpuri
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/355988.m3u8
+
+#EXTINF:-1 tvg-name="IN: Shemaroo TV" tvg-logo="http://b1g.fun/logos2/shemarootv.jpg" group-title="Hindi Channels",IN: Shemaroo TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/355809.m3u8
+
+#EXTINF:-1 tvg-name="IN: Colors Infinity FHD" group-title="Hindi Channels",IN: Colors Infinity FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/355571.m3u8
+
+#EXTINF:-1 tvg-name="IN | Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Hindi Channels",IN | Zee TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221250.m3u8
+
+#EXTINF:-1 tvg-name="IN | Colors [FHD]" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Hindi Channels",IN | Colors [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66168.m3u8
+
+#EXTINF:-1 tvg-name="IN | &Tv [FHD]" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Hindi Channels",IN | &Tv [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66173.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Pal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_pal.jpg" group-title="Hindi Channels",IN | Sony Pal
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104192.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Hindi Channels",IN | Star Plus
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221252.m3u8
+
+#EXTINF:-1 tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Hindi Channels",IN | Zee TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66162.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony SET HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Hindi Channels",IN | Sony SET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66164.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony SET [FHD]" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Hindi Channels",IN | Sony SET [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66165.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Plus HD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Hindi Channels",IN | Star Plus HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66166.m3u8
+
+#EXTINF:-1 tvg-name="IN | Colors" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Hindi Channels",IN | Colors
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221254.m3u8
+
+#EXTINF:-1 tvg-name="IN | Colors HD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Hindi Channels",IN | Colors HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66167.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Bharat [FHD]" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Hindi Channels",IN | Star Bharat [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66171.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="IN: |UK| ZEE CINEMA UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Channels",IN: |UK| ZEE CINEMA UK
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112970.m3u8
+
+#EXTINF:-1 tvg-name="IN: GEM BOLLYWOOD" group-title="Hindi Channels",IN: GEM BOLLYWOOD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112986.m3u8
+
+#EXTINF:-1 tvg-name="IND: ENTER 10 Movies" tvg-logo="http://b1g.fun/logos2/enterr10_movies.jpg" group-title="Hindi Channels",IND: ENTER 10 Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104202.m3u8
+
+#EXTINF:-1 tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Hindi Channels",IN | Zee Anmol Cinema
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66187.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Hindi Channels",IN | Star Gold Select
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221257.m3u8
+
+#EXTINF:-1 tvg-name="IND: DHINCHAAK" tvg-logo="http://b1g.fun/logos2/dhinchaak2.jpg" group-title="Hindi Channels",IND: DHINCHAAK
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/374980.m3u8
+
+#EXTINF:-1 tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Channels",IND: Zee Cinema USA
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206268.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Gold Select FHD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Hindi Channels",IN | Star Gold Select FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66176.m3u8
+
+#EXTINF:-1 tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Channels",IN | & Pictures [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66183.m3u8
+
+#EXTINF:-1 tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="Hindi Channels",IN: Dhamaka Movies B4U
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66184.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Hindi Channels",IN | Sony Max (TATAPLAY)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221259.m3u8
+
+#EXTINF:-1 tvg-name="IN | ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" group-title="Hindi Channels",IN | ZEE CLASSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66201.m3u8
+
+#EXTINF:-1 tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Channels",IN: COLORS CINEPLEX FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206310.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Hindi Channels",IN | Sony Max HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66179.m3u8
+
+#EXTINF:-1 tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Hindi Channels",IN | SONY MAX 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66189.m3u8
+
+#EXTINF:-1 tvg-name="IND: ABZY MOVIES" tvg-logo="http://b1g.fun/logos2/abzy_movies.jpg" group-title="Hindi Channels",IND: ABZY MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104200.m3u8
+
+#EXTINF:-1 tvg-name="IND: B4U Movies" group-title="Hindi Channels",IND: B4U Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104201.m3u8
+
+#EXTINF:-1 tvg-name="IN | Evergreeen Classic" tvg-logo="http://b1g.fun/logos2/evergreen_classicsactive.jpg" group-title="Hindi Channels",IN | Evergreeen Classic
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/384600.m3u8
+
+#EXTINF:-1 tvg-name="IND: MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="Hindi Channels",IND: MANORANJAN MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104204.m3u8
+
+#EXTINF:-1 tvg-name="IN | Maha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="Hindi Channels",IN | Maha Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104206.m3u8
+
+#EXTINF:-1 tvg-name="IN: WOW CINEMA ONE" tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="Hindi Channels",IN: WOW CINEMA ONE
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/106132.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Hindi Channels",IN | Star Gold HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66177.m3u8
+
+#EXTINF:-1 tvg-name="IND: Colors Cineplex Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Colors-Cineplex-Bollywood.png" group-title="Hindi Channels",IND: Colors Cineplex Bollywood
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112983.m3u8
+
+#EXTINF:-1 tvg-name="IN: MBC BOLLYWOOD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Hindi Channels",IN: MBC BOLLYWOOD*
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112984.m3u8
+
+#EXTINF:-1 tvg-name="IND: Zee Cinema SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Channels",IND: Zee Cinema SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206271.m3u8
+
+#EXTINF:-1 tvg-name="IN: MOVIES ACTIVE FHD" tvg-logo="https://www.dishtv.in/Images/Active-Services/CineActivelogo.png" group-title="Hindi Channels",IN: MOVIES ACTIVE FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206276.m3u8
+
+#EXTINF:-1 tvg-name="IN: STAR UTSAV MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20170820185540" group-title="Hindi Channels",IN: STAR UTSAV MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112971.m3u8
+
+#EXTINF:-1 tvg-name="IND: GOLDMINES MOVIES" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESbhojpuri.jpg" group-title="Hindi Channels",IND: GOLDMINES MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/275337.m3u8
+
+#EXTINF:-1 tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="Hindi Channels",IN | STAR GOLD THRILLS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221258.m3u8
+
+#EXTINF:-1 tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Hindi Channels",IN | Sony Max [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66180.m3u8
+
+#EXTINF:-1 tvg-name="IN: Bflix Movies" tvg-logo="https://b1g.fun/logos2/b_flix.jpg" group-title="Hindi Channels",IN: Bflix Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104190.m3u8
+
+#EXTINF:-1 tvg-name="IN: GOLDMINES BOLLYWOOD" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" group-title="Hindi Channels",IN: GOLDMINES BOLLYWOOD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112973.m3u8
+
+#EXTINF:-1 tvg-name="IN: GOLDMINES" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" group-title="Hindi Channels",IN: GOLDMINES
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112972.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Hindi Channels",IN | Star Gold [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66178.m3u8
+
+#EXTINF:-1 tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="Hindi Channels",IND: Star Gold 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/106133.m3u8
+
+#EXTINF:-1 tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Hindi Channels",IN: STAR GOLD HD (TATASKY)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/112982.m3u8
+
+#EXTINF:-1 tvg-name="IN | & Pictures SD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Channels",IN | & Pictures SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221260.m3u8
+
+#EXTINF:-1 tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Channels",IN | & Pictures HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66181.m3u8
+
+#EXTINF:-1 tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Channels",IN | ZEE CINEMA FHD (TATASKY)
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/221261.m3u8
+
+#EXTINF:-1 tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Channels",IN | ZEE CINEMA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206307.m3u8
+
+#EXTINF:-1 tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Channels",IN | ZEE CINEMA [FHD]
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/206308.m3u8
+
+#EXTINF:-1 tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="Hindi Channels",IN: Oscar Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66185.m3u8
+
+#EXTINF:-1 tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="Hindi Channels",IN: STAR GOLD ROMANCE
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/66186.m3u8
+
+#EXTINF:-1 tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Channels",IN: COLORS CINEPLEX
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=https://hotstar.com/
+http://5dtv.cc:8080/live/gagan/1234/104191.m3u8
