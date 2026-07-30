@@ -1,189 +1,91 @@
 #EXTM3U
-# HINDI & INTERNATIONAL MOVIES
-#EXTINF:-1 tvg-name="&pictures HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/andpictureshd.png" group-title="Entertainment & Movies",&pictures HD (Source 1)
-http://murgi.live:8083/andpictureHD/index.m3u8?token=1ed18ace4e15e4cf8c561fae83f9b54a458f54cd-cf5144836ba975efbb58e05803e15f5d-1783876881-1783866081
-#EXTINF:-1 tvg-name="&pictures HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/andpictureshd.png" group-title="Alternative Source",&pictures HD (Source 2)
-http://murgi.live:8083/andpictureHD/index.m3u8?token=7b10bf18b09897b3b7a2e6f83ee7e6343ded6332-62c5f39a7772bec04eb106d6377d2408-1783877543-1783866743
-#EXTINF:-1 tvg-name="Sony MAX" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sonymax.png" group-title="Entertainment & Movies",Sony MAX (Source 1)
-http://murgi.live:8083/Feedget/SonyMAX_37/index.m3u8?token=4fa584814e01647932e043cd1404a017298bc3b7-fa3392d94038445e17bee4635b74eaeb-1783877626-1783866826
-#EXTINF:-1 tvg-name="Sony MAX" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sonymax.png" group-title="Alternative Source",Sony MAX (Source 2)
-http://murgi.live:8083/Feedget/SonyMAX_37/index.m3u8?token=4fa584814e01647932e043cd1404a017298bc3b7-fa3392d94038445e17bee4635b74eaeb-1783877626-1783866826
-#EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sethd.png" group-title="Entertainment & Movies",Sony Entertainment Television HD (Source 1)
-http://murgi.live:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8?token=272d02ff4784ec1136dfca3d60c3503780bf6927-beedf3131efc75a45d66de16d3a676e6-1783877591-1783866791
-#EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sethd.png" group-title="Alternative Source",Sony Entertainment Television HD (Source 2)
-http://murgi.live:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u8?token=272d02ff4784ec1136dfca3d60c3503780bf6927-beedf3131efc75a45d66de16d3a676e6-1783877591-1783866791
-#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/sonypixhd.png" group-title="Entertainment & Movies",Sony PIX HD
-http://murgi.live:8083/Feedget/SonyPIXHD/index.m3u8?token=054a2c641f61f7ce883f8aa8c4c1bb28071f137d-e924f5305ee3864b199933f8bd410315-1783877837-1783867037
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/zeecinemahd.png" group-title="Entertainment & Movies",Zee Cinema HD
-http://murgi.live:8083/Feedget/ZeeCinemaHD_38/index.m3u8?token=20025685aed175e78b89056fc2d239fb5f0b579b-b2c935493ebfd1567a5f3326df338445-1783877912-1783867112
-#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/starmovies.png" group-title="Entertainment & Movies",Star Movies
-http://murgi.live:8083/Feedget/Star-Movies/index.m3u8?token=48f17e9da94063fb45cf3cacfd26ebc402aed3a2-146863f13ddbbf1f04476d217b68b7aa-1783878764-1783867964
-#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://raw.githubusercontent.com/itsmedmd/Playlists/master/logos/stargold.png" group-title="Entertainment & Movies",Star Gold
-http://murgi.live:8083/Star-Gold/index.m3u8?token=d1589d8b137ac49f10335b0c2e821c37e18c1d75-759e1a288b3d17769893e3ec95415a79-1783878606-1783867806
-#EXTINF:-1 tvg-id="WarnerTV.mx" tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/WarnerTV.png" group-title="International - Movies",Warner TV
-http://187.245.231.227:8000/play/a0ob/index.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="TV",Comet TV
+#EXTINF:-1 tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="TV",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="TV",Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="TV",CBS News 24/7
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="TV",CBS
-http://stream.cammonitorplus.net/1810/index.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="TV",CMT
-http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
-http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="TV",BET
+#EXTINF:-1 tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="TV",BET
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3SuqJaK.png" tvg-name="24 Hour Free Movies" group-title="Cinema em inglês",24 Hour Free Movies
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LeusTQY.png" tvg-name="Bowery Classics | Distro TV" group-title="Cinema em inglês",Bowery Classics | Distro TV
-https://dai.google.com/linear/hls/event/7D2Q73U6RpyYzJYog5Lx6Q/master.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223/" tvg-name="CineLife | EUA" group-title="Cinema em inglês",CineLife | EUA
-https://magnolia-cinelife.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223/" tvg-name="CineLife | Distro" group-title="Cinema em inglês",CineLife | Distro
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223/" tvg-name="CineLife | Plex" group-title="Cinema em inglês",CineLife | Plex
-https://dai.google.com/linear/hls/event/UTF4M044RUKTjJ4DQv5jUQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" tvg-name="Cinepride | EUA | Galxy TV 2" group-title="Cinema em inglês",Cinepride | EUA | Galxy TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" tvg-name="Cinepride | EUA | Galxy TV 3" group-title="Cinema em inglês",Cinepride | EUA | Galxy TV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2591
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT1qvEc.png" tvg-name="Comet | Stirr" group-title="Cinema em inglês",Comet | Stirr
-https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ejyvmON.png" tvg-name="Electric Now | EUA 6" group-title="Cinema em inglês",Electric Now | EUA 6
-https://ov.ottera.tv/live/master.m3u8?channel=elec_en
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" tvg-name="FrightFlix | Galxy TV 2" group-title="Cinema em inglês",FrightFlix | Galxy TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2582
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRU6SZi.png" tvg-name="FrightFlix | Galxy TV 3" group-title="Cinema em inglês",FrightFlix | Galxy TV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2594
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuosgyp.png" tvg-name="Galxy TV" group-title="Cinema em inglês",Galxy TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2595
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bq0AGTk.png" tvg-name="Hi-YAH!" group-title="Cinema em inglês",Hi-YAH!
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/" tvg-name="Horror Machine | Local Now" group-title="Cinema em inglês",Horror Machine | Local Now
+#EXTINF:-1 tvg-name="Live Channel" tvg-logo="https://i.imgur.com/vFOgVbG.png" group-title="Movies",Live Channel
+https://iptv.prosto.tv/ch42/index.m3u8
+#EXTINF:-1 tvg-name="30A TV Classic Movies (720p)" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="Movies",30A TV Classic Movies (720p)
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="TV",CBS
+http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:-1 tvg-name="Horror Machine | Local Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/" group-title="Cinema em inglês",Horror Machine | Local Now
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d16ea10396351a3042dd3/" tvg-name="Horror Machine | Local Now" group-title="Cinema em inglês",Horror Machine | Local Now
-https://dai.google.com/linear/hls/event/b102wvjXSLGQWwRTT-QaaA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" tvg-name="KMovies | legenda em inglês" group-title="Cinema em inglês",KMovies | legenda em inglês
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" tvg-name="KMovies 2 | legenda em inglês" group-title="Cinema em inglês",KMovies 2 | legenda em inglês
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" tvg-name="KMovies 3 | legenda em inglês" group-title="Cinema em inglês",KMovies 3 | legenda em inglês
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" tvg-name="MyTime Movie Network | EUA" group-title="Cinema em inglês",MyTime Movie Network | EUA
-https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRHBzOm.png" tvg-name="The Archive | EUA 5" group-title="Cinema em inglês",The Archive | EUA 5
-https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRHBzOm.png" tvg-name="The Archive | EUA 6" group-title="Cinema em inglês",The Archive | EUA 6
-https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sxf26dk.png" tvg-name="The Lone Star Channel | Distro" group-title="Cinema em inglês",The Lone Star Channel | Distro
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sxf26dk.png" tvg-name="The Lone Star Channel | Distro | link 2" group-title="Cinema em inglês",The Lone Star Channel | Distro | link 2
-https://dai.google.com/linear/hls/event/i98gkOy4R6GGN_j-P3wZvw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sxf26dk.png" tvg-name="The Lone Star Channel | Rakuten" group-title="Cinema em inglês",The Lone Star Channel | Rakuten
-https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" tvg-name="Watch It Scream! | Galxy TV 2" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2587
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" tvg-name="Watch It Scream! | Galxy TV 3" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 3
+#EXTINF:-1 tvg-name="Sheemaroo Bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Live Channel" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",Live Channel
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
+#EXTINF:-1 tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="TV",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-name="Watch It Scream! | Galxy TV 3" tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2598
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-name="Bangla Movies" group-title="Kolkata Bangla Movies",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-name="Bangla Movies" group-title="Kolkata Bangla Movies",Bangla Movies
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-name="Watch It Scream! | Galxy TV 2" tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema em inglês",Watch It Scream! | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2587
+#EXTINF:-1 tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/3SuqJaK.png" group-title="Cinema em inglês",24 Hour Free Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
+#EXTINF:-1 tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="TV",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-name="Galxy TV" tvg-logo="https://i.imgur.com/iuosgyp.png" group-title="Cinema em inglês",Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2595
+#EXTINF:-1 tvg-name="FrightFlix | Galxy TV 3" tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="Cinema em inglês",FrightFlix | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2594
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="TV",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="Cinepride | EUA | Galxy TV 2" tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema em inglês",Cinepride | EUA | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
+#EXTINF:-1 tvg-name="FrightFlix | Galxy TV 2" tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="Cinema em inglês",FrightFlix | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2582
+#EXTINF:-1 tvg-name="Cinepride | EUA | Galxy TV 3" tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema em inglês",Cinepride | EUA | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2591
+#EXTINF:-1 tvg-name="KMovies 3 | legenda em inglês" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema em inglês",KMovies 3 | legenda em inglês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="TV",HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="KMovies 2 | legenda em inglês" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema em inglês",KMovies 2 | legenda em inglês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1 tvg-name="KMovies | legenda em inglês" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema em inglês",KMovies | legenda em inglês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-name="Hi-YAH!" tvg-logo="https://i.imgur.com/Bq0AGTk.png" group-title="Cinema em inglês",Hi-YAH!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119
+#EXTINF:-1 tvg-name="MyTime Movie Network | EUA" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema em inglês",MyTime Movie Network | EUA
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Anmol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" group-title="Hindi Movies",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 International" group-title="Movies",ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 tvg-name="ТНТ International" group-title="Movies",ТНТ International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Cineedge" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="Movies",Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies",Intelligence
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+#EXTINF:-1 tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="Movies",Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="Movies",Screem
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-name="Superrix" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="Movies",True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-name="Cineedge" group-title="Live Tv",Cineedge
 https://nomawnoijl.gpcdn.net/akash/cineedge/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" tvg-name="Cineedge" group-title="Movies",Cineedge HD
-https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
-#EXTINF:-1 tvg-name="Crimes" group-title="Live Tv",Crime
+#EXTINF:-1 tvg-name="Crimes" group-title="Live Tv",Crimes
 https://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" tvg-name="Crimes" group-title="Movies",Crimes
-https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
-#EXTINF:-1 tvg-name="G-Serise" group-title="Bangla Movies",G-Serise
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="G-Serise" group-title="Cricket 🏏",G Series Drama 🇧🇩
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi Movies",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-name="Intelligence" group-title="Live Tv",Intelligence
 https://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" tvg-name="Intelligence" group-title="Movies",Intelligence
-https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
-#EXTINF:-1 tvg-name="Lotus" group-title="English Movies",Lotus
-https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" tvg-name="Manoranjan Grend" group-title="Hindi Movies",Manoranjan Grend
-http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" tvg-name="Manoranjan Prime" group-title="Hindi Movies",Manoranjan Prime
-http://103.175.73.12:8080/live/345/345_0.m3u8
 #EXTINF:-1 tvg-name="Originals" group-title="Live Tv",Originals
 https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" tvg-name="Originals" group-title="Movies",Originals
-https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" tvg-name="Screem" group-title="Movies",Screem
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 #EXTINF:-1 tvg-name="Screem" group-title="Live Tv",Screem
 https://nomawnoijl.gpcdn.net/akash/screem/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" tvg-name="SETMAX HD" group-title="Uncategorized",SETMAX HD
-http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" tvg-name="SONY MAX 2" group-title="Uncategorized",SONY MAX 2
-http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" tvg-name="SONY PIX HD" group-title="Uncategorized",SONY PIX HD
-http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png" tvg-name="Star Gold" group-title="Hindi Movies",Star Gold
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Superrix" group-title="Live Tv",Superrix
 https://nomawnoijl.gpcdn.net/akash/superrix/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" tvg-name="Superrix" group-title="Movies",Superrix HD
-https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-#EXTINF:-1 tvg-name="The Movie Club" group-title="Hindi Movies",The Movie Club
-https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" tvg-name="True Stories" group-title="Movies",True Stories
-https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
-#EXTINF:-1 tvg-name="True Stories" group-title="Live Tv",Truestory
+#EXTINF:-1 tvg-name="True Stories" group-title="Live Tv",True Stories
 https://nomawnoijl.gpcdn.net/akash/truestories/chunks.m3u8
 #EXTINF:-1 tvg-name="Uniques" group-title="Live Tv",Uniques
 https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" tvg-name="Uniques" group-title="Movies",Uniques HD
-https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-#EXTINF:-1 tvg-name="ZB Cinema" group-title="Kolkata Bangla Movies",ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" tvg-name="Zee Action" group-title="Hindi Movies",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png" tvg-name="Zee Anmol TV" group-title="Hindi Movies",Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" tvg-name="Zee Cinema HD" group-title="Hindi Movies",Zee Cinema HD
-http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 tvg-name="ТНТ International" group-title="Movies",ТНТ International
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 International" group-title="Movies",ТНТ4 International
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFOgVbG.png" tvg-name="Live Channel" group-title="Movies",Live Channel
-https://iptv.prosto.tv/ch42/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-name="Live Channel" group-title="Movies",Live Channel
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" tvg-name="27 TwentySeven [Geo-blocked]" group-title="Movies;Series",27 TwentySeven [Geo-blocked]
-https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
-#EXTINF:-1 tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" tvg-name="30A TV Classic Movies (720p)" group-title="Movies",30A TV Classic Movies (720p)
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-
