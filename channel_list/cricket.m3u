@@ -1,50 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="tapmad" tvg-logo="https://play-lh.googleusercontent.com/x6Sl5ty0KOGrEtJbz_cD3Y93mbYVZ6PAwdQwFRqmvTW98K7gPRbKmhQXepG7I8TCFchnQF7T5uz01YwpG2VaaA=w416-h235-rw" group-title="cricket",tapmad
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1  tvg-logo="https://p7.hiclipart.com/preview/13/246/396/logo-ptv-sports-television-channel-pakistan-cricket.jpg",PTV Sports
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20241011098963/en/2269728/22/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1280px-Star_Sports_1_HD.png",Star Sports 1
-http://103.151.60.204:881/StarSports1/video.m3u8
-#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/580754d3f297cb205707bb3a/1565806895477/61086ad65aa32aaf7fa609fef4dc5404.jpg",Star Sports 2
-http://103.151.60.204:881/StarSports2/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-logo="https://icon2.cleanpng.com/lnd/20241221/yw/d489a74f4b2683e53c280a8b60d22b.webp",FIFA Live
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",Bein Sports 1 Max Arabic
-http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1  tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugyzsAFseJ8_uMMCd67_ONBj29vT7w_J6RkZZfKEsR7OxIVyIx0aRfDbD&s=10",Bein Sports
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Eq16lJbirPJYEtPR9xsgH3qxwCCVlC4Nah0Ns8bhVg&s=10",beIN sports 5 English
-https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index.m3u8
-#EXTINF:-1 tvg-name="A Sports HD" group-title="Cricket 🏏",A Sports HD 🇵🇰
-https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="EuroSports HD" group-title="Cricket 🏏",EuroSports HD 🇮🇳
-https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10" tvg-name="IPL 2026" group-title="IPL 2026",IPL 2026
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-name="PTV Sports" group-title="Cricket 🏏",PTV Sport HD 🇧🇩 📡✴
-https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
-#EXTINF:-1 tvg-name="PTV Sports" group-title="Cricket 🏏",PTV Sports HD 🇵🇰
-https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="PTV Sports" group-title="Cricket 🏏",PTV Sports pk HD
-https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 1 HD" group-title="Cricket 🏏",Sony Sports 1 HD 🇮🇳
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 2 HD" group-title="Cricket 🏏",Sony Sports 2 HD 🇮🇳
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Sports 5 HD" group-title="Cricket 🏏",Sony Sports 5 HD 🇮🇳
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
-#EXTINF:-1 tvg-name="Sony Ten Cricket" group-title="Cricket 🏏",Sony-Ten-Cricket HD
-https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
-#EXTINF:-1 tvg-name="T Sports HD" group-title="Cricket 🏏",T Sports HD
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" tvg-name="T Sports HD" group-title="Uncategorized",T SPORTS HD
-https://stream.sunplex.live/T-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" tvg-name="T Sports HD" group-title="Uncategorized",T SPORTS HD (Source 2)
-http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " tvg-name="Willow Extra Live" group-title="Cricket 🏏",Willow Extra Live
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://i.pinimg.com/736x/20/f8/53/20f853787e15c584b40cb92aee225029.jpg" group-title="Cricket",Bein Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-name="FIFA Live" tvg-logo="https://icon2.cleanpng.com/lnd/20241221/yw/d489a74f4b2683e53c280a8b60d22b.webp" group-title="Cricket",FIFA Live
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://p7.hiclipart.com/preview/13/246/396/logo-ptv-sports-television-channel-pakistan-cricket.jpg" group-title="Cricket",PTV Sports
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN sports Xtra HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Cricket",beIN sports Xtra HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://mms.businesswire.com/media/20241011098963/en/2269728/22/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg" group-title="Cricket",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-name="Willow HD" group-title="Cricket 🏏",Willow HD 🇺🇸
+#EXTINF:-1 tvg-name="Willow HD" tvg-logo="https://mms.businesswire.com/media/20241011098963/en/2269728/22/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg" group-title="Cricket" tvg-description="Willow HD is a premier 24/7 sports network in North America dedicated exclusively to live cricket broadcasts, highlights, and international series.",Willow HD
 https://tvsen5.aynaott.com/willowhd/index.m3u8
