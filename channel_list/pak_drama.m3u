@@ -1,293 +1,295 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="Hindi Channels",PK | Urdu 1
+#############################
+# Pak Drama
+#############################
+#EXTINF:-1 tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="Pak Drama",PK | Urdu 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/221340.m3u8
 
-#EXTINF:-1 tvg-name="PK: Raavi Films" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raavi_tv.png" group-title="Hindi Channels",PK: Raavi Films
+#EXTINF:-1 tvg-name="PK: Raavi Films" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raavi_tv.png" group-title="Pak Drama",PK: Raavi Films
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103705.m3u8
 
-#EXTINF:-1 tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="Hindi Channels",PK | HUM TV HD
+#EXTINF:-1 tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="Pak Drama",PK | HUM TV HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/221339.m3u8
 
-#EXTINF:-1 tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="Hindi Channels",PK | Bol Entertainment HD
+#EXTINF:-1 tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="Pak Drama",PK | Bol Entertainment HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26045.m3u8
 
-#EXTINF:-1 tvg-name="PK: AUR LIFE HD" tvg-logo="https://aur.tv/wp-content/uploads/2023/06/button.jpg" group-title="Hindi Channels",PK: AUR LIFE HD
+#EXTINF:-1 tvg-name="PK: AUR LIFE HD" tvg-logo="https://aur.tv/wp-content/uploads/2023/06/button.jpg" group-title="Pak Drama",PK: AUR LIFE HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/167885.m3u8
 
-#EXTINF:-1 tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Hindi Channels",PK | ARY DIGITAL
+#EXTINF:-1 tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pak Drama",PK | ARY DIGITAL
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/221337.m3u8
 
-#EXTINF:-1 tvg-name="PK: ARUJ TV" group-title="Hindi Channels",PK: ARUJ TV
+#EXTINF:-1 tvg-name="PK: ARUJ TV" group-title="Pak Drama",PK: ARUJ TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103685.m3u8
 
-#EXTINF:-1 tvg-name="PK: 8XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Hindi Channels",PK: 8XM
+#EXTINF:-1 tvg-name="PK: 8XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Pak Drama",PK: 8XM
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103668.m3u8
 
-#EXTINF:-1 tvg-name="PK: SINDH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg" group-title="Hindi Channels",PK: SINDH TV
+#EXTINF:-1 tvg-name="PK: SINDH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Sindh_tv.jpg" group-title="Pak Drama",PK: SINDH TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103709.m3u8
 
-#EXTINF:-1 tvg-name="PK | AAN TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aan_TV.png/1200px-Aan_TV.png" group-title="Hindi Channels",PK | AAN TV FHD
+#EXTINF:-1 tvg-name="PK | AAN TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Aan_TV.png/1200px-Aan_TV.png" group-title="Pak Drama",PK | AAN TV FHD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/371733.m3u8
 
-#EXTINF:-1 tvg-name="PK | LTN FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/LTN_Family.png" group-title="Hindi Channels",PK | LTN FAMILY
+#EXTINF:-1 tvg-name="PK | LTN FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/LTN_Family.png" group-title="Pak Drama",PK | LTN FAMILY
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/106114.m3u8
 
-#EXTINF:-1 tvg-name="PK | Express Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" group-title="Hindi Channels",PK | Express Entertainment
+#EXTINF:-1 tvg-name="PK | Express Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" group-title="Pak Drama",PK | Express Entertainment
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26010.m3u8
 
-#EXTINF:-1 tvg-name="PK | A PLUS" tvg-logo="https://static.epg.best/pk/APlusTV.pk.png" group-title="Hindi Channels",PK | A PLUS
+#EXTINF:-1 tvg-name="PK | A PLUS" tvg-logo="https://static.epg.best/pk/APlusTV.pk.png" group-title="Pak Drama",PK | A PLUS
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25984.m3u8
 
-#EXTINF:-1 tvg-name="PK: ISAAS TV" group-title="Hindi Channels",PK: ISAAS TV
+#EXTINF:-1 tvg-name="PK: ISAAS TV" group-title="Pak Drama",PK: ISAAS TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/244936.m3u8
 
-#EXTINF:-1 tvg-name="PK | JOO MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest/scale-to-width-down/270?cb=20200108100316" group-title="Hindi Channels",PK | JOO MUSIC
+#EXTINF:-1 tvg-name="PK | JOO MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest/scale-to-width-down/270?cb=20200108100316" group-title="Pak Drama",PK | JOO MUSIC
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/106118.m3u8
 
-#EXTINF:-1 tvg-name="PK: Hum Pashto 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/22-35-30-cropped-pashto-logo.png" group-title="Hindi Channels",PK: Hum Pashto 1
+#EXTINF:-1 tvg-name="PK: Hum Pashto 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/22-35-30-cropped-pashto-logo.png" group-title="Pak Drama",PK: Hum Pashto 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/207397.m3u8
 
-#EXTINF:-1 tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="Hindi Channels",PK | PTV GLOBAL
+#EXTINF:-1 tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="Pak Drama",PK | PTV GLOBAL
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25994.m3u8
 
-#EXTINF:-1 tvg-name="PK | Khyber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/AVT_Khyber_Logo.png" group-title="Hindi Channels",PK | Khyber TV
+#EXTINF:-1 tvg-name="PK | Khyber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/AVT_Khyber_Logo.png" group-title="Pak Drama",PK | Khyber TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26025.m3u8
 
-#EXTINF:-1 tvg-name="PK | KTN ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg" group-title="Hindi Channels",PK | KTN ENTERTAINMENT
+#EXTINF:-1 tvg-name="PK | KTN ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg" group-title="Pak Drama",PK | KTN ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26026.m3u8
 
-#EXTINF:-1 tvg-name="PK | Lahore Rung" tvg-logo="https://lahorerang.tv/uploads/theme/logo-1550524418.jpeg" group-title="Hindi Channels",PK | Lahore Rung
+#EXTINF:-1 tvg-name="PK | Lahore Rung" tvg-logo="https://lahorerang.tv/uploads/theme/logo-1550524418.jpeg" group-title="Pak Drama",PK | Lahore Rung
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26039.m3u8
 
-#EXTINF:-1 tvg-name="PK | Zindgai TV*" group-title="Hindi Channels",PK | Zindgai TV*
+#EXTINF:-1 tvg-name="PK | Zindgai TV*" group-title="Pak Drama",PK | Zindgai TV*
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26043.m3u8
 
-#EXTINF:-1 tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png" group-title="Hindi Channels",PK: AAJ ENTERTAINMENT
+#EXTINF:-1 tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png" group-title="Pak Drama",PK: AAJ ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103670.m3u8
 
-#EXTINF:-1 tvg-name="PK: EAWAZ TV*" group-title="Hindi Channels",PK: EAWAZ TV*
+#EXTINF:-1 tvg-name="PK: EAWAZ TV*" group-title="Pak Drama",PK: EAWAZ TV*
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103671.m3u8
 
-#EXTINF:-1 tvg-name="PK: Discover Pakistan" tvg-logo="http://b1g.fun/logos2/discover_pakistan.jpg" group-title="Hindi Channels",PK: Discover Pakistan
+#EXTINF:-1 tvg-name="PK: Discover Pakistan" tvg-logo="http://b1g.fun/logos2/discover_pakistan.jpg" group-title="Pak Drama",PK: Discover Pakistan
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103684.m3u8
 
-#EXTINF:-1 tvg-name="PK: C44" group-title="Hindi Channels",PK: C44
+#EXTINF:-1 tvg-name="PK: C44" group-title="Pak Drama",PK: C44
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103677.m3u8
 
-#EXTINF:-1 tvg-name="PK: FILMWORLD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/film_world_pk.png" group-title="Hindi Channels",PK: FILMWORLD
+#EXTINF:-1 tvg-name="PK: FILMWORLD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/film_world_pk.png" group-title="Pak Drama",PK: FILMWORLD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103686.m3u8
 
-#EXTINF:-1 tvg-name="PK: GTV" group-title="Hindi Channels",PK: GTV
+#EXTINF:-1 tvg-name="PK: GTV" group-title="Pak Drama",PK: GTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103687.m3u8
 
-#EXTINF:-1 tvg-name="PK: PLAY TV" group-title="Hindi Channels",PK: PLAY TV
+#EXTINF:-1 tvg-name="PK: PLAY TV" group-title="Pak Drama",PK: PLAY TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103699.m3u8
 
-#EXTINF:-1 tvg-name="PK: Venus TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus_uk.png" group-title="Hindi Channels",PK: Venus TV
+#EXTINF:-1 tvg-name="PK: Venus TV" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus_uk.png" group-title="Pak Drama",PK: Venus TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103712.m3u8
 
-#EXTINF:-1 tvg-name="PK: FILMAZIA ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Filmazia.png" group-title="Hindi Channels",PK: FILMAZIA ENTERTAINMENT
+#EXTINF:-1 tvg-name="PK: FILMAZIA ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Filmazia.png" group-title="Pak Drama",PK: FILMAZIA ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/105792.m3u8
 
-#EXTINF:-1 tvg-name="PK | A1 TV" tvg-logo="http://b1g.fun/logos2/a1_tv.jpg" group-title="Hindi Channels",PK | A1 TV
+#EXTINF:-1 tvg-name="PK | A1 TV" tvg-logo="http://b1g.fun/logos2/a1_tv.jpg" group-title="Pak Drama",PK | A1 TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/105796.m3u8
 
-#EXTINF:-1 tvg-name="PK | KOHINOOR NEWS" tvg-logo="http://b1g.fun/logos2/kohenoor_news.jpg" group-title="Hindi Channels",PK | KOHINOOR NEWS
+#EXTINF:-1 tvg-name="PK | KOHINOOR NEWS" tvg-logo="http://b1g.fun/logos2/kohenoor_news.jpg" group-title="Pak Drama",PK | KOHINOOR NEWS
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/106116.m3u8
 
-#EXTINF:-1 tvg-name="PK | ROHI TV" tvg-logo="http://b1g.fun/logos2/rohi_tv.jpg" group-title="Hindi Channels",PK | ROHI TV
+#EXTINF:-1 tvg-name="PK | ROHI TV" tvg-logo="http://b1g.fun/logos2/rohi_tv.jpg" group-title="Pak Drama",PK | ROHI TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/106117.m3u8
 
-#EXTINF:-1 tvg-name="PK | Urdu 1 HD" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="Hindi Channels",PK | Urdu 1 HD
+#EXTINF:-1 tvg-name="PK | Urdu 1 HD" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="Pak Drama",PK | Urdu 1 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26040.m3u8
 
-#EXTINF:-1 tvg-name="PK | Apna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Apna_Channel_New_Logo.png" group-title="Hindi Channels",PK | Apna Channel
+#EXTINF:-1 tvg-name="PK | Apna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Apna_Channel_New_Logo.png" group-title="Pak Drama",PK | Apna Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25998.m3u8
 
-#EXTINF:-1 tvg-name="PK | FILMAX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="Hindi Channels",PK | FILMAX
+#EXTINF:-1 tvg-name="PK | FILMAX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="Pak Drama",PK | FILMAX
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26038.m3u8
 
-#EXTINF:-1 tvg-name="Ary World" group-title="Hindi Channels",Ary World
+#EXTINF:-1 tvg-name="Ary World" group-title="Pak Drama",Ary World
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/153291.m3u8
 
-#EXTINF:-1 tvg-name="PK: Khyber Middle East TV" group-title="Hindi Channels",PK: Khyber Middle East TV
+#EXTINF:-1 tvg-name="PK: Khyber Middle East TV" group-title="Pak Drama",PK: Khyber Middle East TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/110051.m3u8
 
-#EXTINF:-1 tvg-name="PK : Tag Tv" tvg-logo="https://tagtv.info/wp-content/uploads/2021/02/TagTv.png" group-title="Hindi Channels",PK : Tag Tv
+#EXTINF:-1 tvg-name="PK : Tag Tv" tvg-logo="https://tagtv.info/wp-content/uploads/2021/02/TagTv.png" group-title="Pak Drama",PK : Tag Tv
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/110059.m3u8
 
-#EXTINF:-1 tvg-name="PK: Mehran Tv" group-title="Hindi Channels",PK: Mehran Tv
+#EXTINF:-1 tvg-name="PK: Mehran Tv" group-title="Pak Drama",PK: Mehran Tv
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/110060.m3u8
 
-#EXTINF:-1 tvg-name="PK: KING TV" group-title="Hindi Channels",PK: KING TV
+#EXTINF:-1 tvg-name="PK: KING TV" group-title="Pak Drama",PK: KING TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/110053.m3u8
 
-#EXTINF:-1 tvg-name="PK | CNN PAKISTAN" group-title="Hindi Channels",PK | CNN PAKISTAN
+#EXTINF:-1 tvg-name="PK | CNN PAKISTAN" group-title="Pak Drama",PK | CNN PAKISTAN
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/413313.m3u8
 
-#EXTINF:-1 tvg-name="PK: Afghan Tv*" group-title="Hindi Channels",PK: Afghan Tv*
+#EXTINF:-1 tvg-name="PK: Afghan Tv*" group-title="Pak Drama",PK: Afghan Tv*
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/167888.m3u8
 
-#EXTINF:-1 tvg-name="PK: PTV NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Hindi Channels",PK: PTV NATIONAL
+#EXTINF:-1 tvg-name="PK: PTV NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="Pak Drama",PK: PTV NATIONAL
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/110050.m3u8
 
-#EXTINF:-1 tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="Hindi Channels",PK | HUM SITARAY
+#EXTINF:-1 tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="Pak Drama",PK | HUM SITARAY
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25983.m3u8
 
-#EXTINF:-1 tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Hindi Channels",PK: PTV HOME
+#EXTINF:-1 tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Pak Drama",PK: PTV HOME
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/221342.m3u8
 
-#EXTINF:-1 tvg-name="PK | TV ONE" tvg-logo="https://static.epg.best/us/TVOne.us.png" group-title="Hindi Channels",PK | TV ONE
+#EXTINF:-1 tvg-name="PK | TV ONE" tvg-logo="https://static.epg.best/us/TVOne.us.png" group-title="Pak Drama",PK | TV ONE
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25986.m3u8
 
-#EXTINF:-1 tvg-name="PK | Waseeb TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="Hindi Channels",PK | Waseeb TV
+#EXTINF:-1 tvg-name="PK | Waseeb TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="Pak Drama",PK | Waseeb TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26042.m3u8
 
-#EXTINF:-1 tvg-name="Pak: Stage Drama 01" group-title="Hindi Channels",Pak: Stage Drama 01
+#EXTINF:-1 tvg-name="Pak: Stage Drama 01" group-title="Pak Drama",Pak: Stage Drama 01
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/301513.m3u8
 
-#EXTINF:-1 tvg-name="Pak: Stage Drama 02" group-title="Hindi Channels",Pak: Stage Drama 02
+#EXTINF:-1 tvg-name="Pak: Stage Drama 02" group-title="Pak Drama",Pak: Stage Drama 02
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/301514.m3u8
 
-#EXTINF:-1 tvg-name="PAK: PTV BOLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Ptv_bolan.jpg" group-title="Hindi Channels",PAK: PTV BOLAN
+#EXTINF:-1 tvg-name="PAK: PTV BOLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Ptv_bolan.jpg" group-title="Pak Drama",PAK: PTV BOLAN
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/341213.m3u8
 
-#EXTINF:-1 tvg-name="Pak: Green entertainment" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Green-Entertainment-Logo-Vector-1.png" group-title="Hindi Channels",Pak: Green entertainment
+#EXTINF:-1 tvg-name="Pak: Green entertainment" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Green-Entertainment-Logo-Vector-1.png" group-title="Pak Drama",Pak: Green entertainment
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/344646.m3u8
 
-#EXTINF:-1 tvg-name="PK | MUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mun-TV.png" group-title="Hindi Channels",PK | MUN TV FHD
+#EXTINF:-1 tvg-name="PK | MUN TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mun-TV.png" group-title="Pak Drama",PK | MUN TV FHD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/371734.m3u8
 
-#EXTINF:-1 tvg-name="PK | FILMAZIA PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Filmazia.png" group-title="Hindi Channels",PK | FILMAZIA PUNJABI
+#EXTINF:-1 tvg-name="PK | FILMAZIA PUNJABI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Filmazia.png" group-title="Pak Drama",PK | FILMAZIA PUNJABI
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/371763.m3u8
 
-#EXTINF:-1 tvg-name="PK: HUM EUROPE*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Hindi Channels",PK: HUM EUROPE*
+#EXTINF:-1 tvg-name="PK: HUM EUROPE*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pak Drama",PK: HUM EUROPE*
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103688.m3u8
 
-#EXTINF:-1 tvg-name="PK: PAKUS TV" tvg-logo="http://secureservercdn.net/198.71.233.141/27r.eed.myftpupload.com/wp-content/uploads/2018/03/cropped-PAKUSTV-1-2-300x300.jpg" group-title="Hindi Channels",PK: PAKUS TV
+#EXTINF:-1 tvg-name="PK: PAKUS TV" tvg-logo="http://secureservercdn.net/198.71.233.141/27r.eed.myftpupload.com/wp-content/uploads/2018/03/cropped-PAKUSTV-1-2-300x300.jpg" group-title="Pak Drama",PK: PAKUS TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/105799.m3u8
 
-#EXTINF:-1 tvg-name="PK | JALWA MUSIC" tvg-logo="https://www.trendinginsocial.com/wp-content/uploads/2016/06/Jalwa-Logo-640x512.png" group-title="Hindi Channels",PK | JALWA MUSIC
+#EXTINF:-1 tvg-name="PK | JALWA MUSIC" tvg-logo="https://www.trendinginsocial.com/wp-content/uploads/2016/06/Jalwa-Logo-640x512.png" group-title="Pak Drama",PK | JALWA MUSIC
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/167670.m3u8
 
-#EXTINF:-1 tvg-name="PK | KASHISH" tvg-logo="http://b1g.fun/logos2/kashish.jpg" group-title="Hindi Channels",PK | KASHISH
+#EXTINF:-1 tvg-name="PK | KASHISH" tvg-logo="http://b1g.fun/logos2/kashish.jpg" group-title="Pak Drama",PK | KASHISH
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/106115.m3u8
 
-#EXTINF:-1 tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Hindi Channels",PK | ARY DIGITAL HD
+#EXTINF:-1 tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pak Drama",PK | ARY DIGITAL HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25989.m3u8
 
-#EXTINF:-1 tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Hindi Channels",PK | ARY ZINDAGI
+#EXTINF:-1 tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="Pak Drama",PK | ARY ZINDAGI
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25990.m3u8
 
-#EXTINF:-1 tvg-name="PK: ARY Family" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/ARY-Family.png" group-title="Hindi Channels",PK: ARY Family
+#EXTINF:-1 tvg-name="PK: ARY Family" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/ARY-Family.png" group-title="Pak Drama",PK: ARY Family
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103673.m3u8
 
-#EXTINF:-1 tvg-name="PK | HUM TV (4K)" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="Hindi Channels",PK | HUM TV (4K)
+#EXTINF:-1 tvg-name="PK | HUM TV (4K)" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="Pak Drama",PK | HUM TV (4K)
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25981.m3u8
 
-#EXTINF:-1 tvg-name="PK: HUM MASALA" group-title="Hindi Channels",PK: HUM MASALA
+#EXTINF:-1 tvg-name="PK: HUM MASALA" group-title="Pak Drama",PK: HUM MASALA
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103689.m3u8
 
-#EXTINF:-1 tvg-name="PK | GEO ENTERMENT" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="Hindi Channels",PK | GEO ENTERMENT
+#EXTINF:-1 tvg-name="PK | GEO ENTERMENT" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="Pak Drama",PK | GEO ENTERMENT
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/221338.m3u8
 
-#EXTINF:-1 tvg-name="PK | GEO ENTERMENT FHD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="Hindi Channels",PK | GEO ENTERMENT FHD
+#EXTINF:-1 tvg-name="PK | GEO ENTERMENT FHD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="Pak Drama",PK | GEO ENTERMENT FHD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25977.m3u8
 
-#EXTINF:-1 tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="Hindi Channels",PK | GEO KAHANI HD
+#EXTINF:-1 tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="Pak Drama",PK | GEO KAHANI HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/221341.m3u8
 
-#EXTINF:-1 tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Hindi Channels",PK: PTV HOME HD
+#EXTINF:-1 tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="Pak Drama",PK: PTV HOME HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/103703.m3u8
 
-#EXTINF:-1 tvg-name="PK | Set Entertainment" tvg-logo="https://setentertainment.tv/wp-content/uploads/2024/03/logo.png" group-title="Hindi Channels",PK | Set Entertainment
+#EXTINF:-1 tvg-name="PK | Set Entertainment" tvg-logo="https://setentertainment.tv/wp-content/uploads/2024/03/logo.png" group-title="Pak Drama",PK | Set Entertainment
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/389825.m3u8
 
-#EXTINF:-1 tvg-name="PK: SAB TV PAK" tvg-logo="http://b1g.fun/logos2/sab_tv.jpg" group-title="Hindi Channels",PK: SAB TV PAK
+#EXTINF:-1 tvg-name="PK: SAB TV PAK" tvg-logo="http://b1g.fun/logos2/sab_tv.jpg" group-title="Pak Drama",PK: SAB TV PAK
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25975.m3u8
 
-#EXTINF:-1 tvg-name="PK | See HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="Hindi Channels",PK | See HD
+#EXTINF:-1 tvg-name="PK | See HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="Pak Drama",PK | See HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25982.m3u8
 
-#EXTINF:-1 tvg-name="PK | ATV ENTERTENMENT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/atv_pk.png" group-title="Hindi Channels",PK | ATV ENTERTENMENT
+#EXTINF:-1 tvg-name="PK | ATV ENTERTENMENT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/atv_pk.png" group-title="Pak Drama",PK | ATV ENTERTENMENT
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/25987.m3u8
 
-#EXTINF:-1 tvg-name="PK | Ary Music Pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="Hindi Channels",PK | Ary Music Pk
+#EXTINF:-1 tvg-name="PK | Ary Music Pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="Pak Drama",PK | Ary Music Pk
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26000.m3u8
 
-#EXTINF:-1 tvg-name="PK | Kay 2" tvg-logo="https://kay2.tv/wp-content/uploads/2022/04/Kay2-HD.png" group-title="Hindi Channels",PK | Kay 2
+#EXTINF:-1 tvg-name="PK | Kay 2" tvg-logo="https://kay2.tv/wp-content/uploads/2022/04/Kay2-HD.png" group-title="Pak Drama",PK | Kay 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
 http://5dtv.cc:8080/live/8463201254/8652301258/26023.m3u8
