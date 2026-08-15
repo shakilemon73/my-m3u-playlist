@@ -7,6 +7,87 @@ http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 http://103.151.60.204:881/A-Sports/video.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167579.m3u8
+
+#EXTINF:-1 tvg-name="IN: Sports 18 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="CRICKET",IN: Sports 18 (4K)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/382205.m3u8
+
+#EXTINF:-1 tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CRICKET",IN | SONY TEN 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167580.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167575.m3u8
+
+#EXTINF:-1 tvg-name="IN | SONY TEN 4 HD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="CRICKET",IN | SONY TEN 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167595.m3u8
+
+#EXTINF:-1 tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="CRICKET",IN: DD Sports
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167588.m3u8
+
+#EXTINF:-1 tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET",IN | Willow Xtra
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167582.m3u8
+
+#EXTINF:-1 tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN: Willow Cricket HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167583.m3u8
+
+#EXTINF:-1 tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: 1SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167586.m3u8
+
+#EXTINF:-1 tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET",IN | SONY TEN 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167571.m3u8
+
+#EXTINF:-1 tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET",IN | SONY TEN 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167572.m3u8
+
+#EXTINF:-1 tvg-name="IND: Star Sports 2 Hindi HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="CRICKET",IND: Star Sports 2 Hindi HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167574.m3u8
+
+#EXTINF:-1 tvg-name="CRI: Ten Cricket" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="CRICKET",CRI: Ten Cricket
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167587.m3u8
+
+#EXTINF:-1 tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167573.m3u8
+
+#EXTINF:-1 tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET",IN | SONY TEN 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167570.m3u8
+
+#EXTINF:-1 tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: Star Sports tamil 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/392965.m3u8
+
+#EXTINF:-1 tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167578.m3u8
+
+#EXTINF:-1 tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",IN | Astro Cricket HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167581.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET",IN | Star Sports 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167577.m3u8
+
+#EXTINF:-1 tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://5dtv.cc:8080/live/gagan/1234/167576.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-logo="https://icon2.cleanpng.com/lnd/20241221/yw/d489a74f4b2683e53c280a8b60d22b.webp",FIFA Live
