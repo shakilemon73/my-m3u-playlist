@@ -1,1 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ban_vs_aus_1" tvg-name="Bangladesh vs Australia" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Cricket",Bangladesh vs Australia (Server 1 - PTV)
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304
+
+#EXTINF:-1 tvg-id="ban_vs_aus_2" tvg-name="Bangladesh vs Australia" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Cricket",Bangladesh vs Australia (Server 2 - PTV)
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
+
+#EXTINF:-1 tvg-id="ban_vs_aus_3" tvg-name="Bangladesh vs Australia" tvg-logo="https://play-lh.googleusercontent.com/x6Sl5ty0KOGrEtJbz_cD3Y93mbYVZ6PAwdQwFRqmvTW98K7gPRbKmhQXepG7I8TCFchnQF7T5uz01YwpG2VaaA=w416-h235-rw" group-title="Cricket",Bangladesh vs Australia (Server 3 - Tapmad)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://www.tapmad.com/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC/3.0.18 LibVLC/3.0.18&Referer=https://www.tapmad.com/
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=VLC/3.0.18 LibVLC/3.0.18&Referer=https://www.tapmad.com/
+
+#EXTINF:-1 tvg-id="ban_vs_aus_4" tvg-name="Bangladesh vs Australia" tvg-logo="https://play-lh.googleusercontent.com/x6Sl5ty0KOGrEtJbz_cD3Y93mbYVZ6PAwdQwFRqmvTW98K7gPRbKmhQXepG7I8TCFchnQF7T5uz01YwpG2VaaA=w416-h235-rw" group-title="Cricket",Bangladesh vs Australia (Server 4 - Tapmad)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://www.tapmad.com/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC/3.0.18 LibVLC/3.0.18&Referer=https://www.tapmad.com/
+https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-5tap347/master.m3u8|User-Agent=VLC/3.0.18 LibVLC/3.0.18&Referer=https://www.tapmad.com/
 
