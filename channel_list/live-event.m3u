@@ -1,2 +1,10 @@
+#EXTINF:-1 tvg-id="59645" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uzbekistan%20U20%20vs%20Bangladesh%20U20.jpg" group-title="LIVE", Uzbekistan U20 vs Bangladesh U20 - AFC U20 Asian Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c3484869246752144-backup/chunks.m3u8?is_vip=false&token=1788273156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-de1240bba34166012a92d81f75a60d41
 
+#EXTINF:-1 tvg-id="59645" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uzbekistan%20U20%20vs%20Bangladesh%20U20.jpg" group-title="LIVE", Uzbekistan U20 vs Bangladesh U20 - AFC U20 Asian Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a74a89c3484869246752144/chunks.m3u8?is_vip=false&token=1788273157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5e6a5f60ed18509a9f84de2d7cb9eee2
 
