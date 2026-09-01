@@ -19,6 +19,24 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ME TV" tvg-logo="https://www.metvbd.com/media/common/logo-fb.png" group-title="BANGLADESH",ME TV
 https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-name="Sananda Tv" tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="INDIAN BANGLA",Sananda Tv
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png" group-title="INDIAN BANGLA",Star Jalsha HD
+http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=225805&extension=ts&play_token=o1cczsG9wV
+#EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="INDIAN BANGLA",Jalsha Movies HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
+#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="INDIAN BANGLA",Colors Bangla
+http://flowutc.com:80/live/MAGTF8AV71/bUiJLEJKG5/76179.ts
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="INDIAN BANGLA",Zee Bangla HD
+https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="INDIAN BANGLA",Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 tvg-name="TBN 24" tvg-logo="https://www.tbn24.com/logo.png" group-title="BANGLADESH",TBN 24
+https://www.tbn24.com/live-tv-stream/20201_0.m3u8
+#EXTINF:-1 tvg-name="Channel 1 News" tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="BANGLADESH",Channel 1 News
+https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
+#EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="BANGLADESH",GAZI TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?nimblesessionid=1167297915
 #EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/jagonews.jpg" group-title="BANGLADESH",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ruposhi Bangla" tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="BANGLADESH",Ruposhi Bangla
