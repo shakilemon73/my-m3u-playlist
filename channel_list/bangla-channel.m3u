@@ -3,12 +3,6 @@
 #############################
 # Bangla Channels
 #############################
-#EXTM3U
-# name: Toffee Live TV Full Data
-# telegram: https://t.me/livesportsplay
-# owner: Md Sohanur Rahman Hady
-# last_update: 02:24:36 PM 09-09-2026
-
 #EXTINF:-1 tvg-id="Mi1QqZgBNnOkwJLWxggo" tvg-logo="https://assets-prod.services.toffeelive.com/Mi1QqZgBNnOkwJLWxggo/posters/b5926099-dee1-4b0b-8183-fbda6e78d2dc.png" group-title="Sports",EPL channel 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K)
 #EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1789115078:KeyName=prod_linear:Signature=fz8xG8X6waujaYjAuHtEgxfGS_FN0YwIOC2M5WfdN-JXNdojeQ8LLRrH_3x5rg1GjtdgtyRkaV_Qblz64HgyBw
