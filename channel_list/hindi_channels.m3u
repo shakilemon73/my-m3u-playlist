@@ -1,618 +1,620 @@
 #EXTM3U
+#############################
+# Hindi Channels
+#############################
+#EXTINF:-1 tvg-name="IN | Desi channelⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Desi channelⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53473.ts
+#EXTINF:-1 tvg-name="IN | Flowers TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Flowers TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53479.ts
+#EXTINF:-1 tvg-name="IN | IBC Comedyⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | IBC Comedyⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53482.ts
+#EXTINF:-1 tvg-name="IN | IBC Tamilⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | IBC Tamilⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53484.ts
+#EXTINF:-1 tvg-name="IN | Jaihind TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Jaihind TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53486.ts
+#EXTINF:-1 tvg-name="IN | Kairali Weⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Kairali Weⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53490.ts
+#EXTINF:-1 tvg-name="IN | Kairali TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Kairali TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53489.ts
+#EXTINF:-1 tvg-name="IN | Kalaignar TVⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Kalaignar TVⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53491.ts
+#EXTINF:-1 tvg-name="IN | Kappa TVⓧ  OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Kappa TVⓧ  OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53492.ts
+#EXTINF:-1 tvg-name="IN | Mazhavil Manoramaⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Mazhavil Manoramaⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53499.ts
+#EXTINF:-1 tvg-name="IN | MK Sixⓧ " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | MK Sixⓧ 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53501.ts
+#EXTINF:-1 tvg-name="IN | MK TVⓧ " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | MK TVⓧ 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53503.ts
+#EXTINF:-1 tvg-name="IN | Public Musicⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Public Musicⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53507.ts
+#EXTINF:-1 tvg-name="IN | Puthuyugam TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Puthuyugam TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53508.ts
+#EXTINF:-1 tvg-name="IN | Vaanavil TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Vaanavil TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53514.ts
+#EXTINF:-1 tvg-name="IN | Vasanth TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Vasanth TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53515.ts
+#EXTINF:-1 tvg-name="IN | Balle Balleⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Balle Balleⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74423.ts
+#EXTINF:-1 tvg-name="IN | DD Punjabiⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | DD Punjabiⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74425.ts
+#EXTINF:-1 tvg-name="IN | Janam TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Janam TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74429.ts
+#EXTINF:-1 tvg-name="IN | Fateh TVⓧ " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Fateh TVⓧ 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74427.ts
+#EXTINF:-1 tvg-name="IN | MH1 Shradhaⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | MH1 Shradhaⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74431.ts
+#EXTINF:-1 tvg-name="IN | Santhora TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Santhora TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74432.ts
+#EXTINF:-1 tvg-name="IN | Sana TVⓧ " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Sana TVⓧ 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74433.ts
+#EXTINF:-1 tvg-name="IN | PTC Chakde Punjabiⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | PTC Chakde Punjabiⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74434.ts
+#EXTINF:-1 tvg-name="IN | PTC Punjabi Goldⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | PTC Punjabi Goldⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74435.ts
+#EXTINF:-1 tvg-name="IN | PTC Musicⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | PTC Musicⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74436.ts
+#EXTINF:-1 tvg-name="IN | PTC Punjabiⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | PTC Punjabiⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74438.ts
+#EXTINF:-1 tvg-name="IN | Sanjha TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Sanjha TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74440.ts
+#EXTINF:-1 tvg-name="IN | WAH Punjabiⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | WAH Punjabiⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74441.ts
+#EXTINF:-1 tvg-name="IN | Sony Wahⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Sony Wahⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77066.ts
+#EXTINF:-1 tvg-name="IN | Star Sports 1 Hindiⓧ FHD" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Star Sports 1 Hindiⓧ FHD
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77616.ts
+#EXTINF:-1 tvg-name="IN | 3 Tamil TVⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | 3 Tamil TVⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77629.ts
+#EXTINF:-1 tvg-name="IN | B4U Aflamⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | B4U Aflamⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77947.ts
+#EXTINF:-1 tvg-name="IN | B4U Plusⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | B4U Plusⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77948.ts
+#EXTINF:-1 tvg-name="IN | Angel TV Arabicⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Angel TV Arabicⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78230.ts
+#EXTINF:-1 tvg-name="IN | Aditya TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Aditya TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92425.ts
+#EXTINF:-1 tvg-name="IN | EET TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | EET TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92428.ts
+#EXTINF:-1 tvg-name="IN | Jaya Max USAⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Jaya Max USAⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92429.ts
+#EXTINF:-1 tvg-name="IN | Jaya Moviesⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Jaya Moviesⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92430.ts
+#EXTINF:-1 tvg-name="IN | Jaya TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Jaya TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92432.ts
+#EXTINF:-1 tvg-name="IN | KTV USAⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | KTV USAⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92434.ts
+#EXTINF:-1 tvg-name="IN | Polimer TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Polimer TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92437.ts
+#EXTINF:-1 tvg-name="IN | Puthuyugam TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Puthuyugam TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92439.ts
+#EXTINF:-1 tvg-name="IN | Raj Digital Plusⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Raj Digital Plusⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92440.ts
+#EXTINF:-1 tvg-name="IN | Raj Musixⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Raj Musixⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92442.ts
+#EXTINF:-1 tvg-name="IN | Asianet Moviesⓧ HD " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Asianet Moviesⓧ HD 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123690.ts
+#EXTINF:-1 tvg-name="IN | Yupp Thiraiⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Yupp Thiraiⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121888.ts
+#EXTINF:-1 tvg-name="IN | Star Plus HDⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Star Plus HDⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120897.ts
+#EXTINF:-1 tvg-name="IN | ZEE Aflamⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | ZEE Aflamⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10873.ts
+#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 2 HD" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | StarzPlay CricLifeⓧ 2 HD
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164791.ts
+#EXTINF:-1 tvg-name="IN | Aathavan TVⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Aathavan TVⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123481.ts
+#EXTINF:-1 tvg-name="IN | Desi Beatsⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Desi Beatsⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123158.ts
+#EXTINF:-1 tvg-name="IN | MTV Beatsⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | MTV Beatsⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108201.ts
+#EXTINF:-1 tvg-name="IN | Wow Cinema Oneⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Wow Cinema Oneⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121967.ts
+#EXTINF:-1 tvg-name="IN | Desi Plusⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Desi Plusⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123159.ts
+#EXTINF:-1 tvg-name="IN | Jus One TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Jus One TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122264.ts
+#EXTINF:-1 tvg-name="IN | 1Sportsⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | 1Sportsⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123476.ts
+#EXTINF:-1 tvg-name="IN | 7Star TVⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | 7Star TVⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123478.ts
+#EXTINF:-1 tvg-name="IN | 9XMⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | 9XMⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123479.ts
+#EXTINF:-1 tvg-name="IN | Abinayaⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Abinayaⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123482.ts
+#EXTINF:-1 tvg-name="IN | Akaram Kidzⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Akaram Kidzⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123640.ts
+#EXTINF:-1 tvg-name="IN | Aastha TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Aastha TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123638.ts
+#EXTINF:-1 tvg-name="IN | Bindassⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Bindassⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123694.ts
+#EXTINF:-1 tvg-name="IN | Jonack TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Jonack TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123695.ts
+#EXTINF:-1 tvg-name="IN | CTVN AKD Plusⓧ SD" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | CTVN AKD Plusⓧ SD
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123699.ts
+#EXTINF:-1 tvg-name="IN | Sahara Oneⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Sahara Oneⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/128378.ts
+#EXTINF:-1 tvg-name="IN | Angel TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Angel TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123641.ts
+#EXTINF:-1 tvg-name="IN | Ayush TVⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Ayush TVⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123692.ts
+#EXTINF:-1 tvg-name="IN | Alpha ETC Punjabiⓧ OFFLINE " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Alpha ETC Punjabiⓧ OFFLINE 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/128483.ts
+#EXTINF:-1 tvg-name="IN | Colors Marathiⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Colors Marathiⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123698.ts
+#EXTINF:-1 tvg-name="IN | Sony Marathiⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Sony Marathiⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/143022.ts
+#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 3 HD OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | StarzPlay CricLifeⓧ 3 HD OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164793.ts
+#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 1 HD" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | StarzPlay CricLifeⓧ 1 HD
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164789.ts
+#EXTINF:-1 tvg-name="IN | Ekattor TV Banglaⓧ " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Ekattor TV Banglaⓧ 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120896.ts
+#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 2 FHD" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | StarzPlay CricLifeⓧ 2 FHD
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164792.ts
+#EXTINF:-1 tvg-name="IN | Jalsha Movies HDⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Jalsha Movies HDⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120895.ts
+#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 1 FHD" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | StarzPlay CricLifeⓧ 1 FHD
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164790.ts
+#EXTINF:-1 tvg-name="IN | Sony Pixⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Sony Pixⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/110557.ts
+#EXTINF:-1 tvg-name="IN | Vaanvavilⓧ OFFLINE" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Vaanvavilⓧ OFFLINE
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122113.ts
+#EXTINF:-1 tvg-name="IN | Velichamⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Velichamⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122067.ts
+#EXTINF:-1 tvg-name="IN | ZEE Bangla Cinemaⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | ZEE Bangla Cinemaⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120894.ts
+#EXTINF:-1 tvg-name="IN | 9X Jhakaasⓧ" group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | 9X Jhakaasⓧ
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123637.ts
+#EXTINF:-1 tvg-name="IN | Anjanⓧ " group-title="|IN| INDIA" http-user-agent="VLC/3.0.18" ,IN | Anjanⓧ 
+http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123485.ts
 #EXTINF:-1 tvg-name="IN | Jaya TV USAⓧ" group-title="|IN| INDIA",IN | Jaya TV USAⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92433.ts
 #EXTINF:-1 tvg-name="IN | Raj TVⓧ" group-title="|IN| INDIA",IN | Raj TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92443.ts
-#EXTINF:-1 tvg-name="IN | Seithigalⓧ OFFLINE " group-title="|IN| INDIA",IN | Seithigalⓧ OFFLINE 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92444.ts
 #EXTINF:-1 tvg-name="IN | Star Vijay UKⓧ" group-title="|IN| INDIA",IN | Star Vijay UKⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92446.ts
 #EXTINF:-1 tvg-name="IN | Star Vijayⓧ" group-title="|IN| INDIA",IN | Star Vijayⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92445.ts
 #EXTINF:-1 tvg-name="IN | Sun Musicⓧ" group-title="|IN| INDIA",IN | Sun Musicⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92448.ts
-#EXTINF:-1 tvg-name="IN | Sun Newsⓧ" group-title="|IN| INDIA",IN | Sun Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92449.ts
 #EXTINF:-1 tvg-name="IN | Sun TVⓧ" group-title="|IN| INDIA",IN | Sun TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92450.ts
 #EXTINF:-1 tvg-name="IN | Sun TV USAⓧ OFFLINE" group-title="|IN| INDIA",IN | Sun TV USAⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92451.ts
 #EXTINF:-1 tvg-name="IN | Vendharⓧ " group-title="|IN| INDIA",IN | Vendharⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92453.ts
 #EXTINF:-1 tvg-name="IN | Star Vijay Superⓧ OFFLINE" group-title="|IN| INDIA",IN | Star Vijay Superⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92454.ts
 #EXTINF:-1 tvg-name="IN | Channel Winⓧ" group-title="|IN| INDIA",IN | Channel Winⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92455.ts
 #EXTINF:-1 tvg-name="IN | DD Girnarⓧ" group-title="|IN| INDIA",IN | DD Girnarⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93021.ts
 #EXTINF:-1 tvg-name="IN | Star Plusⓧ" group-title="|IN| INDIA",IN | Star Plusⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93022.ts
 #EXTINF:-1 tvg-name="IN | Peace TV Banglaⓧ" group-title="|IN| INDIA",IN | Peace TV Banglaⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93024.ts
 #EXTINF:-1 tvg-name="IN | Star Maaⓧ" group-title="|IN| INDIA",IN | Star Maaⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93025.ts
 #EXTINF:-1 tvg-name="IN | Star Moviesⓧ" group-title="|IN| INDIA",IN | Star Moviesⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93026.ts
 #EXTINF:-1 tvg-name="IN | Zee Banglaⓧ" group-title="|IN| INDIA",IN | Zee Banglaⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93027.ts
 #EXTINF:-1 tvg-name="IN | ZEE Talkiesⓧ" group-title="|IN| INDIA",IN | ZEE Talkiesⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93028.ts
 #EXTINF:-1 tvg-name="IN | ZEE Tamilⓧ" group-title="|IN| INDIA",IN | ZEE Tamilⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93029.ts
 #EXTINF:-1 tvg-name="IN | Gaunda Punjab TVⓧ" group-title="|IN| INDIA",IN | Gaunda Punjab TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/174717.ts
 #EXTINF:-1 tvg-name="IN | Utsav Plus UKⓧ" group-title="|IN| INDIA",IN | Utsav Plus UKⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53324.ts
 #EXTINF:-1 tvg-name="IN | Colors TV UKⓧ" group-title="|IN| INDIA",IN | Colors TV UKⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53329.ts
 #EXTINF:-1 tvg-name="IN | Sony Palⓧ" group-title="|IN| INDIA",IN | Sony Palⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53335.ts
 #EXTINF:-1 tvg-name="IN | Colors Rishtey UKⓧ" group-title="|IN| INDIA",IN | Colors Rishtey UKⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53337.ts
 #EXTINF:-1 tvg-name="IN | ZEE Anmolⓧ" group-title="|IN| INDIA",IN | ZEE Anmolⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53338.ts
 #EXTINF:-1 tvg-name="IN | &amp;Picturesⓧ HD" group-title="|IN| INDIA",IN | &amp;Picturesⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53344.ts
 #EXTINF:-1 tvg-name="IN | Star Gold 2ⓧ" group-title="|IN| INDIA",IN | Star Gold 2ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53351.ts
 #EXTINF:-1 tvg-name="IN | ZEE Bollywoodⓧ" group-title="|IN| INDIA",IN | ZEE Bollywoodⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53357.ts
 #EXTINF:-1 tvg-name="IN | Sony BBC Earthⓧ" group-title="|IN| INDIA",IN | Sony BBC Earthⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53397.ts
 #EXTINF:-1 tvg-name="IN | Discovery Kids Hindiⓧ" group-title="|IN| INDIA",IN | Discovery Kids Hindiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53402.ts
 #EXTINF:-1 tvg-name="IN | Zingⓧ" group-title="|IN| INDIA",IN | Zingⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53410.ts
 #EXTINF:-1 tvg-name="IN | Jhanjar Musicⓧ " group-title="|IN| INDIA",IN | Jhanjar Musicⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53416.ts
-#EXTINF:-1 tvg-name="IN | Republic Bharat Newsⓧ" group-title="|IN| INDIA",IN | Republic Bharat Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53429.ts
 #EXTINF:-1 tvg-name="IN | Pogo Hindiⓧ" group-title="|IN| INDIA",IN | Pogo Hindiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53435.ts
 #EXTINF:-1 tvg-name="IN | Cinema TVⓧ" group-title="|IN| INDIA",IN | Cinema TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53365.ts
 #EXTINF:-1 tvg-name="IN | Bollywood Premierⓧ" group-title="|IN| INDIA",IN | Bollywood Premierⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53370.ts
 #EXTINF:-1 tvg-name="IN | Star Sports 3ⓧ" group-title="|IN| INDIA",IN | Star Sports 3ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53377.ts
 #EXTINF:-1 tvg-name="IN | D Sportsⓧ" group-title="|IN| INDIA",IN | D Sportsⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53384.ts
 #EXTINF:-1 tvg-name="IN | Animal Planet Hindiⓧ" group-title="|IN| INDIA",IN | Animal Planet Hindiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53390.ts
 #EXTINF:-1 tvg-name="IN | Romedy Nowⓧ" group-title="|IN| INDIA",IN | Romedy Nowⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53423.ts
-#EXTINF:-1 tvg-name="IN | TV9 Teluguⓧ" group-title="|IN| INDIA",IN | TV9 Teluguⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53513.ts
 #EXTINF:-1 tvg-name="IN | PTC Simranⓧ OFFLINE" group-title="|IN| INDIA",IN | PTC Simranⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74439.ts
-#EXTINF:-1 tvg-name="IN | Polimer Newsⓧ" group-title="|IN| INDIA",IN | Polimer Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92436.ts
 #EXTINF:-1 tvg-name="IN | Raj Digital Plus USAⓧ" group-title="|IN| INDIA",IN | Raj Digital Plus USAⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92441.ts
 #EXTINF:-1 tvg-name="IN | Sun Lifeⓧ" group-title="|IN| INDIA",IN | Sun Lifeⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92447.ts
 #EXTINF:-1 tvg-name="IN | Namdhariⓧ" group-title="|IN| INDIA",IN | Namdhariⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92452.ts
 #EXTINF:-1 tvg-name="IN | Peace TV Urduⓧ" group-title="|IN| INDIA",IN | Peace TV Urduⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93023.ts
 #EXTINF:-1 tvg-name="IN | &amp;Flixⓧ FHD" group-title="|IN| INDIA",IN | &amp;Flixⓧ FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/96126.ts
 #EXTINF:-1 tvg-name="IN | Colors Rishteyⓧ" group-title="|IN| INDIA",IN | Colors Rishteyⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53440.ts
 #EXTINF:-1 tvg-name="IN | Amrita TVⓧ" group-title="|IN| INDIA",IN | Amrita TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53459.ts
 #EXTINF:-1 tvg-name="IN | Brit Asia TV UKⓧ" group-title="|IN| INDIA",IN | Brit Asia TV UKⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53465.ts
-#EXTINF:-1 tvg-name="IN | DD Newsⓧ" group-title="|IN| INDIA",IN | DD Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53472.ts
 #EXTINF:-1 tvg-name="IN | IBC Kidsⓧ OFFLINE" group-title="|IN| INDIA",IN | IBC Kidsⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53483.ts
-#EXTINF:-1 tvg-name="IN | Janta TVⓧ OFFLINE" group-title="|IN| INDIA",IN | Janta TVⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53487.ts
 #EXTINF:-1 tvg-name="IN | Kasthuri TVⓧ OFFLINE" group-title="|IN| INDIA",IN | Kasthuri TVⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53493.ts
 #EXTINF:-1 tvg-name="IN | MK Tunesⓧ OFFLINE" group-title="|IN| INDIA",IN | MK Tunesⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53502.ts
-#EXTINF:-1 tvg-name="IN | Rajya Sabha TVⓧ OFFLINE" group-title="|IN| INDIA",IN | Rajya Sabha TVⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53509.ts
 #EXTINF:-1 tvg-name="IN | 9x Tashanⓧ" group-title="|IN| INDIA",IN | 9x Tashanⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74399.ts
 #EXTINF:-1 tvg-name="IN | Sanjhaⓧ" group-title="|IN| INDIA",IN | Sanjhaⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74422.ts
-#EXTINF:-1 tvg-name="IN | MH1 News Punjabiⓧ OFFLINE" group-title="|IN| INDIA",IN | MH1 News Punjabiⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74430.ts
-#EXTINF:-1 tvg-name="IN | PTC Newsⓧ" group-title="|IN| INDIA",IN | PTC Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74437.ts
 #EXTINF:-1 tvg-name="IN | DD Podhigaiⓧ" group-title="|IN| INDIA",IN | DD Podhigaiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92427.ts
-#EXTINF:-1 tvg-name="IN | 1st Indiaⓧ" group-title="|IN| INDIA",IN | 1st Indiaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123636.ts
 #EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 3 FHD OFFLINE" group-title="|IN| INDIA",IN | StarzPlay CricLifeⓧ 3 FHD OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164794.ts
 #EXTINF:-1 tvg-name="IN | Colors Infinityⓧ" group-title="|IN| INDIA",IN | Colors Infinityⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170291.ts
 #EXTINF:-1 tvg-name="IN | ZEE Classicⓧ" group-title="|IN| INDIA",IN | ZEE Classicⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170696.ts
-#EXTINF:-1 tvg-name="IN | 22 Scope Newsⓧ" group-title="|IN| INDIA",IN | 22 Scope Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/174715.ts
-#EXTINF:-1 tvg-name="IN | Living India Newsⓧ " group-title="|IN| INDIA",IN | Living India Newsⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/174718.ts
 #EXTINF:-1 tvg-name="IN | Sardari TVⓧ" group-title="|IN| INDIA",IN | Sardari TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/174719.ts
 #EXTINF:-1 tvg-name="IN | Zee Marathiⓧ " group-title="|IN| INDIA",IN | Zee Marathiⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/174720.ts
 #EXTINF:-1 tvg-name="IN | Colors Gujaratiⓧ" group-title="|IN| INDIA",IN | Colors Gujaratiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123697.ts
 #EXTINF:-1 tvg-name="IN | Sony TVⓧ HD" group-title="|IN| INDIA",IN | Sony TVⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53320.ts
 #EXTINF:-1 tvg-name="IN | SONY TVⓧ SD" group-title="|IN| INDIA",IN | SONY TVⓧ SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53321.ts
 #EXTINF:-1 tvg-name="IN | Utsav Plusⓧ" group-title="|IN| INDIA",IN | Utsav Plusⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53323.ts
 #EXTINF:-1 tvg-name="IN | ZEE TVⓧ" group-title="|IN| INDIA",IN | ZEE TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53325.ts
 #EXTINF:-1 tvg-name="IN | Colors TVⓧ HD " group-title="|IN| INDIA",IN | Colors TVⓧ HD 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53327.ts
 #EXTINF:-1 tvg-name="IN | Colors TVⓧ" group-title="|IN| INDIA",IN | Colors TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53328.ts
 #EXTINF:-1 tvg-name="IN | &amp;TVⓧ " group-title="|IN| INDIA",IN | &amp;TVⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53330.ts
 #EXTINF:-1 tvg-name="IN | Sony Sabⓧ HD " group-title="|IN| INDIA",IN | Sony Sabⓧ HD 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53332.ts
 #EXTINF:-1 tvg-name="IN | Sony Aathⓧ " group-title="|IN| INDIA",IN | Sony Aathⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53333.ts
 #EXTINF:-1 tvg-name="IN | Sony Sab UKⓧ" group-title="|IN| INDIA",IN | Sony Sab UKⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53334.ts
 #EXTINF:-1 tvg-name="IN | Star Bharatⓧ" group-title="|IN| INDIA",IN | Star Bharatⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53336.ts
 #EXTINF:-1 tvg-name="IN | Dhamaal TVⓧ" group-title="|IN| INDIA",IN | Dhamaal TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53339.ts
 #EXTINF:-1 tvg-name="IN | Dillagi TVⓧ" group-title="|IN| INDIA",IN | Dillagi TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53340.ts
 #EXTINF:-1 tvg-name="IN | Big Magicⓧ" group-title="|IN| INDIA",IN | Big Magicⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53341.ts
 #EXTINF:-1 tvg-name="IN | &amp;Explorⓧ" group-title="|IN| INDIA",IN | &amp;Explorⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53342.ts
 #EXTINF:-1 tvg-name="IN | &amp;Picturesⓧ FHD" group-title="|IN| INDIA",IN | &amp;Picturesⓧ FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53343.ts
 #EXTINF:-1 tvg-name="IN | ZEE Cinemaⓧ HD" group-title="|IN| INDIA",IN | ZEE Cinemaⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53345.ts
 #EXTINF:-1 tvg-name="IN | ZEE Cinemaⓧ SD" group-title="|IN| INDIA",IN | ZEE Cinemaⓧ SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53346.ts
 #EXTINF:-1 tvg-name="IN | ZEE Cinema USAⓧ" group-title="|IN| INDIA",IN | ZEE Cinema USAⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53348.ts
 #EXTINF:-1 tvg-name="IN | Star Goldⓧ" group-title="|IN| INDIA",IN | Star Goldⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53349.ts
 #EXTINF:-1 tvg-name="IN | Star Gold UKⓧ" group-title="|IN| INDIA",IN | Star Gold UKⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53350.ts
 #EXTINF:-1 tvg-name="IN | Sony Maxⓧ" group-title="|IN| INDIA",IN | Sony Maxⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53353.ts
 #EXTINF:-1 tvg-name="IN | Sony Max (UK)ⓧ" group-title="|IN| INDIA",IN | Sony Max (UK)ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53354.ts
 #EXTINF:-1 tvg-name="IN | Sony Max 2ⓧ" group-title="|IN| INDIA",IN | Sony Max 2ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53355.ts
 #EXTINF:-1 tvg-name="IN | Star Gold Selectⓧ" group-title="|IN| INDIA",IN | Star Gold Selectⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53352.ts
 #EXTINF:-1 tvg-name="IN | ZEE Actionⓧ" group-title="|IN| INDIA",IN | ZEE Actionⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53356.ts
 #EXTINF:-1 tvg-name="IN | ZEE Anmol Cinemaⓧ" group-title="|IN| INDIA",IN | ZEE Anmol Cinemaⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53358.ts
 #EXTINF:-1 tvg-name="IN | UTVⓧ" group-title="|IN| INDIA",IN | UTVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53359.ts
 #EXTINF:-1 tvg-name="IN | Colors Cineplexⓧ" group-title="|IN| INDIA",IN | Colors Cineplexⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53361.ts
 #EXTINF:-1 tvg-name="IN | B4U Moviesⓧ" group-title="|IN| INDIA",IN | B4U Moviesⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53363.ts
 #EXTINF:-1 tvg-name="IN | B4U Kadakⓧ" group-title="|IN| INDIA",IN | B4U Kadakⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53364.ts
 #EXTINF:-1 tvg-name="IN | Enter 10ⓧ" group-title="|IN| INDIA",IN | Enter 10ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53366.ts
 #EXTINF:-1 tvg-name="IN | Manoranjan TVⓧ" group-title="|IN| INDIA",IN | Manoranjan TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53367.ts
 #EXTINF:-1 tvg-name="IN | Manoranjan Moviesⓧ" group-title="|IN| INDIA",IN | Manoranjan Moviesⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53368.ts
 #EXTINF:-1 tvg-name="IN | Maha Moviesⓧ" group-title="|IN| INDIA",IN | Maha Moviesⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53369.ts
 #EXTINF:-1 tvg-name="IN | Bollywood Classicⓧ " group-title="|IN| INDIA",IN | Bollywood Classicⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53371.ts
 #EXTINF:-1 tvg-name="IN | Bollywood Nowⓧ OFFLINE" group-title="|IN| INDIA",IN | Bollywood Nowⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53372.ts
 #EXTINF:-1 tvg-name="IN | Willow Cricketⓧ HD" group-title="|IN| INDIA",IN | Willow Cricketⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53373.ts
 #EXTINF:-1 tvg-name="IN | Star Sports 1ⓧ HD" group-title="|IN| INDIA",IN | Star Sports 1ⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53374.ts
 #EXTINF:-1 tvg-name="IN | Star Sports 1ⓧ FHD" group-title="|IN| INDIA",IN | Star Sports 1ⓧ FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53375.ts
 #EXTINF:-1 tvg-name="IN | Star Sports 2ⓧ" group-title="|IN| INDIA",IN | Star Sports 2ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53376.ts
 #EXTINF:-1 tvg-name="IN | Star Sports Select 1ⓧ HD" group-title="|IN| INDIA",IN | Star Sports Select 1ⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53378.ts
 #EXTINF:-1 tvg-name="IN | Star Sports Select 2ⓧ HD" group-title="|IN| INDIA",IN | Star Sports Select 2ⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53379.ts
 #EXTINF:-1 tvg-name="IN | Sony Sports Ten 5ⓧ" group-title="|IN| INDIA",IN | Sony Sports Ten 5ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53380.ts
 #EXTINF:-1 tvg-name="IN | Sony Ten 1ⓧ" group-title="|IN| INDIA",IN | Sony Ten 1ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53381.ts
 #EXTINF:-1 tvg-name="IN | Sony Ten 2ⓧ" group-title="|IN| INDIA",IN | Sony Ten 2ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53382.ts
 #EXTINF:-1 tvg-name="IN | Sony Ten 3ⓧ" group-title="|IN| INDIA",IN | Sony Ten 3ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53383.ts
 #EXTINF:-1 tvg-name="IN | DD Sportsⓧ" group-title="|IN| INDIA",IN | DD Sportsⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53386.ts
 #EXTINF:-1 tvg-name="IN | History TV18ⓧ OFFLINE" group-title="|IN| INDIA",IN | History TV18ⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53387.ts
 #EXTINF:-1 tvg-name="IN | National Geographicⓧ" group-title="|IN| INDIA",IN | National Geographicⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53388.ts
 #EXTINF:-1 tvg-name="IN | Nat Geo Wildⓧ " group-title="|IN| INDIA",IN | Nat Geo Wildⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53389.ts
 #EXTINF:-1 tvg-name="IN | Discovery Science Hindiⓧ" group-title="|IN| INDIA",IN | Discovery Science Hindiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53392.ts
 #EXTINF:-1 tvg-name="IN | Discovery Hindiⓧ" group-title="|IN| INDIA",IN | Discovery Hindiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53391.ts
 #EXTINF:-1 tvg-name="IN | Investigation Discoveryⓧ" group-title="|IN| INDIA",IN | Investigation Discoveryⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53393.ts
 #EXTINF:-1 tvg-name="IN | FOX Lifeⓧ" group-title="|IN| INDIA",IN | FOX Lifeⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53394.ts
 #EXTINF:-1 tvg-name="IN | TLC Hindiⓧ" group-title="|IN| INDIA",IN | TLC Hindiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53395.ts
 #EXTINF:-1 tvg-name="IN | Travel XPⓧ" group-title="|IN| INDIA",IN | Travel XPⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53396.ts
 #EXTINF:-1 tvg-name="IN | Epic TVⓧ" group-title="|IN| INDIA",IN | Epic TVⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53398.ts
 #EXTINF:-1 tvg-name="IN | Living Foodzⓧ" group-title="|IN| INDIA",IN | Living Foodzⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53399.ts
 #EXTINF:-1 tvg-name="IN | Food Foodⓧ" group-title="|IN| INDIA",IN | Food Foodⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53400.ts
 #EXTINF:-1 tvg-name="IN | Cartoon Networkⓧ" group-title="|IN| INDIA",IN | Cartoon Networkⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53401.ts
 #EXTINF:-1 tvg-name="IN | Sony Yay Hindiⓧ" group-title="|IN| INDIA",IN | Sony Yay Hindiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53403.ts
 #EXTINF:-1 tvg-name="IN | Nick Sonicⓧ " group-title="|IN| INDIA",IN | Nick Sonicⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53404.ts
 #EXTINF:-1 tvg-name="IN | Nickelodeonⓧ" group-title="|IN| INDIA",IN | Nickelodeonⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53405.ts
 #EXTINF:-1 tvg-name="IN | Nick HD+ⓧ" group-title="|IN| INDIA",IN | Nick HD+ⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53406.ts
 #EXTINF:-1 tvg-name="IN | Mastiiiⓧ OFFLINE" group-title="|IN| INDIA",IN | Mastiiiⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53407.ts
 #EXTINF:-1 tvg-name="IN | 9X Jalwaⓧ" group-title="|IN| INDIA",IN | 9X Jalwaⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53408.ts
 #EXTINF:-1 tvg-name="IN | B4U Musicⓧ" group-title="|IN| INDIA",IN | B4U Musicⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53409.ts
 #EXTINF:-1 tvg-name="IN | Pitaaraⓧ" group-title="|IN| INDIA",IN | Pitaaraⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53411.ts
 #EXTINF:-1 tvg-name="IN | Aaho Musicⓧ OFFLINE " group-title="|IN| INDIA",IN | Aaho Musicⓧ OFFLINE 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53412.ts
 #EXTINF:-1 tvg-name="IN | Dil Seⓧ OFFLINE" group-title="|IN| INDIA",IN | Dil Seⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53413.ts
 #EXTINF:-1 tvg-name="IN | Nazranaⓧ OFFLINE" group-title="|IN| INDIA",IN | Nazranaⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53415.ts
 #EXTINF:-1 tvg-name="IN | HBOⓧ" group-title="|IN| INDIA",IN | HBOⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53417.ts
 #EXTINF:-1 tvg-name="IN | ZEE Cafeⓧ" group-title="|IN| INDIA",IN | ZEE Cafeⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53418.ts
 #EXTINF:-1 tvg-name="IN | &amp;Privéⓧ FHD" group-title="|IN| INDIA",IN | &amp;Privéⓧ FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53419.ts
 #EXTINF:-1 tvg-name="IN | &amp;Flixⓧ HD" group-title="|IN| INDIA",IN | &amp;Flixⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53420.ts
 #EXTINF:-1 tvg-name="IN | Movies Nowⓧ HD" group-title="|IN| INDIA",IN | Movies Nowⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53421.ts
 #EXTINF:-1 tvg-name="IN | MNXⓧ HD" group-title="|IN| INDIA",IN | MNXⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53422.ts
-#EXTINF:-1 tvg-name="IN | ZEE Salaamⓧ" group-title="|IN| INDIA",IN | ZEE Salaamⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53424.ts
-#EXTINF:-1 tvg-name="IN | ZEE Hindustanⓧ" group-title="|IN| INDIA",IN | ZEE Hindustanⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53425.ts
 #EXTINF:-1 tvg-name="IN | PBN Musicⓧ OFFLINE" group-title="|IN| INDIA",IN | PBN Musicⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53426.ts
-#EXTINF:-1 tvg-name="IN | ABP Newsⓧ SD" group-title="|IN| INDIA",IN | ABP Newsⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53427.ts
-#EXTINF:-1 tvg-name="IN | ZEE News HDⓧ" group-title="|IN| INDIA",IN | ZEE News HDⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53428.ts
-#EXTINF:-1 tvg-name="IN | Aaj Tak Newsⓧ" group-title="|IN| INDIA",IN | Aaj Tak Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53430.ts
-#EXTINF:-1 tvg-name="IN | News 18 Indiaⓧ" group-title="|IN| INDIA",IN | News 18 Indiaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53431.ts
-#EXTINF:-1 tvg-name="IN | NDTV Indiaⓧ" group-title="|IN| INDIA",IN | NDTV Indiaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53432.ts
-#EXTINF:-1 tvg-name="IN | India TV Newsⓧ" group-title="|IN| INDIA",IN | India TV Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53433.ts
 #EXTINF:-1 tvg-name="IN | BBOⓧ" group-title="|IN| INDIA",IN | BBOⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53434.ts
 #EXTINF:-1 tvg-name="IN | Disney Channelⓧ" group-title="|IN| INDIA",IN | Disney Channelⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53436.ts
 #EXTINF:-1 tvg-name="IN | Akaal Channelⓧ" group-title="|IN| INDIA",IN | Akaal Channelⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53437.ts
 #EXTINF:-1 tvg-name="IN | Sikh Channelⓧ" group-title="|IN| INDIA",IN | Sikh Channelⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53438.ts
 #EXTINF:-1 tvg-name="IN | PTC Punjabiⓧ" group-title="|IN| INDIA",IN | PTC Punjabiⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53439.ts
 #EXTINF:-1 tvg-name="IN | Rishtey Cineplexⓧ" group-title="|IN| INDIA",IN | Rishtey Cineplexⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53441.ts
-#EXTINF:-1 tvg-name="IN | Geo News UKⓧ" group-title="|IN| INDIA",IN | Geo News UKⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53442.ts
 #EXTINF:-1 tvg-name="IN | &amp;Privéⓧ HD" group-title="|IN| INDIA",IN | &amp;Privéⓧ HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53453.ts
-#EXTINF:-1 tvg-name="IN | 24 News Malayalamⓧ  OFFLINE" group-title="|IN| INDIA",IN | 24 News Malayalamⓧ  OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53454.ts
-#EXTINF:-1 tvg-name="IN | ABP Asmitaⓧ" group-title="|IN| INDIA",IN | ABP Asmitaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53456.ts
-#EXTINF:-1 tvg-name="IN | ABP Majhaⓧ" group-title="|IN| INDIA",IN | ABP Majhaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53457.ts
-#EXTINF:-1 tvg-name="IN | Asianet Newsⓧ" group-title="|IN| INDIA",IN | Asianet Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53460.ts
-#EXTINF:-1 tvg-name="IN | BBC Newsⓧ" group-title="|IN| INDIA",IN | BBC Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53462.ts
 #EXTINF:-1 tvg-name="IN | Bollywood TVⓧ OFFLINE" group-title="|IN| INDIA",IN | Bollywood TVⓧ OFFLINE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53463.ts
 #EXTINF:-1 tvg-name="IN | Boogle Bollywoodⓧ" group-title="|IN| INDIA",IN | Boogle Bollywoodⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53464.ts
 #EXTINF:-1 tvg-name="IN | Channel Yⓧ" group-title="|IN| INDIA",IN | Channel Yⓧ
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53466.ts
 #EXTINF:-1 tvg-name="IN | Cine Voiceⓧ " group-title="|IN| INDIA",IN | Cine Voiceⓧ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
 http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53467.ts
-#EXTINF:-1 tvg-name="IN | CNBC Awaazⓧ" group-title="|IN| INDIA",IN | CNBC Awaazⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53468.ts
-#EXTINF:-1 tvg-name="IN | CNBC TV18ⓧ" group-title="|IN| INDIA",IN | CNBC TV18ⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53469.ts
-#EXTINF:-1 tvg-name="IN | DD Malayalamⓧ " group-title="|IN| INDIA",IN | DD Malayalamⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53470.ts
-#EXTINF:-1 tvg-name="IN | DD Nationalⓧ" group-title="|IN| INDIA",IN | DD Nationalⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53471.ts
-#EXTINF:-1 tvg-name="IN | Desi channelⓧ" group-title="|IN| INDIA",IN | Desi channelⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53473.ts
-#EXTINF:-1 tvg-name="IN | Desi TV USAⓧ OFFLINE" group-title="|IN| INDIA",IN | Desi TV USAⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53474.ts
-#EXTINF:-1 tvg-name="IN | Flowers TVⓧ" group-title="|IN| INDIA",IN | Flowers TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53479.ts
-#EXTINF:-1 tvg-name="IN | ET Nowⓧ" group-title="|IN| INDIA",IN | ET Nowⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53477.ts
-#EXTINF:-1 tvg-name="IN | IBC 24ⓧ" group-title="|IN| INDIA",IN | IBC 24ⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53481.ts
-#EXTINF:-1 tvg-name="IN | IBC Comedyⓧ" group-title="|IN| INDIA",IN | IBC Comedyⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53482.ts
-#EXTINF:-1 tvg-name="IN | IBC Tamilⓧ" group-title="|IN| INDIA",IN | IBC Tamilⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53484.ts
-#EXTINF:-1 tvg-name="IN | India TVⓧ" group-title="|IN| INDIA",IN | India TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53485.ts
-#EXTINF:-1 tvg-name="IN | Jaihind TVⓧ" group-title="|IN| INDIA",IN | Jaihind TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53486.ts
-#EXTINF:-1 tvg-name="IN | Kairali Newsⓧ" group-title="|IN| INDIA",IN | Kairali Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53488.ts
-#EXTINF:-1 tvg-name="IN | Kairali Weⓧ" group-title="|IN| INDIA",IN | Kairali Weⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53490.ts
-#EXTINF:-1 tvg-name="IN | Kairali TVⓧ" group-title="|IN| INDIA",IN | Kairali TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53489.ts
-#EXTINF:-1 tvg-name="IN | Kalaignar TVⓧ OFFLINE" group-title="|IN| INDIA",IN | Kalaignar TVⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53491.ts
-#EXTINF:-1 tvg-name="IN | Kappa TVⓧ  OFFLINE" group-title="|IN| INDIA",IN | Kappa TVⓧ  OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53492.ts
-#EXTINF:-1 tvg-name="IN | Khabrain Abhi Takⓧ OFFLINE" group-title="|IN| INDIA",IN | Khabrain Abhi Takⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53494.ts
-#EXTINF:-1 tvg-name="IN | Lok Sabha TVⓧ" group-title="|IN| INDIA",IN | Lok Sabha TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53496.ts
-#EXTINF:-1 tvg-name="IN | Mathrubhumi Newsⓧ " group-title="|IN| INDIA",IN | Mathrubhumi Newsⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53498.ts
-#EXTINF:-1 tvg-name="IN | Mazhavil Manoramaⓧ OFFLINE" group-title="|IN| INDIA",IN | Mazhavil Manoramaⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53499.ts
-#EXTINF:-1 tvg-name="IN | Mirror Nowⓧ OFFLINE" group-title="|IN| INDIA",IN | Mirror Nowⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53500.ts
-#EXTINF:-1 tvg-name="IN | MK Sixⓧ " group-title="|IN| INDIA",IN | MK Sixⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53501.ts
-#EXTINF:-1 tvg-name="IN | MK TVⓧ " group-title="|IN| INDIA",IN | MK TVⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53503.ts
-#EXTINF:-1 tvg-name="IN | News 24ⓧ" group-title="|IN| INDIA",IN | News 24ⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53504.ts
-#EXTINF:-1 tvg-name="IN | Pratidin Timeⓧ" group-title="|IN| INDIA",IN | Pratidin Timeⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53506.ts
-#EXTINF:-1 tvg-name="IN | Public Musicⓧ" group-title="|IN| INDIA",IN | Public Musicⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53507.ts
-#EXTINF:-1 tvg-name="IN | Puthuyugam TVⓧ" group-title="|IN| INDIA",IN | Puthuyugam TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53508.ts
-#EXTINF:-1 tvg-name="IN | Reporter TVⓧ" group-title="|IN| INDIA",IN | Reporter TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53510.ts
-#EXTINF:-1 tvg-name="IN | Suvarna News 24×7ⓧ" group-title="|IN| INDIA",IN | Suvarna News 24×7ⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53511.ts
-#EXTINF:-1 tvg-name="IN | Thanthi TVⓧ" group-title="|IN| INDIA",IN | Thanthi TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53512.ts
-#EXTINF:-1 tvg-name="IN | Vaanavil TVⓧ" group-title="|IN| INDIA",IN | Vaanavil TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53514.ts
-#EXTINF:-1 tvg-name="IN | Vasanth TVⓧ" group-title="|IN| INDIA",IN | Vasanth TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53515.ts
-#EXTINF:-1 tvg-name="IN | Media Oneⓧ " group-title="|IN| INDIA",IN | Media Oneⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74421.ts
-#EXTINF:-1 tvg-name="IN | Balle Balleⓧ" group-title="|IN| INDIA",IN | Balle Balleⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74423.ts
-#EXTINF:-1 tvg-name="IN | Chardikla Timeⓧ" group-title="|IN| INDIA",IN | Chardikla Timeⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74424.ts
-#EXTINF:-1 tvg-name="IN | DD Punjabiⓧ" group-title="|IN| INDIA",IN | DD Punjabiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74425.ts
-#EXTINF:-1 tvg-name="IN | Janam TVⓧ" group-title="|IN| INDIA",IN | Janam TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74429.ts
-#EXTINF:-1 tvg-name="IN | Fateh TVⓧ " group-title="|IN| INDIA",IN | Fateh TVⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74427.ts
-#EXTINF:-1 tvg-name="IN | MH1 Shradhaⓧ" group-title="|IN| INDIA",IN | MH1 Shradhaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74431.ts
-#EXTINF:-1 tvg-name="IN | Santhora TVⓧ" group-title="|IN| INDIA",IN | Santhora TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74432.ts
-#EXTINF:-1 tvg-name="IN | Sana TVⓧ " group-title="|IN| INDIA",IN | Sana TVⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74433.ts
-#EXTINF:-1 tvg-name="IN | PTC Chakde Punjabiⓧ" group-title="|IN| INDIA",IN | PTC Chakde Punjabiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74434.ts
-#EXTINF:-1 tvg-name="IN | PTC Punjabi Goldⓧ" group-title="|IN| INDIA",IN | PTC Punjabi Goldⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74435.ts
-#EXTINF:-1 tvg-name="IN | PTC Musicⓧ" group-title="|IN| INDIA",IN | PTC Musicⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74436.ts
-#EXTINF:-1 tvg-name="IN | PTC Punjabiⓧ" group-title="|IN| INDIA",IN | PTC Punjabiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74438.ts
-#EXTINF:-1 tvg-name="IN | Sanjha TVⓧ" group-title="|IN| INDIA",IN | Sanjha TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74440.ts
-#EXTINF:-1 tvg-name="IN | WAH Punjabiⓧ" group-title="|IN| INDIA",IN | WAH Punjabiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74441.ts
-#EXTINF:-1 tvg-name="IN | Sony Wahⓧ" group-title="|IN| INDIA",IN | Sony Wahⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77066.ts
-#EXTINF:-1 tvg-name="IN | Star Sports 1 Hindiⓧ FHD" group-title="|IN| INDIA",IN | Star Sports 1 Hindiⓧ FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77616.ts
-#EXTINF:-1 tvg-name="IN | 3 Tamil TVⓧ OFFLINE" group-title="|IN| INDIA",IN | 3 Tamil TVⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77629.ts
-#EXTINF:-1 tvg-name="IN | B4U Aflamⓧ" group-title="|IN| INDIA",IN | B4U Aflamⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77947.ts
-#EXTINF:-1 tvg-name="IN | B4U Plusⓧ" group-title="|IN| INDIA",IN | B4U Plusⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77948.ts
-#EXTINF:-1 tvg-name="IN | Angel TV Arabicⓧ OFFLINE" group-title="|IN| INDIA",IN | Angel TV Arabicⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78230.ts
-#EXTINF:-1 tvg-name="IN | Captain Newsⓧ OFFLINE" group-title="|IN| INDIA",IN | Captain Newsⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92426.ts
-#EXTINF:-1 tvg-name="IN | Aditya TVⓧ" group-title="|IN| INDIA",IN | Aditya TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92425.ts
-#EXTINF:-1 tvg-name="IN | EET TVⓧ" group-title="|IN| INDIA",IN | EET TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92428.ts
-#EXTINF:-1 tvg-name="IN | Jaya Max USAⓧ" group-title="|IN| INDIA",IN | Jaya Max USAⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92429.ts
-#EXTINF:-1 tvg-name="IN | Jaya Moviesⓧ" group-title="|IN| INDIA",IN | Jaya Moviesⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92430.ts
-#EXTINF:-1 tvg-name="IN | Jaya Plusⓧ" group-title="|IN| INDIA",IN | Jaya Plusⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92431.ts
-#EXTINF:-1 tvg-name="IN | Jaya TVⓧ" group-title="|IN| INDIA",IN | Jaya TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92432.ts
-#EXTINF:-1 tvg-name="IN | KTV USAⓧ" group-title="|IN| INDIA",IN | KTV USAⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92434.ts
-#EXTINF:-1 tvg-name="IN | News 7ⓧ" group-title="|IN| INDIA",IN | News 7ⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92435.ts
-#EXTINF:-1 tvg-name="IN | Polimer TVⓧ" group-title="|IN| INDIA",IN | Polimer TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92437.ts
-#EXTINF:-1 tvg-name="IN | Puthiya Thalaimuraiⓧ" group-title="|IN| INDIA",IN | Puthiya Thalaimuraiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92438.ts
-#EXTINF:-1 tvg-name="IN | Puthuyugam TVⓧ" group-title="|IN| INDIA",IN | Puthuyugam TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92439.ts
-#EXTINF:-1 tvg-name="IN | Raj Digital Plusⓧ" group-title="|IN| INDIA",IN | Raj Digital Plusⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92440.ts
-#EXTINF:-1 tvg-name="IN | Raj Musixⓧ" group-title="|IN| INDIA",IN | Raj Musixⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92442.ts
-#EXTINF:-1 tvg-name="IN | Asianet Moviesⓧ HD " group-title="|IN| INDIA",IN | Asianet Moviesⓧ HD 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123690.ts
-#EXTINF:-1 tvg-name="IN | Yupp Thiraiⓧ OFFLINE" group-title="|IN| INDIA",IN | Yupp Thiraiⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121888.ts
-#EXTINF:-1 tvg-name="IN | Star Plus HDⓧ" group-title="|IN| INDIA",IN | Star Plus HDⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120897.ts
-#EXTINF:-1 tvg-name="IN | ZEE Aflamⓧ" group-title="|IN| INDIA",IN | ZEE Aflamⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10873.ts
-#EXTINF:-1 tvg-name="IN | News 18  Gujaratiⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18  Gujaratiⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123464.ts
-#EXTINF:-1 tvg-name="IN | News 18 Punjabⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18 Punjabⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123469.ts
-#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 2 HD" group-title="|IN| INDIA",IN | StarzPlay CricLifeⓧ 2 HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164791.ts
-#EXTINF:-1 tvg-name="IN | News 18 Urduⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18 Urduⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123474.ts
-#EXTINF:-1 tvg-name="IN | Aathavan TVⓧ OFFLINE" group-title="|IN| INDIA",IN | Aathavan TVⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123481.ts
-#EXTINF:-1 tvg-name="IN | Asianet News Banglaⓧ " group-title="|IN| INDIA",IN | Asianet News Banglaⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123691.ts
-#EXTINF:-1 tvg-name="IN | Desi Beatsⓧ OFFLINE" group-title="|IN| INDIA",IN | Desi Beatsⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123158.ts
-#EXTINF:-1 tvg-name="IN | MTV Beatsⓧ OFFLINE" group-title="|IN| INDIA",IN | MTV Beatsⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108201.ts
-#EXTINF:-1 tvg-name="IN | News 18 Chhattisgarhⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18 Chhattisgarhⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123463.ts
-#EXTINF:-1 tvg-name="IN | ABP Hindiⓧ" group-title="|IN| INDIA",IN | ABP Hindiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123157.ts
-#EXTINF:-1 tvg-name="IN | News 18 Jharkhandⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18 Jharkhandⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123465.ts
-#EXTINF:-1 tvg-name="IN | Wow Cinema Oneⓧ" group-title="|IN| INDIA",IN | Wow Cinema Oneⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121967.ts
-#EXTINF:-1 tvg-name="IN | ABP Anandaⓧ" group-title="|IN| INDIA",IN | ABP Anandaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123155.ts
-#EXTINF:-1 tvg-name="IN | News 18 Malayalamⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18 Malayalamⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123467.ts
-#EXTINF:-1 tvg-name="IN | News 18 Odiaⓧ" group-title="|IN| INDIA",IN | News 18 Odiaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123468.ts
-#EXTINF:-1 tvg-name="IN | News 18 Tamilⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18 Tamilⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123471.ts
-#EXTINF:-1 tvg-name="IN | Desi Plusⓧ" group-title="|IN| INDIA",IN | Desi Plusⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123159.ts
-#EXTINF:-1 tvg-name="IN | News 18 TamilNaduⓧ OFFLINE" group-title="|IN| INDIA",IN | News 18 TamilNaduⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123473.ts
-#EXTINF:-1 tvg-name="IN | Jus One TVⓧ" group-title="|IN| INDIA",IN | Jus One TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122264.ts
-#EXTINF:-1 tvg-name="IN | News 18 Uttarakhandⓧ " group-title="|IN| INDIA",IN | News 18 Uttarakhandⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123475.ts
-#EXTINF:-1 tvg-name="IN | 1Sportsⓧ OFFLINE" group-title="|IN| INDIA",IN | 1Sportsⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123476.ts
-#EXTINF:-1 tvg-name="IN | 7Star TVⓧ OFFLINE" group-title="|IN| INDIA",IN | 7Star TVⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123478.ts
-#EXTINF:-1 tvg-name="IN | News 18 Rajasthanⓧ " group-title="|IN| INDIA",IN | News 18 Rajasthanⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123470.ts
-#EXTINF:-1 tvg-name="IN | Aalami Saharaⓧ OFFLINE" group-title="|IN| INDIA",IN | Aalami Saharaⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123480.ts
-#EXTINF:-1 tvg-name="IN | 9XMⓧ" group-title="|IN| INDIA",IN | 9XMⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123479.ts
-#EXTINF:-1 tvg-name="IN | News 18 Kannadaⓧ" group-title="|IN| INDIA",IN | News 18 Kannadaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123466.ts
-#EXTINF:-1 tvg-name="IN | Abinayaⓧ OFFLINE" group-title="|IN| INDIA",IN | Abinayaⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123482.ts
-#EXTINF:-1 tvg-name="IN | Akaram Kidzⓧ" group-title="|IN| INDIA",IN | Akaram Kidzⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123640.ts
-#EXTINF:-1 tvg-name="IN | Asianet News Kannadaⓧ" group-title="|IN| INDIA",IN | Asianet News Kannadaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123487.ts
-#EXTINF:-1 tvg-name="IN | Asianet News Tamilⓧ" group-title="|IN| INDIA",IN | Asianet News Tamilⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123488.ts
-#EXTINF:-1 tvg-name="IN | Aastha TVⓧ" group-title="|IN| INDIA",IN | Aastha TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123638.ts
-#EXTINF:-1 tvg-name="IN | Bindassⓧ" group-title="|IN| INDIA",IN | Bindassⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123694.ts
-#EXTINF:-1 tvg-name="IN | Jonack TVⓧ" group-title="|IN| INDIA",IN | Jonack TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123695.ts
-#EXTINF:-1 tvg-name="IN | CNBC Bajarⓧ OFFLINE" group-title="|IN| INDIA",IN | CNBC Bajarⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123696.ts
-#EXTINF:-1 tvg-name="IN | CTVN AKD Plusⓧ SD" group-title="|IN| INDIA",IN | CTVN AKD Plusⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123699.ts
-#EXTINF:-1 tvg-name="IN | Sahara Oneⓧ OFFLINE" group-title="|IN| INDIA",IN | Sahara Oneⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/128378.ts
-#EXTINF:-1 tvg-name="IN | Angel TVⓧ" group-title="|IN| INDIA",IN | Angel TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123641.ts
-#EXTINF:-1 tvg-name="IN | Ayush TVⓧ" group-title="|IN| INDIA",IN | Ayush TVⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123692.ts
-#EXTINF:-1 tvg-name="IN | Alpha ETC Punjabiⓧ OFFLINE " group-title="|IN| INDIA",IN | Alpha ETC Punjabiⓧ OFFLINE 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/128483.ts
-#EXTINF:-1 tvg-name="IN | India Todayⓧ FHD" group-title="|IN| INDIA",IN | India Todayⓧ FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/129322.ts
-#EXTINF:-1 tvg-name="IN | India Todayⓧ HD" group-title="|IN| INDIA",IN | India Todayⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/129323.ts
-#EXTINF:-1 tvg-name="IN | Colors Marathiⓧ" group-title="|IN| INDIA",IN | Colors Marathiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123698.ts
-#EXTINF:-1 tvg-name="IN | Sony Marathiⓧ" group-title="|IN| INDIA",IN | Sony Marathiⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/143022.ts
-#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 3 HD OFFLINE" group-title="|IN| INDIA",IN | StarzPlay CricLifeⓧ 3 HD OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164793.ts
-#EXTINF:-1 tvg-name="IN | Bansal Newsⓧ" group-title="|IN| INDIA",IN | Bansal Newsⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123693.ts
-#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 1 HD" group-title="|IN| INDIA",IN | StarzPlay CricLifeⓧ 1 HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164789.ts
-#EXTINF:-1 tvg-name="IN | Ekattor TV Banglaⓧ " group-title="|IN| INDIA",IN | Ekattor TV Banglaⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120896.ts
-#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 2 FHD" group-title="|IN| INDIA",IN | StarzPlay CricLifeⓧ 2 FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164792.ts
-#EXTINF:-1 tvg-name="IN | Jalsha Movies HDⓧ" group-title="|IN| INDIA",IN | Jalsha Movies HDⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120895.ts
-#EXTINF:-1 tvg-name="IN | StarzPlay CricLifeⓧ 1 FHD" group-title="|IN| INDIA",IN | StarzPlay CricLifeⓧ 1 FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/164790.ts
-#EXTINF:-1 tvg-name="IN | Sony Pixⓧ" group-title="|IN| INDIA",IN | Sony Pixⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/110557.ts
-#EXTINF:-1 tvg-name="IN | Vaanvavilⓧ OFFLINE" group-title="|IN| INDIA",IN | Vaanvavilⓧ OFFLINE
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122113.ts
-#EXTINF:-1 tvg-name="IN | ABP Gangaⓧ" group-title="|IN| INDIA",IN | ABP Gangaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123156.ts
-#EXTINF:-1 tvg-name="IN | Velichamⓧ" group-title="|IN| INDIA",IN | Velichamⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122067.ts
-#EXTINF:-1 tvg-name="IN | ZEE Bangla Cinemaⓧ" group-title="|IN| INDIA",IN | ZEE Bangla Cinemaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120894.ts
-#EXTINF:-1 tvg-name="IN | 9X Jhakaasⓧ" group-title="|IN| INDIA",IN | 9X Jhakaasⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123637.ts
-#EXTINF:-1 tvg-name="IN | ABP Sanjhaⓧ" group-title="|IN| INDIA",IN | ABP Sanjhaⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123483.ts
-#EXTINF:-1 tvg-name="IN | Anjanⓧ " group-title="|IN| INDIA",IN | Anjanⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123485.ts
 #EXTINF:-1 tvg-name="Star Jalsha HD (720p)" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="India",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood (576p)" tvg-logo="https://i.imgur.com/6mNQ9mM.png" group-title="India",Goldmines Bollywood (576p)
