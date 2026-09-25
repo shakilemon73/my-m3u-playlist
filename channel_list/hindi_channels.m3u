@@ -2,6 +2,1006 @@
 #############################
 # Hindi Channels
 #############################
+#EXTINF:-1 tvg-name="GOLDTV 24/7 CHANNELS" group-title="Hindi Channels",GOLDTV 24/7 CHANNELS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1018082.ts
+#EXTINF:-1 tvg-name="ZEE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Hindi Channels",ZEE TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019844.ts
+#EXTINF:-1 tvg-name="ZEE TV USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Hindi Channels",ZEE TV USA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019845.ts
+#EXTINF:-1 tvg-name="STAR PLUS HD" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR PLUS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019855.ts
+#EXTINF:-1 tvg-name="STAR PLUS" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR PLUS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019856.ts
+#EXTINF:-1 tvg-name="STAR BHARAT HD" tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR BHARAT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019858.ts
+#EXTINF:-1 tvg-name="STAR UTSAV" tvg-logo="https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR UTSAV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019859.ts
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Jalsha--2000-x-1125--Transparent.png" group-title="Hindi Channels",STAR JALSHA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019871.ts
+#EXTINF:-1 tvg-name="UTSAV PLUS" tvg-logo="https://i.imgur.com/TERVtWT.png" group-title="Hindi Channels",UTSAV PLUS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019872.ts
+#EXTINF:-1 tvg-name="STAR BHARAT UK" tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR BHARAT UK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019876.ts
+#EXTINF:-1 tvg-name="SUN MUSIC" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Hindi Channels",SUN MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019880.ts
+#EXTINF:-1 tvg-name="SUN TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540" group-title="Hindi Channels",SUN TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019881.ts
+#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" group-title="Hindi Channels",ZOOM
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019886.ts
+#EXTINF:-1 tvg-name="WE TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/We%20TV.png" group-title="Hindi Channels",WE TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019905.ts
+#EXTINF:-1 tvg-name="ZOOM TV" tvg-logo="https://i.imgur.com/DxdhCXz.png" group-title="Hindi Channels",ZOOM TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019918.ts
+#EXTINF:-1 tvg-name="ZEE YUVA" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S9FG.png?lock=720x540" group-title="Hindi Channels",ZEE YUVA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019923.ts
+#EXTINF:-1 tvg-name="VEDIC TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vedic.png" group-title="Hindi Channels",VEDIC TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1019990.ts
+#EXTINF:-1 tvg-name="TV 5 MONDE" group-title="Hindi Channels",TV 5 MONDE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020143.ts
+#EXTINF:-1 tvg-name="& PICTURES" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Hindi Channels",& PICTURES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020162.ts
+#EXTINF:-1 tvg-name="& PICTURES FHD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Hindi Channels",& PICTURES FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020163.ts
+#EXTINF:-1 tvg-name="& PRIVE FHD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540" group-title="Hindi Channels",& PRIVE FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020164.ts
+#EXTINF:-1 tvg-name="COLORS CINEPLEX FHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Cineplex%20HD.png" group-title="Hindi Channels",COLORS CINEPLEX FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020166.ts
+#EXTINF:-1 tvg-name="COLORS CINEPLEX SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Cineplex%20HD.png" group-title="Hindi Channels",COLORS CINEPLEX SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020167.ts
+#EXTINF:-1 tvg-name="COLORS INFINITY FHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20Infinity.png" group-title="Hindi Channels",COLORS INFINITY FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020168.ts
+#EXTINF:-1 tvg-name="SONY MAX FHD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020169.ts
+#EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020170.ts
+#EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020171.ts
+#EXTINF:-1 tvg-name="SONY MAX 2 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020172.ts
+#EXTINF:-1 tvg-name="SONY PIX FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY PIX FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020173.ts
+#EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY WAH
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020174.ts
+#EXTINF:-1 tvg-name="STAR GOLD FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020175.ts
+#EXTINF:-1 tvg-name="STAR GOLD HD" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020176.ts
+#EXTINF:-1 tvg-name="STAR GOLD 2 FHD" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD 2 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020177.ts
+#EXTINF:-1 tvg-name="STAR GOLD 2" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020178.ts
+#EXTINF:-1 tvg-name="STAR GOLD SELECT FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD SELECT FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020180.ts
+#EXTINF:-1 tvg-name="STAR MOVIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/960px-STAR_Movies_logo.svg.png" group-title="Hindi Channels",STAR MOVIES FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020182.ts
+#EXTINF:-1 tvg-name="TATA SKY THEATRE FHD" tvg-logo="https://i.imgur.com/8wjX59T.png" group-title="Hindi Channels",TATA SKY THEATRE FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020192.ts
+#EXTINF:-1 tvg-name="ZEE ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/960px-Zee_Action_2025.svg.png" group-title="Hindi Channels",ZEE ACTION
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020193.ts
+#EXTINF:-1 tvg-name="ZEE ANMOL" tvg-logo="https://i.imgur.com/rskUQ83.png" group-title="Hindi Channels",ZEE ANMOL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020194.ts
+#EXTINF:-1 tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://i.imgur.com/DjzFjod.png" group-title="Hindi Channels",ZEE ANMOL CINEMA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020195.ts
+#EXTINF:-1 tvg-name="ZEE CAFE HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" group-title="Hindi Channels",ZEE CAFE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020197.ts
+#EXTINF:-1 tvg-name="ZEE CINEMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png" group-title="Hindi Channels",ZEE CINEMA FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020198.ts
+#EXTINF:-1 tvg-name="ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png" group-title="Hindi Channels",ZEE CINEMA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020199.ts
+#EXTINF:-1 tvg-name="ZEE CINEMA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png" group-title="Hindi Channels",ZEE CINEMA SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020200.ts
+#EXTINF:-1 tvg-name="ZEE CLASSIC" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540" group-title="Hindi Channels",ZEE CLASSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020201.ts
+#EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-Kadak-BLACK-transparent.png" group-title="Hindi Channels",B4U KADAK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020204.ts
+#EXTINF:-1 tvg-name="B4U MOVIES INDIA" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="Hindi Channels",B4U MOVIES INDIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020206.ts
+#EXTINF:-1 tvg-name="B4U MOVIES USA" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="Hindi Channels",B4U MOVIES USA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020207.ts
+#EXTINF:-1 tvg-name="CINEMA TV" tvg-logo="https://i.imgur.com/zhXkh8C.png" group-title="Hindi Channels",CINEMA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020210.ts
+#EXTINF:-1 tvg-name="COMEDY ACTIVE" tvg-logo="https://i.imgur.com/nk6G0gE.png" group-title="Hindi Channels",COMEDY ACTIVE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020212.ts
+#EXTINF:-1 tvg-name="DISH CINE ACTIVE" group-title="Hindi Channels",DISH CINE ACTIVE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020215.ts
+#EXTINF:-1 tvg-name="ENTER 10 HD" tvg-logo="https://i.imgur.com/wQbiGs6.png" group-title="Hindi Channels",ENTER 10 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020216.ts
+#EXTINF:-1 tvg-name="ETV CINEMA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" group-title="Hindi Channels",ETV CINEMA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020218.ts
+#EXTINF:-1 tvg-name="MAA MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",MAA MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020224.ts
+#EXTINF:-1 tvg-name="MAHA MOVIE HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Hindi Channels",MAHA MOVIE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020225.ts
+#EXTINF:-1 tvg-name="MANORANJAN" group-title="Hindi Channels",MANORANJAN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020227.ts
+#EXTINF:-1 tvg-name="MNX FHD" group-title="Hindi Channels",MNX FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020230.ts
+#EXTINF:-1 tvg-name="ROMEDY NOW" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3839f3b175376a61d9/images/LOGO_HD/LOGO_HD_pZo0YIZKB_RomedyNow1_1.png" group-title="Hindi Channels",ROMEDY NOW
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020235.ts
+#EXTINF:-1 tvg-name="SHEMAROO TV HD" tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SHEMAROO TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020236.ts
+#EXTINF:-1 tvg-name="THE Q ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/960px-E%21_Logo_Flat_2012.svg.png" group-title="Hindi Channels",THE Q ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020239.ts
+#EXTINF:-1 tvg-name="ZING" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Hindi Channels",ZING
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020242.ts
+#EXTINF:-1 tvg-name="SONY TV FHD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY TV FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020698.ts
+#EXTINF:-1 tvg-name="COLORS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",COLORS FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020699.ts
+#EXTINF:-1 tvg-name="COLORS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",COLORS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020700.ts
+#EXTINF:-1 tvg-name="COLORS UK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",COLORS UK HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020701.ts
+#EXTINF:-1 tvg-name="COLORS GUJRATI" tvg-logo="https://i.imgur.com/xl5o8tD.png" group-title="Hindi Channels",COLORS GUJRATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020702.ts
+#EXTINF:-1 tvg-name="ZEE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Hindi Channels",ZEE TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020703.ts
+#EXTINF:-1 tvg-name="SONY MAX FHD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020707.ts
+#EXTINF:-1 tvg-name="SONY MAX" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020708.ts
+#EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020709.ts
+#EXTINF:-1 tvg-name="SONY SAB" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Hindi Channels",SONY SAB
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020710.ts
+#EXTINF:-1 tvg-name="PITAARA (BK)" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pitaara-Logo_2000_X_1125_Transpharent.png" group-title="Hindi Channels",PITAARA (BK)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020714.ts
+#EXTINF:-1 tvg-name="B4U MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="Hindi Channels",B4U MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020717.ts
+#EXTINF:-1 tvg-name="B4U MUSIC" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",B4U MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020718.ts
+#EXTINF:-1 tvg-name="B4U PLUS" group-title="Hindi Channels",B4U PLUS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1020719.ts
+#EXTINF:-1 tvg-name="SHUBH CINEMA TV" tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="Hindi Channels",SHUBH CINEMA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1116614.ts
+#EXTINF:-1 tvg-name="MANORANJAN GRAND" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Manoranjan-Grand-Logo-transparent.png" group-title="Hindi Channels",MANORANJAN GRAND
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1116615.ts
+#EXTINF:-1 tvg-name="ZEE SARTHAK" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00239YNG.png?lock=720x540" group-title="Hindi Channels",ZEE SARTHAK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1119824.ts
+#EXTINF:-1 tvg-name="STAR PRAVAH FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143834_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR PRAVAH FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1121268.ts
+#EXTINF:-1 tvg-name="ASIAN TV" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="Hindi Channels",ASIAN TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1126364.ts
+#EXTINF:-1 tvg-name="FOOD FOOD HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Food%20Food.png" group-title="Hindi Channels",FOOD FOOD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1155473.ts
+#EXTINF:-1 tvg-name="POGO KIDS" tvg-logo="https://i.imgur.com/XkSR66q.png" group-title="Hindi Channels",POGO KIDS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/117790.ts
+#EXTINF:-1 tvg-name="Disney" tvg-logo="https://i.imgur.com/n0t2B3Z.png" group-title="Hindi Channels",Disney
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/117791.ts
+#EXTINF:-1 tvg-name="TV ASIA FHD" tvg-logo="https://i.imgur.com/a0BRhvr.png" group-title="Hindi Channels",TV ASIA FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1329254.ts
+#EXTINF:-1 tvg-name="ASTRO CRICKET HD" tvg-logo="https://i.imgur.com/miyMp5p.png" group-title="Hindi Channels",ASTRO CRICKET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1341119.ts
+#EXTINF:-1 tvg-name="TARANG TV" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",TARANG TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/149511.ts
+#EXTINF:-1 tvg-name="AND TV HD² ◉" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png" group-title="Hindi Channels",AND TV HD² ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/174906.ts
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002EDBYY.png?lock=720x540" group-title="Hindi Channels",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/175130.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Hindi Channels",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/175131.ts
+#EXTINF:-1 tvg-name="ZEE CLASSIC" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540" group-title="Hindi Channels",ZEE CLASSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/259159.ts
+#EXTINF:-1 tvg-name="ASIANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Asianet_2023_logo.png" group-title="Hindi Channels",ASIANET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/364793.ts
+#EXTINF:-1 tvg-name="DD KASHIR HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Kashir.png" group-title="Hindi Channels",DD KASHIR HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510195.ts
+#EXTINF:-1 tvg-name="DD NORTH EAST HD" group-title="Hindi Channels",DD NORTH EAST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510197.ts
+#EXTINF:-1 tvg-name="DD UTTAR PRADESH HD" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png?lock=720x540" group-title="Hindi Channels",DD UTTAR PRADESH HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510198.ts
+#EXTINF:-1 tvg-name="MTV FHD" group-title="Hindi Channels",MTV FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510200.ts
+#EXTINF:-1 tvg-name="MH ONE SHRADDHA HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFEZK.png?lock=720x540" group-title="Hindi Channels",MH ONE SHRADDHA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510202.ts
+#EXTINF:-1 tvg-name="MH ONE HD" group-title="Hindi Channels",MH ONE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510203.ts
+#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Hindi Channels",INVESTIGATION DISCOVERY HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510207.ts
+#EXTINF:-1 tvg-name="HUM TV HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Hindi Channels",HUM TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510208.ts
+#EXTINF:-1 tvg-name="HUM TV EUROPE HD" tvg-logo="https://i.imgur.com/l20Idz9.jpg" group-title="Hindi Channels",HUM TV EUROPE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510209.ts
+#EXTINF:-1 tvg-name="HINDU DHARMAM HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Hindu%20Dharmam.png" group-title="Hindi Channels",HINDU DHARMAM HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510210.ts
+#EXTINF:-1 tvg-name="GOOD TIMES HD" tvg-logo="https://i.imgur.com/uLmrGJk.png" group-title="Hindi Channels",GOOD TIMES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510212.ts
+#EXTINF:-1 tvg-name="GEO NEWS" tvg-logo="https://i.imgur.com/Op4EsaB.png" group-title="Hindi Channels",GEO NEWS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510213.ts
+#EXTINF:-1 tvg-name="ETV TELENGANA HD" group-title="Hindi Channels",ETV TELENGANA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510214.ts
+#EXTINF:-1 tvg-name="ETV ANDHRA PRADESH HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV%20Andhra%20Pradesh.png" group-title="Hindi Channels",ETV ANDHRA PRADESH HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510215.ts
+#EXTINF:-1 tvg-name="ETV ABHIRUCHI" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV%20Abhiruchi.png" group-title="Hindi Channels",ETV ABHIRUCHI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510216.ts
+#EXTINF:-1 tvg-name="DY 365 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DY%20365.png" group-title="Hindi Channels",DY 365 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510217.ts
+#EXTINF:-1 tvg-name="DW NEWS HD" group-title="Hindi Channels",DW NEWS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510218.ts
+#EXTINF:-1 tvg-name="NICK+ FHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick.png" group-title="Hindi Channels",NICK+ FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510219.ts
+#EXTINF:-1 tvg-name="NICK SONIC HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sonic%20Nickelodeon.png" group-title="Hindi Channels",NICK SONIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510220.ts
+#EXTINF:-1 tvg-name="ROMEDY NOW HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba3839f3b175376a61d9/images/LOGO_HD/LOGO_HD_pZo0YIZKB_RomedyNow1_1.png" group-title="Hindi Channels",ROMEDY NOW HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510221.ts
+#EXTINF:-1 tvg-name="SONIC HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sonic%20Nickelodeon.png" group-title="Hindi Channels",SONIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510222.ts
+#EXTINF:-1 tvg-name="ZEE CAFE FHD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" group-title="Hindi Channels",ZEE CAFE FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510223.ts
+#EXTINF:-1 tvg-name="B4U KADAK HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-Kadak-BLACK-transparent.png" group-title="Hindi Channels",B4U KADAK HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510224.ts
+#EXTINF:-1 tvg-name="AWAKENING DEVOTIONAL HD" group-title="Hindi Channels",AWAKENING DEVOTIONAL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510225.ts
+#EXTINF:-1 tvg-name="& PICTURES" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Hindi Channels",& PICTURES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510226.ts
+#EXTINF:-1 tvg-name="SHOWBOX MUSIC" tvg-logo="https://i.imgur.com/VrKgtfY.png" group-title="Hindi Channels",SHOWBOX MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510230.ts
+#EXTINF:-1 tvg-name="SHEMAROO TV" tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SHEMAROO TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510231.ts
+#EXTINF:-1 tvg-name="COLORS RISHTEY FHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors_Rishtey-logo_2000_X_1125_Tranpharent.png" group-title="Hindi Channels",COLORS RISHTEY FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510232.ts
+#EXTINF:-1 tvg-name="NORTH EAST LIVE HD" group-title="Hindi Channels",NORTH EAST LIVE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510235.ts
+#EXTINF:-1 tvg-name="NICK JUNIOR FHD" tvg-logo="https://i.imgur.com/ARAf8VR.png" group-title="Hindi Channels",NICK JUNIOR FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510236.ts
+#EXTINF:-1 tvg-name="COOKING ACTIVE" group-title="Hindi Channels",COOKING ACTIVE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510241.ts
+#EXTINF:-1 tvg-name="CLUBBING TV FHD" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Hindi Channels",CLUBBING TV FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510248.ts
+#EXTINF:-1 tvg-name="SANSAD TV HD" group-title="Hindi Channels",SANSAD TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510251.ts
+#EXTINF:-1 tvg-name="COLORS ODIYA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",COLORS ODIYA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510260.ts
+#EXTINF:-1 tvg-name="MTV HD" group-title="Hindi Channels",MTV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510261.ts
+#EXTINF:-1 tvg-name="NICK+ FHD ENGLISH FHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick.png" group-title="Hindi Channels",NICK+ FHD ENGLISH FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510262.ts
+#EXTINF:-1 tvg-name="HUNGAMA KIDS" tvg-logo="https://i.imgur.com/XkSR66q.png" group-title="Hindi Channels",HUNGAMA KIDS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510267.ts
+#EXTINF:-1 tvg-name="TATA SKY THEATRE FHD" tvg-logo="https://i.imgur.com/8wjX59T.png" group-title="Hindi Channels",TATA SKY THEATRE FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510275.ts
+#EXTINF:-1 tvg-name="CNN INTL HD" group-title="Hindi Channels",CNN INTL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510278.ts
+#EXTINF:-1 tvg-name="ENTERR10 MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/960px-Movies%21_logo.svg.png" group-title="Hindi Channels",ENTERR10 MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510280.ts
+#EXTINF:-1 tvg-name="SONY TEN 4 HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="Hindi Channels",SONY TEN 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510281.ts
+#EXTINF:-1 tvg-name="9X MUSIC" tvg-logo="https://i.imgur.com/VrKgtfY.png" group-title="Hindi Channels",9X MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510286.ts
+#EXTINF:-1 tvg-name="SANSKAR TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sanskar.png" group-title="Hindi Channels",SANSKAR TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510289.ts
+#EXTINF:-1 tvg-name="SATSANG TV" tvg-logo="https://dtil.tmsimg.com/assets/s143766_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SATSANG TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510290.ts
+#EXTINF:-1 tvg-name="CHANNEL WIN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Channel-Win-transparent.png" group-title="Hindi Channels",CHANNEL WIN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510291.ts
+#EXTINF:-1 tvg-name="STAR GOLD 2" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510292.ts
+#EXTINF:-1 tvg-name="AND EXPLORER HD" group-title="Hindi Channels",AND EXPLORER HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510293.ts
+#EXTINF:-1 tvg-name="MAL - SHALOM TV" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",MAL - SHALOM TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510488.ts
+#EXTINF:-1 tvg-name="BOISHAKHI TV" tvg-logo="https://i.imgur.com/gxL05Y4.png" group-title="Hindi Channels",BOISHAKHI TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/606155.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS HD TELUGU" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Kids.png" group-title="Hindi Channels",DISCOVERY KIDS HD TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/606156.ts
+#EXTINF:-1 tvg-name="TV5 MONDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/960px-Logo_TV5_Monde_-_2021.svg.png" group-title="Hindi Channels",TV5 MONDE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/606157.ts
+#EXTINF:-1 tvg-name="KHUSBOO BANGLA" group-title="Hindi Channels",KHUSBOO BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/606161.ts
+#EXTINF:-1 tvg-name="TV HD" tvg-logo="https://i.imgur.com/DLGjTfI.png" group-title="Hindi Channels",TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/606162.ts
+#EXTINF:-1 tvg-name="WOW CINEMA" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Hindi Channels",WOW CINEMA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/613388.ts
+#EXTINF:-1 tvg-name="NICK HD TELUGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nickelodeon_HD%2B_Logo_2024.png" group-title="Hindi Channels",NICK HD TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694096.ts
+#EXTINF:-1 tvg-name="NICK JUNIOR FHD TELUGU" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick.png" group-title="Hindi Channels",NICK JUNIOR FHD TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694097.ts
+#EXTINF:-1 tvg-name="MY TV HD" tvg-logo="https://i.imgur.com/475qK5T.png" group-title="Hindi Channels",MY TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694098.ts
+#EXTINF:-1 tvg-name="JAMUNA TV HD" tvg-logo="https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png" group-title="Hindi Channels",JAMUNA TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694099.ts
+#EXTINF:-1 tvg-name="MOHONA TV HD" tvg-logo="https://i.imgur.com/E6doEWH.png" group-title="Hindi Channels",MOHONA TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694101.ts
+#EXTINF:-1 tvg-name="ATN MUSIC HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Hindi Channels",ATN MUSIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694103.ts
+#EXTINF:-1 tvg-name="GTV HD" group-title="Hindi Channels",GTV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694104.ts
+#EXTINF:-1 tvg-name="DISCOVERY KIDS HD GUJARATI" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Kids.png" group-title="Hindi Channels",DISCOVERY KIDS HD GUJARATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694106.ts
+#EXTINF:-1 tvg-name="B4U BHOJPURI SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-BHOJPURI-LOGO-transparent.png" group-title="Hindi Channels",B4U BHOJPURI SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694107.ts
+#EXTINF:-1 tvg-name="SONIC HD GUJARATI" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sonic%20Nickelodeon.png" group-title="Hindi Channels",SONIC HD GUJARATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694109.ts
+#EXTINF:-1 tvg-name="NICK JUNIOR FHD GUJARATI" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick.png" group-title="Hindi Channels",NICK JUNIOR FHD GUJARATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694110.ts
+#EXTINF:-1 tvg-name="SAAM MARATHI HD" group-title="Hindi Channels",SAAM MARATHI HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694113.ts
+#EXTINF:-1 tvg-name="ATN Punjabi 5 HD" tvg-logo="https://i.imgur.com/mHJLFea.png" group-title="Hindi Channels",ATN Punjabi 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694117.ts
+#EXTINF:-1 tvg-name="TV PUNJAB HD" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="Hindi Channels",TV PUNJAB HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694119.ts
+#EXTINF:-1 tvg-name="NAMBIKKAI TV SD" tvg-logo="https://dtil.tmsimg.com/assets/s143567_ld_h9_aa.png?lock=720x540" group-title="Hindi Channels",NAMBIKKAI TV SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694122.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD MALAYALAM" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Hindi Channels",ANIMAL PLANET FHD MALAYALAM
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694124.ts
+#EXTINF:-1 tvg-name="ZEE BOLLYWOOD CANADA HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Channels",ZEE BOLLYWOOD CANADA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694126.ts
+#EXTINF:-1 tvg-name="ATN TV HD" group-title="Hindi Channels",ATN TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694127.ts
+#EXTINF:-1 tvg-name="Aapka Colors HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",Aapka Colors HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694128.ts
+#EXTINF:-1 tvg-name="7S MUSIC SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Hindi Channels",7S MUSIC SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694129.ts
+#EXTINF:-1 tvg-name="EK ONKAR HD" group-title="Hindi Channels",EK ONKAR HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694130.ts
+#EXTINF:-1 tvg-name="NEPAL 1 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",NEPAL 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694132.ts
+#EXTINF:-1 tvg-name="ZEE SALAAM HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Salaam_TV_Hindi_2000_X_1125_transpharent.png" group-title="Hindi Channels",ZEE SALAAM HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694134.ts
+#EXTINF:-1 tvg-name="ZEE BOLLYWOOD SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BOLLYWOOD/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Channels",ZEE BOLLYWOOD SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694135.ts
+#EXTINF:-1 tvg-name="BOOGLE BOLLYWOOD SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Hindi Channels",BOOGLE BOLLYWOOD SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694136.ts
+#EXTINF:-1 tvg-name="ZEE5 MUSIC CO HD" group-title="Hindi Channels",ZEE5 MUSIC CO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694140.ts
+#EXTINF:-1 tvg-name="DABANGG HD" tvg-logo="https://i.imgur.com/6ChpxLy.png" group-title="Hindi Channels",DABANGG HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694142.ts
+#EXTINF:-1 tvg-name="ABZY MOVIES SD" tvg-logo="https://i.imgur.com/LnVgKVF.png" group-title="Hindi Channels",ABZY MOVIES SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694154.ts
+#EXTINF:-1 tvg-name="PRARTHANA BHAWAN" group-title="Hindi Channels",PRARTHANA BHAWAN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694157.ts
+#EXTINF:-1 tvg-name="IDN LOKMAT" group-title="Hindi Channels",IDN LOKMAT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694159.ts
+#EXTINF:-1 tvg-name="ALANKAR TV" tvg-logo="https://dtil.tmsimg.com/assets/s142630_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",ALANKAR TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694161.ts
+#EXTINF:-1 tvg-name="TARANG MUSIC" tvg-logo="https://dtil.tmsimg.com/assets/s143926_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",TARANG MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694162.ts
+#EXTINF:-1 tvg-name="DILLI AAJ TAKK" group-title="Hindi Channels",DILLI AAJ TAKK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694164.ts
+#EXTINF:-1 tvg-name="OM SHANTI" group-title="Hindi Channels",OM SHANTI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694177.ts
+#EXTINF:-1 tvg-name="DISNEY INTERNATIONAL HD" tvg-logo="https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",DISNEY INTERNATIONAL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694181.ts
+#EXTINF:-1 tvg-name="DD URDU" tvg-logo="https://dtil.tmsimg.com/assets/s142808_ld_h9_aa.png?lock=720x540" group-title="Hindi Channels",DD URDU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/694182.ts
+#EXTINF:-1 tvg-name="GENERAL" group-title="Hindi Channels",GENERAL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72133.ts
+#EXTINF:-1 tvg-name="ZEE TV HD ◉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Hindi Channels",ZEE TV HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72135.ts
+#EXTINF:-1 tvg-name="ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png" group-title="Hindi Channels",ZEE CINEMA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72136.ts
+#EXTINF:-1 tvg-name="ZING" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="Hindi Channels",ZING
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72137.ts
+#EXTINF:-1 tvg-name="UTSAV BHARAT HD" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Hindi Channels",UTSAV BHARAT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72140.ts
+#EXTINF:-1 tvg-name="STAR GOLD HD" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72141.ts
+#EXTINF:-1 tvg-name="STAR GOLD SELECT HD" tvg-logo="https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR GOLD SELECT HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72142.ts
+#EXTINF:-1 tvg-name="STAR PLUS HD ◉" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR PLUS HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72143.ts
+#EXTINF:-1 tvg-name="STAR UTSAV" tvg-logo="https://dtil.tmsimg.com/assets/s159132_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR UTSAV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72144.ts
+#EXTINF:-1 tvg-name="STAR UTSAV MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s143856_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR UTSAV MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72145.ts
+#EXTINF:-1 tvg-name="SONY HD ◉" group-title="Hindi Channels",SONY HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72146.ts
+#EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY MAX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72147.ts
+#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY PIX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72148.ts
+#EXTINF:-1 tvg-name="SONY BBC EARTH HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY BBC EARTH HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72149.ts
+#EXTINF:-1 tvg-name="SONY SAB HD ◉" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Hindi Channels",SONY SAB HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72150.ts
+#EXTINF:-1 tvg-name="SONY PAL" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY PAL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72151.ts
+#EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY WAH
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72152.ts
+#EXTINF:-1 tvg-name="SONY YAY" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY YAY
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72153.ts
+#EXTINF:-1 tvg-name="B4U MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="Hindi Channels",B4U MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72155.ts
+#EXTINF:-1 tvg-name="COLORS HD ◉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",COLORS HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72156.ts
+#EXTINF:-1 tvg-name="9X JALWA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Hindi Channels",9X JALWA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72157.ts
+#EXTINF:-1 tvg-name="ZOOM TV HD" tvg-logo="https://i.imgur.com/DxdhCXz.png" group-title="Hindi Channels",ZOOM TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72160.ts
+#EXTINF:-1 tvg-name="AASTHA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha.png" group-title="Hindi Channels",AASTHA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72161.ts
+#EXTINF:-1 tvg-name="AASTHA BHAJAN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aastha%20Bhajan.png" group-title="Hindi Channels",AASTHA BHAJAN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72162.ts
+#EXTINF:-1 tvg-name="AND PICTURES HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Hindi Channels",AND PICTURES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72165.ts
+#EXTINF:-1 tvg-name="AND TV HD ◉" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png" group-title="Hindi Channels",AND TV HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72166.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Hindi Channels",ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72168.ts
+#EXTINF:-1 tvg-name="ARIHANT" group-title="Hindi Channels",ARIHANT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72170.ts
+#EXTINF:-1 tvg-name="B-FLIX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/960px-Movies%21_logo.svg.png" group-title="Hindi Channels",B-FLIX MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72171.ts
+#EXTINF:-1 tvg-name="BABY TV HDI" group-title="Hindi Channels",BABY TV HDI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72172.ts
+#EXTINF:-1 tvg-name="BIG MAGIC HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540" group-title="Hindi Channels",BIG MAGIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72173.ts
+#EXTINF:-1 tvg-name="CINEPLEX HD" group-title="Hindi Channels",CINEPLEX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72176.ts
+#EXTINF:-1 tvg-name="COMEDY ACTIVE" tvg-logo="https://i.imgur.com/nk6G0gE.png" group-title="Hindi Channels",COMEDY ACTIVE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72177.ts
+#EXTINF:-1 tvg-name="DD NATIONAL" tvg-logo="https://dtil.tmsimg.com/assets/s158252_ld_h9_aa.png?lock=720x540" group-title="Hindi Channels",DD NATIONAL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72180.ts
+#EXTINF:-1 tvg-name="DD RAJASTHAN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Rajasthan.png" group-title="Hindi Channels",DD RAJASTHAN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72181.ts
+#EXTINF:-1 tvg-name="DD BHARATI" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",DD BHARATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72182.ts
+#EXTINF:-1 tvg-name="DD BIHAR" tvg-logo="https://dtil.tmsimg.com/assets/s142780_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",DD BIHAR
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72183.ts
+#EXTINF:-1 tvg-name="DD INDIA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20India.png" group-title="Hindi Channels",DD INDIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72184.ts
+#EXTINF:-1 tvg-name="DD SPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Sports.png" group-title="Hindi Channels",DD SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72187.ts
+#EXTINF:-1 tvg-name="DD UP" group-title="Hindi Channels",DD UP
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72189.ts
+#EXTINF:-1 tvg-name="DISCOVERY WORLD" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Hindi Channels",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72191.ts
+#EXTINF:-1 tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/bZpe8af.png" group-title="Hindi Channels",DISCOVERY WORLD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72192.ts
+#EXTINF:-1 tvg-name="E 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="Hindi Channels",E 24
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72194.ts
+#EXTINF:-1 tvg-name="ENTER 10 MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/960px-Movies%21_logo.svg.png" group-title="Hindi Channels",ENTER 10 MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72195.ts
+#EXTINF:-1 tvg-name="EPIC HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Hindi Channels",EPIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72196.ts
+#EXTINF:-1 tvg-name="FOX LIFE HD" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Hindi Channels",FOX LIFE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72198.ts
+#EXTINF:-1 tvg-name="HISTORY TV18 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",HISTORY TV18 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72200.ts
+#EXTINF:-1 tvg-name="MINIPLEX HD" group-title="Hindi Channels",MINIPLEX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72212.ts
+#EXTINF:-1 tvg-name="MOVIES ACTIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/960px-Movies%21_logo.svg.png" group-title="Hindi Channels",MOVIES ACTIVE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72213.ts
+#EXTINF:-1 tvg-name="MTV PLUS HD" group-title="Hindi Channels",MTV PLUS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72216.ts
+#EXTINF:-1 tvg-name="MUSIC INDIA" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",MUSIC INDIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72218.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Hindi Channels",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72219.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Hindi Channels",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72220.ts
+#EXTINF:-1 tvg-name="NICK PLUS HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick.png" group-title="Hindi Channels",NICK PLUS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72232.ts
+#EXTINF:-1 tvg-name="PARAS TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="Hindi Channels",PARAS TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72233.ts
+#EXTINF:-1 tvg-name="PEACE OF MIND HD" group-title="Hindi Channels",PEACE OF MIND HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72234.ts
+#EXTINF:-1 tvg-name="MAHA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/960px-Movies%21_logo.svg.png" group-title="Hindi Channels",MAHA MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72236.ts
+#EXTINF:-1 tvg-name="SOHAM TV" tvg-logo="https://i.imgur.com/cpedJ0L.png" group-title="Hindi Channels",SOHAM TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72237.ts
+#EXTINF:-1 tvg-name="UTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/UTV_HD_India.png" group-title="Hindi Channels",UTV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72240.ts
+#EXTINF:-1 tvg-name="VEDIC TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vedic.png" group-title="Hindi Channels",VEDIC TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72242.ts
+#EXTINF:-1 tvg-name="ZEE ANMOL" tvg-logo="https://i.imgur.com/rskUQ83.png" group-title="Hindi Channels",ZEE ANMOL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72245.ts
+#EXTINF:-1 tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://i.imgur.com/DjzFjod.png" group-title="Hindi Channels",ZEE ANMOL CINEMA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72246.ts
+#EXTINF:-1 tvg-name="ZEE RAJASTHAN" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Channels",ZEE RAJASTHAN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72252.ts
+#EXTINF:-1 tvg-name="STAR BHARAT UHD" tvg-logo="https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",STAR BHARAT UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/741639.ts
+#EXTINF:-1 tvg-name="KU - ARO DRAMA" tvg-logo="https://i.imgur.com/XE0bIne.png" group-title="Hindi Channels",KU - ARO DRAMA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/804273.ts
+#EXTINF:-1 tvg-name="SONY YAY HEVC" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",SONY YAY HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808775.ts
+#EXTINF:-1 tvg-name="ZOOM TV HEVC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/TIMESPLAY/LIVECHANNEL/6904ba4039f3b175376a61de/images/LOGO_HD/LOGO_HD_KN-eM9VvQ_ZoomTV1_1.png" group-title="Hindi Channels",ZOOM TV HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808781.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Hindi Channels",NAT GEO WILD HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808783.ts
+#EXTINF:-1 tvg-name="AND FLIX HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/960px-%26flix_2025.svg.png" group-title="Hindi Channels",AND FLIX HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808789.ts
+#EXTINF:-1 tvg-name="AND PICTURES HEVC" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Hindi Channels",AND PICTURES HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808790.ts
+#EXTINF:-1 tvg-name="PUBLIC MUSIC HEVC" tvg-logo="https://dtil.tmsimg.com/assets/s143687_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",PUBLIC MUSIC HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808798.ts
+#EXTINF:-1 tvg-name="BBC EARTH HEVC" tvg-logo="https://bbcearth.ca/wp-content/uploads/2024/02/BBCEarth_Logo-1.png" group-title="Hindi Channels",BBC EARTH HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808799.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Hindi Channels",CARTOON NETWORK HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808800.ts
+#EXTINF:-1 tvg-name="DD BANGLA HEVC" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",DD BANGLA HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808807.ts
+#EXTINF:-1 tvg-name="HISTORY TV 18 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Hindi Channels",HISTORY TV 18 HEVC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808811.ts
+#EXTINF:-1 tvg-name="COLORS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",COLORS FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808857.ts
+#EXTINF:-1 tvg-name="SUNTV SD" group-title="Hindi Channels",SUNTV SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808902.ts
+#EXTINF:-1 tvg-name="AAKAASH AATH" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="Hindi Channels",AAKAASH AATH
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808975.ts
+#EXTINF:-1 tvg-name="DAIJI WORLD" group-title="Hindi Channels",DAIJI WORLD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808978.ts
+#EXTINF:-1 tvg-name="DD ODIA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Odia.png" group-title="Hindi Channels",DD ODIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808979.ts
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",Discovery Turbo
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808980.ts
+#EXTINF:-1 tvg-name="HARYANA BEATS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Haryana_Beats.png" group-title="Hindi Channels",HARYANA BEATS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808984.ts
+#EXTINF:-1 tvg-name="GOA 24X7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NM-Logo_2000_X_1125_Transpharent.png" group-title="Hindi Channels",GOA 24X7
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808986.ts
+#EXTINF:-1 tvg-name="INH 24X7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/INH%2024X7.png" group-title="Hindi Channels",INH 24X7
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808987.ts
+#EXTINF:-1 tvg-name="LIVE PUNJABI HD" group-title="Hindi Channels",LIVE PUNJABI HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808992.ts
+#EXTINF:-1 tvg-name="NAMMA TV" group-title="Hindi Channels",NAMMA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808994.ts
+#EXTINF:-1 tvg-name="SHRI ASHTAVINAYAK MAHAGANPATI" group-title="Hindi Channels",SHRI ASHTAVINAYAK MAHAGANPATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/808998.ts
+#EXTINF:-1 tvg-name="SHRI MAHALAXMI TEMPLE" group-title="Hindi Channels",SHRI MAHALAXMI TEMPLE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809001.ts
+#EXTINF:-1 tvg-name="SUBHARTI TV" tvg-logo="https://i.imgur.com/9hdNFtt.png" group-title="Hindi Channels",SUBHARTI TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809003.ts
+#EXTINF:-1 tvg-name="TATA PLAY ENGLISH IN TELUGU" group-title="Hindi Channels",TATA PLAY ENGLISH IN TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809007.ts
+#EXTINF:-1 tvg-name="VALAM TV HD" group-title="Hindi Channels",VALAM TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809010.ts
+#EXTINF:-1 tvg-name="& FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/960px-%26flix_2025.svg.png" group-title="Hindi Channels",& FLIX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809013.ts
+#EXTINF:-1 tvg-name="AND PRIVE FHD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540" group-title="Hindi Channels",AND PRIVE FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809014.ts
+#EXTINF:-1 tvg-name="AND PRIVE HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540" group-title="Hindi Channels",AND PRIVE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809015.ts
+#EXTINF:-1 tvg-name="AND XPLOR FHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Channels",AND XPLOR FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809016.ts
+#EXTINF:-1 tvg-name="AND EXPLORER HD" group-title="Hindi Channels",AND EXPLORER HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809017.ts
+#EXTINF:-1 tvg-name="TV5 KANNADA HD" tvg-logo="https://dtil.tmsimg.com/assets/s144024_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",TV5 KANNADA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809019.ts
+#EXTINF:-1 tvg-name="NTV TELUGU SD" group-title="Hindi Channels",NTV TELUGU SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809020.ts
+#EXTINF:-1 tvg-name="HM TV HD" group-title="Hindi Channels",HM TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809021.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD TELUGU" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Hindi Channels",ANIMAL PLANET FHD TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809022.ts
+#EXTINF:-1 tvg-name="POGO HD TELUGU" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pogo.png" group-title="Hindi Channels",POGO HD TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809023.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD FHD TELUGU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Hindi Channels",NAT GEO WILD FHD TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809024.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD TELUGU" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Hindi Channels",CARTOON NETWORK HD TELUGU
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809025.ts
+#EXTINF:-1 tvg-name="MADANI TV BANGLA" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Hindi Channels",MADANI TV BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809026.ts
+#EXTINF:-1 tvg-name="ITV MOVIE BANGLA FHD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="Hindi Channels",ITV MOVIE BANGLA FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809030.ts
+#EXTINF:-1 tvg-name="GAAN BANGLA-MUSIC HD" tvg-logo="https://i.imgur.com/XS9mq4n.png" group-title="Hindi Channels",GAAN BANGLA-MUSIC HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809032.ts
+#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="Hindi Channels",CHANNEL I HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809034.ts
+#EXTINF:-1 tvg-name="CHANNEL 9 HD" tvg-logo="https://i.imgur.com/Xf5YuoE.png" group-title="Hindi Channels",CHANNEL 9 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809035.ts
+#EXTINF:-1 tvg-name="ATN ISLAMIC TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x50681" group-title="Hindi Channels",ATN ISLAMIC TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809037.ts
+#EXTINF:-1 tvg-name="EKATTOR TV HD" tvg-logo="https://i.imgur.com/zoLwwUK.png" group-title="Hindi Channels",EKATTOR TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809039.ts
+#EXTINF:-1 tvg-name="AMAR BANGAL" group-title="Hindi Channels",AMAR BANGAL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809040.ts
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://i.imgur.com/4JLkaF7.png" group-title="Hindi Channels",CHANNEL 24
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809041.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET FHD GUJARATI" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Hindi Channels",ANIMAL PLANET FHD GUJARATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809044.ts
+#EXTINF:-1 tvg-name="NICK HD GUJARATI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nickelodeon_HD%2B_Logo_2024.png" group-title="Hindi Channels",NICK HD GUJARATI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809045.ts
+#EXTINF:-1 tvg-name="ZEE 24 KALAK GUJRATI HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_KALAK/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Channels",ZEE 24 KALAK GUJRATI HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809046.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 1" tvg-logo="https://i.imgur.com/JjZj5JE.png" group-title="Hindi Channels",VANDE GUJARAT 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809047.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 2" tvg-logo="https://i.imgur.com/fZeOwSM.png" group-title="Hindi Channels",VANDE GUJARAT 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809048.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 3" tvg-logo="https://i.imgur.com/Q1b3XRZ.png" group-title="Hindi Channels",VANDE GUJARAT 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809049.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 4" tvg-logo="https://i.imgur.com/67GZ2hN.png" group-title="Hindi Channels",VANDE GUJARAT 4
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809050.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png" group-title="Hindi Channels",VANDE GUJARAT 5
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809051.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 6" tvg-logo="https://i.imgur.com/hClW7Cv.png" group-title="Hindi Channels",VANDE GUJARAT 6
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809052.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 7" tvg-logo="https://i.imgur.com/epnEnpG.png" group-title="Hindi Channels",VANDE GUJARAT 7
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809053.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 8" tvg-logo="https://i.imgur.com/UDcdxXl.png" group-title="Hindi Channels",VANDE GUJARAT 8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809054.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 9" tvg-logo="https://i.imgur.com/dU05ftn.png" group-title="Hindi Channels",VANDE GUJARAT 9
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809055.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 10" tvg-logo="https://i.imgur.com/YSECJPy.png" group-title="Hindi Channels",VANDE GUJARAT 10
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809056.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 11" tvg-logo="https://i.imgur.com/OkXeGI9.png" group-title="Hindi Channels",VANDE GUJARAT 11
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809057.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 12" tvg-logo="https://i.imgur.com/K0F4jQ1.png" group-title="Hindi Channels",VANDE GUJARAT 12
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809058.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 13" tvg-logo="https://i.imgur.com/eoDwNZx.png" group-title="Hindi Channels",VANDE GUJARAT 13
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809059.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 14" tvg-logo="https://i.imgur.com/1n2gMHF.png" group-title="Hindi Channels",VANDE GUJARAT 14
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809060.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 15" tvg-logo="https://i.imgur.com/5xN2AnH.png" group-title="Hindi Channels",VANDE GUJARAT 15
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809061.ts
+#EXTINF:-1 tvg-name="VANDE GUJARAT 16" tvg-logo="https://i.imgur.com/xVRuk5X.png" group-title="Hindi Channels",VANDE GUJARAT 16
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809062.ts
+#EXTINF:-1 tvg-name="FAKT MARATHI HD" tvg-logo="https://dtil.tmsimg.com/assets/s143038_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",FAKT MARATHI HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809063.ts
+#EXTINF:-1 tvg-name="PUNJABI TV HD" group-title="Hindi Channels",PUNJABI TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809064.ts
+#EXTINF:-1 tvg-name="VISION PUNJAB GURBANI HD" tvg-logo="https://i.imgur.com/YozqNL3.jpg" group-title="Hindi Channels",VISION PUNJAB GURBANI HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809065.ts
+#EXTINF:-1 tvg-name="3 TAMIL TV HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj" group-title="Hindi Channels",3 TAMIL TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809067.ts
+#EXTINF:-1 tvg-name="VAANAVIL HD" group-title="Hindi Channels",VAANAVIL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809068.ts
+#EXTINF:-1 tvg-name="BHARAT SAMACHAR HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png" group-title="Hindi Channels",BHARAT SAMACHAR HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809069.ts
+#EXTINF:-1 tvg-name="DD YADAGIRI HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Yadagiri.png" group-title="Hindi Channels",DD YADAGIRI HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809070.ts
+#EXTINF:-1 tvg-name="ZEE UTTAR PRADESH UTTARAKHAND SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="Hindi Channels",ZEE UTTAR PRADESH UTTARAKHAND SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809073.ts
+#EXTINF:-1 tvg-name="9X TASHAN HD" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",9X TASHAN HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809074.ts
+#EXTINF:-1 tvg-name="BBC WORLD NEWS HD" group-title="Hindi Channels",BBC WORLD NEWS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809075.ts
+#EXTINF:-1 tvg-name="9XM HD" group-title="Hindi Channels",9XM HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809077.ts
+#EXTINF:-1 tvg-name="& FLIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/960px-%26flix_2025.svg.png" group-title="Hindi Channels",& FLIX FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809078.ts
+#EXTINF:-1 tvg-name="SANSAD TV SD" group-title="Hindi Channels",SANSAD TV SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809079.ts
+#EXTINF:-1 tvg-name="JONACK TV SD" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" group-title="Hindi Channels",JONACK TV SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809081.ts
+#EXTINF:-1 tvg-name="CHANNEL-S HD" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="Hindi Channels",CHANNEL-S HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809084.ts
+#EXTINF:-1 tvg-name="HAREKRSNA HD" group-title="Hindi Channels",HAREKRSNA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809085.ts
+#EXTINF:-1 tvg-name="KRISHNA VANI DEVOTIONAL HD" group-title="Hindi Channels",KRISHNA VANI DEVOTIONAL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809086.ts
+#EXTINF:-1 tvg-name="DD KISAN HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Kisan.png" group-title="Hindi Channels",DD KISAN HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809087.ts
+#EXTINF:-1 tvg-name="JIO EVENTS FHD" group-title="Hindi Channels",JIO EVENTS FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/809089.ts
+#EXTINF:-1 tvg-name="COLORS CINEPLEX BOLLYWOOD HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors-Cineplex-Bollywood-Transparent.png" group-title="Hindi Channels",COLORS CINEPLEX BOLLYWOOD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/993321.ts
+#EXTINF:-1 tvg-name="COLORS ORIYA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Hindi Channels",COLORS ORIYA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/993322.ts
+
 #EXTINF:-1 tvg-name="Star Jalsha HD (720p)" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="India",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-name="Goldmines Bollywood (576p)" tvg-logo="https://i.imgur.com/6mNQ9mM.png" group-title="India",Goldmines Bollywood (576p)
