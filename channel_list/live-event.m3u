@@ -1,1 +1,4 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name="tapmad" tvg-logo="https://i.postimg.cc/VNSjFVm6/Chat-GPT-Image-Sep-25-2026-02-25-52-PM.png" group-title="cricket",Ban VS Mal Football match
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://name-port.to/Gregory123/Gregory321/1400557
