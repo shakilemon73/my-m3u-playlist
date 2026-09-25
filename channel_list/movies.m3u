@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U name="Playlist with logos (2)"
 #EXTINF:-1 tvg-name="STAR JALSHA MOVIES HD" tvg-logo="https://dtil.tmsimg.com/assets/s143219_ld_h15_aa.png?lock=720x540" group-title="Bangla Channels",STAR JALSHA MOVIES HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 http://vca.easy747.com/live/93653542FAAC/3186163D9743/34725.ts
