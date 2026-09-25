@@ -1,4 +1,138 @@
 #EXTM3U
+#EXTM3U name="Playlist with logos (2)"
+#EXTINF:-1 tvg-name="STAR JALSHA MOVIES HD" tvg-logo="https://dtil.tmsimg.com/assets/s143219_ld_h15_aa.png?lock=720x540" group-title="Bangla Channels",STAR JALSHA MOVIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/34725.ts
+#EXTINF:-1 tvg-name="STAR JALSHA HD ◉" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Jalsha--2000-x-1125--Transparent.png" group-title="Bangla Channels",STAR JALSHA HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/34726.ts
+#EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" group-title="Bangla Channels",SANGEET BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/34727.ts
+#EXTINF:-1 tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Bangla Channels",NAT GEO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/34729.ts
+#EXTINF:-1 tvg-name="COLORS BANGLA HD ◉" tvg-logo="https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png?lock=720x540" group-title="Bangla Channels",COLORS BANGLA HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/34730.ts
+#EXTINF:-1 tvg-name="ZEE BANGLA HD ◉" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Bangla Channels",ZEE BANGLA HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/34731.ts
+#EXTINF:-1 tvg-name="IBTV USA" group-title="Bangla Channels",IBTV USA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/294164.ts
+#EXTINF:-1 tvg-name="iTV UK" group-title="Bangla Channels",iTV UK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510483.ts
+#EXTINF:-1 tvg-name="ENTER 10 BANGLA" group-title="Bangla Channels",ENTER 10 BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510484.ts
+#EXTINF:-1 tvg-name="DISCOVERY HD BENGALI" group-title="Bangla Channels",DISCOVERY HD BENGALI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510485.ts
+#EXTINF:-1 tvg-name="SUN BANGLA" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540" group-title="Bangla Channels",SUN BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510486.ts
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Bangla Channels",T SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/510487.ts
+#EXTINF:-1 tvg-name="GENERAL" group-title="Bangla Channels",GENERAL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72254.ts
+#EXTINF:-1 tvg-name="ATN BANGLA UK" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="Bangla Channels",ATN BANGLA UK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72255.ts
+#EXTINF:-1 tvg-name="NTV" group-title="Bangla Channels",NTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72257.ts
+#EXTINF:-1 tvg-name="ZEE BANGLA HD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Bangla Channels",ZEE BANGLA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72258.ts
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="Bangla Channels",ATN BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72262.ts
+#EXTINF:-1 tvg-name="24 GHANTA TV" group-title="Bangla Channels",24 GHANTA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/72323.ts
+#EXTINF:-1 tvg-name="COLORS BANGLA HD" tvg-logo="https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png?lock=720x540" group-title="Bangla Channels",COLORS BANGLA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76179.ts
+#EXTINF:-1 tvg-name="CHANNEL S" group-title="Bangla Channels",CHANNEL S
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76180.ts
+#EXTINF:-1 tvg-name="NTV" group-title="Bangla Channels",NTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76181.ts
+#EXTINF:-1 tvg-name="SANGEET" group-title="Bangla Channels",SANGEET
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76190.ts
+#EXTINF:-1 tvg-name="RUPASHI" group-title="Bangla Channels",RUPASHI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76191.ts
+#EXTINF:-1 tvg-name="COLORS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512" group-title="Bangla Channels",COLORS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76194.ts
+#EXTINF:-1 tvg-name="ATN" group-title="Bangla Channels",ATN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76197.ts
+#EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Jalsha--2000-x-1125--Transparent.png" group-title="Bangla Channels",STAR JALSHA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76204.ts
+#EXTINF:-1 tvg-name="STAR JALSHA MOVIES HD" tvg-logo="https://dtil.tmsimg.com/assets/s143219_ld_h15_aa.png?lock=720x540" group-title="Bangla Channels",STAR JALSHA MOVIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/76205.ts
+#EXTINF:-1 tvg-name="UK" group-title="Bangla Channels",UK
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78930.ts
+#EXTINF:-1 tvg-name="TV ONE" group-title="Bangla Channels",TV ONE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78934.ts
+#EXTINF:-1 tvg-name="ASIA" tvg-logo="https://i.imgur.com/Sl5Shjg.png" group-title="Bangla Channels",ASIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78935.ts
+#EXTINF:-1 tvg-name="JALSHA MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s143219_ld_h15_aa.png?lock=720x540" group-title="Bangla Channels",JALSHA MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78937.ts
+#EXTINF:-1 tvg-name="STAR JALSHA+" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Jalsha--2000-x-1125--Transparent.png" group-title="Bangla Channels",STAR JALSHA+
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78938.ts
+#EXTINF:-1 tvg-name="AAKAASH BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Aakash_Aath_3.jpeg" group-title="Bangla Channels",AAKAASH BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78939.ts
+#EXTINF:-1 tvg-name="BTV" group-title="Bangla Channels",BTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78946.ts
+#EXTINF:-1 tvg-name="DHOOM MUSIC" tvg-logo="https://dtil.tmsimg.com/assets/s142882_ld_h15_aa.png?lock=720x540" group-title="Bangla Channels",DHOOM MUSIC
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78953.ts
+#EXTINF:-1 tvg-name="ETV BANGLA" group-title="Bangla Channels",ETV BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78955.ts
+#EXTINF:-1 tvg-name="iTV" group-title="Bangla Channels",iTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78957.ts
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="Bangla Channels",SONY AATH
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78972.ts
+#EXTINF:-1 tvg-name="STAR JHALSA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Movies%21_logo.svg/960px-Movies%21_logo.svg.png" group-title="Bangla Channels",STAR JHALSA MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78973.ts
+#EXTINF:-1 tvg-name="TIME TELEVISION" tvg-logo="https://i.imgur.com/foaF7e1.png" group-title="Bangla Channels",TIME TELEVISION
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78976.ts
+#EXTINF:-1 tvg-name="ATN BANGLA USA" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="Bangla Channels",ATN BANGLA USA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78978.ts
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Bangla Channels",ZEE BANGLA
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/78981.ts
+#EXTINF:-1 tvg-name="ANANDA TV" tvg-logo="https://hosting.renderforestsites.com/35126779/1641323/media/080149eae7588f361ccb01b1387c00ca.webp" group-title="Bangla Channels",ANANDA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/79006.ts
+#EXTINF:-1 tvg-name="BTV WORLD" group-title="Bangla Channels",BTV WORLD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/928141.ts
+
 #EXTINF:-1 tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="TV",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="TV",BET
