@@ -1,11 +1,557 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CD3vZU6.png" tvg-name="4ever Drama (1080p)" group-title="Series",4ever Drama (1080p)
-https://iptv.prosto.tv/ch49/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFPRaXK.png" tvg-name="5 Cops" group-title="Series",5 Cops
-https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-name="13 Teleseries (720p)" group-title="Series",13 Teleseries (720p)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2pEs8H.png" tvg-name="16 Anni e Incinta" group-title="Series",16 Anni e Incinta
-https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-name="48 Hours" group-title="Series",48 Hours
-https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
+#############################
+# Series & TV Show
+#############################
+#EXTINF:-1 tvg-name="US - STARZ IN BLACK WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-in-black-us.png" group-title="series",US - STARZ IN BLACK WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032493.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME 2 WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png" group-title="series",US - SHOWTIME 2 WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032494.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME NEXT WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png" group-title="series",US - SHOWTIME NEXT WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032495.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME SHOWCASE WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png" group-title="series",US - SHOWTIME SHOWCASE WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032496.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME WOMEN WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" group-title="series",US - SHOWTIME WOMEN WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032497.ts
+#EXTINF:-1 tvg-name="US - MY TIME MOVIE NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/512px-As_seen_on_TV.svg.png" group-title="series",US - MY TIME MOVIE NETWORK HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032499.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 10 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054877.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 9 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054878.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 8 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054879.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054880.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054881.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054882.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054883.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054884.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054885.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054886.ts
+#EXTINF:-1 tvg-name="##### US - APPLE TV+ ##### " group-title="series",##### US - APPLE TV+ ##### 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054888.ts
+#EXTINF:-1 tvg-name="##### US - HULU #####" group-title="series",##### US - HULU #####
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054947.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 19 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 19 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054955.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 18 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 18 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054956.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 17 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 17 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054957.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 16 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 16 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054958.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 15 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 15 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054959.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 14 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 14 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054960.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 13 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054961.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 12 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054962.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 11 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054963.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 10 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054964.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 9 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054965.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 8 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054966.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054967.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054968.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054969.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054970.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054971.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054972.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054973.ts
+#EXTINF:-1 tvg-name="US - HULU ORIGINALS INFO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/512px-Hulu_Logo.svg.png" group-title="series",US - HULU ORIGINALS INFO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1054974.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES INFO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES INFO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055033.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055034.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055035.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055036.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055037.ts
+#EXTINF:-1 tvg-name="US -  PEACOCK SERIES 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US -  PEACOCK SERIES 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055038.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055039.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055040.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 8 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055041.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 9 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055042.ts
+#EXTINF:-1 tvg-name="US -  PEACOCK SERIES 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US -  PEACOCK SERIES 10 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055043.ts
+#EXTINF:-1 tvg-name="US -  PEACOCK SERIES 11 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US -  PEACOCK SERIES 11 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055044.ts
+#EXTINF:-1 tvg-name="US - PEACOCK SERIES 12 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-peacock-flat-us.png" group-title="series",US - PEACOCK SERIES 12 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055045.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND INFO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND INFO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055046.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055047.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055048.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055049.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055050.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055051.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055052.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055053.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 8 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055054.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 9 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055055.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ ON-DEMAND 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="series",US - PARAMOUNT+ ON-DEMAND 10 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055056.ts
+#EXTINF:-1 tvg-name="##### US - PEACOCK #####" group-title="series",##### US - PEACOCK #####
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055131.ts
+#EXTINF:-1 tvg-name="##### US - PARAMOUNT+ #####" group-title="series",##### US - PARAMOUNT+ #####
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055136.ts
+#EXTINF:-1 tvg-name="##### US - FILMRISE #####" group-title="series",##### US - FILMRISE #####
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1055237.ts
+#EXTINF:-1 tvg-name="US - RETRO PLEX WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/plex-retroplex-us.png" group-title="series",US - RETRO PLEX WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1060159.ts
+#EXTINF:-1 tvg-name="US - GREAT AMERICAN FAITH &amp; LIVING HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-faith-and-living-us.png" group-title="series",US - GREAT AMERICAN FAITH &amp; LIVING HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1060169.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT NETWORK WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="series",US - PARAMOUNT NETWORK WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1060173.ts
+#EXTINF:-1 tvg-name="US - AFRO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/afro-us.png" group-title="series",US - AFRO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1060175.ts
+#EXTINF:-1 tvg-name="##### US - HBO MAX #####" group-title="series",##### US - HBO MAX #####
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255872.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255873.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255874.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255875.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255876.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255877.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255878.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255879.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 8 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255880.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 9 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255881.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 10 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255882.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 11 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 11 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255883.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 12 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 12 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255884.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 13 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 13 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255885.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 14 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 14 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255886.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 15 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 15 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255887.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 16 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 16 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255888.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND 17 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND 17 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1255889.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ PREMIERE 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ PREMIERE 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258173.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ PREMIERE 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ PREMIERE 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258174.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 1 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258175.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258176.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 3 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258177.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 4 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258178.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 5 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258179.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 6 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 6 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258180.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 7 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258181.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 8 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258182.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 9 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 9 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258183.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ SEREIS 10 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ SEREIS 10 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258184.ts
+#EXTINF:-1 tvg-name="##### US - DISNEY+ #####" tvg-logo="https://i.imgur.com/n0t2B3Z.png" group-title="series",##### US - DISNEY+ #####
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1258185.ts
+#EXTINF:-1 tvg-name="US - CINEMAX MORE MAX EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="series",US - CINEMAX MORE MAX EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1269341.ts
+#EXTINF:-1 tvg-name="US - HBO HITS EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-hits-us.png" group-title="series",US - HBO HITS EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1271018.ts
+#EXTINF:-1 tvg-name="US - HBO MAX ON-DEMAND INFO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="series",US - HBO MAX ON-DEMAND INFO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1280634.ts
+#EXTINF:-1 tvg-name="US - MIRAMAX MOVIE CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Miramax_2010_logo.svg/512px-Miramax_2010_logo.svg.png" group-title="series",US - MIRAMAX MOVIE CHANNEL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1293664.ts
+#EXTINF:-1 tvg-name="US - APPLE TV+ SERIES INFO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AppleTVLogo.svg/512px-AppleTVLogo.svg.png" group-title="series",US - APPLE TV+ SERIES INFO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1333031.ts
+#EXTINF:-1 tvg-name="US - DISNEY+ INFO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-plus-us.png" group-title="series",US - DISNEY+ INFO HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1333032.ts
+#EXTINF:-1 tvg-name="US - GREAT FHD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png" group-title="series",US - GREAT FHD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1382486.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ WITH SHOWTIME EAST FHD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-with-showtime-us.png" group-title="series",US - PARAMOUNT+ WITH SHOWTIME EAST FHD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1427912.ts
+#EXTINF:-1 tvg-name="US - PARAMOUNT+ WITH SHOWTIME WEST FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-with-showtime-us.png" group-title="series",US - PARAMOUNT+ WITH SHOWTIME WEST FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1427913.ts
+#EXTINF:-1 tvg-name="US - HBO LATINO WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-latino-us.png" group-title="series",US - HBO LATINO WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/189296.ts
+#EXTINF:-1 tvg-name="US - HBO LATINO EAST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-latino-us.png" group-title="series",US - HBO LATINO EAST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/189297.ts
+#EXTINF:-1 tvg-name="US - SHO x BET HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-with-showtime-us.png" group-title="series",US - SHO x BET HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/189298.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE ESPANYOL HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-espanol-us.png" group-title="series",US - STARZ ENCORE ESPANYOL HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/200959.ts
+#EXTINF:-1 tvg-name="US - THE FILM DETECTIVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/film-detective-us.png" group-title="series",US - THE FILM DETECTIVE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/200960.ts
+#EXTINF:-1 tvg-name="US - CINE LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/512px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png" group-title="series",US - CINE LIFE HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/200961.ts
+#EXTINF:-1 tvg-name="US - SCREENPIX HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/screenpix-us.png" group-title="series",US - SCREENPIX HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/275011.ts
+#EXTINF:-1 tvg-name="US - SCREENPIX ACTION HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/screenpix-action-us.png" group-title="series",US - SCREENPIX ACTION HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/275012.ts
+#EXTINF:-1 tvg-name="US - SCREENPIX VOICES HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/screenpix-voices-us.png" group-title="series",US - SCREENPIX VOICES HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/275013.ts
+#EXTINF:-1 tvg-name="US - SCREENPIX WESTERNS HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/screenpix-westerns-us.png" group-title="series",US - SCREENPIX WESTERNS HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/275014.ts
+#EXTINF:-1 tvg-name="US - COMEDY DYNAMICS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="series",US - COMEDY DYNAMICS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/275015.ts
+#EXTINF:-1 tvg-name="US - CRUNCHYROLL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Crunchyroll_Logo.png/512px-Crunchyroll_Logo.png" group-title="series",US - CRUNCHYROLL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/633262.ts
+#EXTINF:-1 tvg-name="##### US - PREMIUM #####" group-title="series",##### US - PREMIUM #####
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/69537.ts
+#EXTINF:-1 tvg-name="US - LIFETIME MOVIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movies-us.png" group-title="series",US - LIFETIME MOVIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71413.ts
+#EXTINF:-1 tvg-name="US - SONY MOVIE CHANNEL HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movie-channel-us.png" group-title="series",US - SONY MOVIE CHANNEL HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71415.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME WEST HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="series",US - SHOWTIME WEST HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71852.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="series",US - SHOWTIME EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71853.ts
+#EXTINF:-1 tvg-name="US - HBO WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="series",US - HBO WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71854.ts
+#EXTINF:-1 tvg-name="US - HBO EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="series",US - HBO EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71855.ts
+#EXTINF:-1 tvg-name="US - MGM+ EAST HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="series",US - MGM+ EAST HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71857.ts
+#EXTINF:-1 tvg-name="US - MGM+ HITS HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-hits-us.png" group-title="series",US - MGM+ HITS HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71858.ts
+#EXTINF:-1 tvg-name="US - CINEMAX WEST HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="series",US - CINEMAX WEST HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71860.ts
+#EXTINF:-1 tvg-name="US - CINE SONY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movie-channel-us.png" group-title="series",US - CINE SONY HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71861.ts
+#EXTINF:-1 tvg-name="US - STARZ EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="series",US - STARZ EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71862.ts
+#EXTINF:-1 tvg-name="US - MGM+ MARQUEE HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-marquee-us.png" group-title="series",US - MGM+ MARQUEE HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71863.ts
+#EXTINF:-1 tvg-name="US - STARZ CINEMA HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png" group-title="series",US - STARZ CINEMA HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71864.ts
+#EXTINF:-1 tvg-name="US - HBO SIGNATURE HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-drama-us.png" group-title="series",US - HBO SIGNATURE HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71865.ts
+#EXTINF:-1 tvg-name="US - HBO COMEDY HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="series",US - HBO COMEDY HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71866.ts
+#EXTINF:-1 tvg-name="US - CINEMAX 5 STARMAX HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="series",US - CINEMAX 5 STARMAX HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71868.ts
+#EXTINF:-1 tvg-name="US - TURNER CLASSIC MOVIES HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="series",US - TURNER CLASSIC MOVIES HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71869.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png" group-title="series",US - STARZ ENCORE HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71870.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE WEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png" group-title="series",US - STARZ ENCORE WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71872.ts
+#EXTINF:-1 tvg-name="US - STARZ WEST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="series",US - STARZ WEST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71873.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE CLASSIC HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-classic-us.png" group-title="series",US - STARZ ENCORE CLASSIC HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71874.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE BLACK HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-black-us.png" group-title="series",US - STARZ ENCORE BLACK HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71875.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE WESTERNS HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-westerns-us.png" group-title="series",US - STARZ ENCORE WESTERNS HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71876.ts
+#EXTINF:-1 tvg-name="US - STARZ KIDS AND FAMILY HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-kids-and-family-us.png" group-title="series",US - STARZ KIDS AND FAMILY HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71877.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE FAMILY HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-family-us.png" group-title="series",US - STARZ ENCORE FAMILY HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71878.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE SUSPENSE HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-suspense-us.png" group-title="series",US - STARZ ENCORE SUSPENSE HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71879.ts
+#EXTINF:-1 tvg-name="US - HBO HITS WEST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-hits-us.png" group-title="series",US - HBO HITS WEST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71881.ts
+#EXTINF:-1 tvg-name="US - HDNET MOVIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hdnet-movies-us.png" group-title="series",US - HDNET MOVIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71883.ts
+#EXTINF:-1 tvg-name="US - MOVIE PLEX HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/plex-movieplex-us.png" group-title="series",US - MOVIE PLEX HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71884.ts
+#EXTINF:-1 tvg-name="US - INDIE PLEX HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/plex-indieplex-us.png" group-title="series",US - INDIE PLEX HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71885.ts
+#EXTINF:-1 tvg-name="US - RETRO PLEX EAST HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/plex-retroplex-us.png" group-title="series",US - RETRO PLEX EAST HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71886.ts
+#EXTINF:-1 tvg-name="US - STARZ COMEDY HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png" group-title="series",US - STARZ COMEDY HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71887.ts
+#EXTINF:-1 tvg-name="US - STARZ EDGE HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-edge-us.png" group-title="series",US - STARZ EDGE HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71888.ts
+#EXTINF:-1 tvg-name="US - STARZ IN BLACK EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-in-black-us.png" group-title="series",US - STARZ IN BLACK EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71889.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME 2 HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png" group-title="series",US - SHOWTIME 2 HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71893.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME SHOWCASE EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png" group-title="series",US - SHOWTIME SHOWCASE EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71894.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME EXTREME HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png" group-title="series",US - SHOWTIME EXTREME HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71895.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME FAMILY ZONE HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-family-zone-us.png" group-title="series",US - SHOWTIME FAMILY ZONE HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71896.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME WOMEN EAST HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" group-title="series",US - SHOWTIME WOMEN EAST HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71897.ts
+#EXTINF:-1 tvg-name="US - SHOWTIME NEXT HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png" group-title="series",US - SHOWTIME NEXT HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71898.ts
+#EXTINF:-1 tvg-name="US - STARZ ENCORE ACTION HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png" group-title="series",US - STARZ ENCORE ACTION HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71899.ts
+#EXTINF:-1 tvg-name="US - CINEMAX MORE MAX WEST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="series",US - CINEMAX MORE MAX WEST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71900.ts
+#EXTINF:-1 tvg-name="US - CINEMAX EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="series",US - CINEMAX EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71904.ts
+#EXTINF:-1 tvg-name="US - CINEMAX ACTION MAX EAST HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-action-us.png" group-title="series",US - CINEMAX ACTION MAX EAST HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71905.ts
+#EXTINF:-1 tvg-name="US - HBO ZONE HD ◉ " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-movies-us.png" group-title="series",US - HBO ZONE HD ◉ 
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/83135.ts
+#EXTINF:-1 tvg-name="US - CINEMAX LATINO EAST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-en-espanol-us.png" group-title="series",US - CINEMAX LATINO EAST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/977937.ts
+#EXTINF:-1 tvg-name="US - GRAVITAS MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Gravitas_Ventures_logo.png/320px-Gravitas_Ventures_logo.png" group-title="series",US - GRAVITAS MOVIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/978352.ts
+#EXTINF:-1 tvg-name="US - FILMRISE CONCURSOS DE COCINA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE CONCURSOS DE COCINA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984825.ts
+#EXTINF:-1 tvg-name="US - FILMRISE CRÍMENES VERDADEROS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-crime-us.png" group-title="series",US - FILMRISE CRÍMENES VERDADEROS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984826.ts
+#EXTINF:-1 tvg-name="US - FILMRISE PELÍCULAS GRATIS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE PELÍCULAS GRATIS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984827.ts
+#EXTINF:-1 tvg-name="US - FILMRISE SCI-FI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE SCI-FI HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984828.ts
+#EXTINF:-1 tvg-name="US - FILMRISE HORROR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE HORROR HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984829.ts
+#EXTINF:-1 tvg-name="US - FILMRISE ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE ACTION HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984830.ts
+#EXTINF:-1 tvg-name="US - FILMRISE TRUE CRIME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-crime-us.png" group-title="series",US - FILMRISE TRUE CRIME HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984831.ts
+#EXTINF:-1 tvg-name="US - FILMRISE FREE MOVIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE FREE MOVIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984832.ts
+#EXTINF:-1 tvg-name="US - FILMRISE MYSTERIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE MYSTERIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984833.ts
+#EXTINF:-1 tvg-name="US - FILMRISE UNSOLVED MYSTERIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE UNSOLVED MYSTERIES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984834.ts
+#EXTINF:-1 tvg-name="US - FILMRISE WESTERN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/filmrise-movies-us.png" group-title="series",US - FILMRISE WESTERN HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984835.ts
+#EXTINF:-1 tvg-name="US - HOLLYWOOD SUITE 2010s+ HD ◉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hollywood_logo.svg/512px-Hollywood_logo.svg.png" group-title="series",US - HOLLYWOOD SUITE 2010s+ HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984845.ts
+#EXTINF:-1 tvg-name="US - HOLLYWOOD SUITE 70s HD ◉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hollywood_logo.svg/512px-Hollywood_logo.svg.png" group-title="series",US - HOLLYWOOD SUITE 70s HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984846.ts
+#EXTINF:-1 tvg-name="US - HOLLYWOOD SUITE 80s &amp; 90s HD ◉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hollywood_logo.svg/512px-Hollywood_logo.svg.png" group-title="series",US - HOLLYWOOD SUITE 80s &amp; 90s HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984847.ts
+#EXTINF:-1 tvg-name="US - HOLLYWOOD SUITE 2000s HD ◉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hollywood_logo.svg/512px-Hollywood_logo.svg.png" group-title="series",US - HOLLYWOOD SUITE 2000s HD ◉
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/984848.ts
+
