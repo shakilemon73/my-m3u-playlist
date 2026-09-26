@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="US - FOX SPORTS 2 UHD ◉" group-title="Sports and Football",US - FOX SPORTS 2 UHD ◉
-#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-http://vca.easy747.com/live/93653542FAAC/3186163D9743/71988.ts
-
 #EXTINF:-1 tvg-name="FS1 (Estados Unidos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png" group-title="Sports",FS1 (Estados Unidos)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
 
