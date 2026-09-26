@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U name="Streamguard export (5 st"
 #EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/TSN1.png" group-title="Sports & Football",TSN 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/57292.ts
