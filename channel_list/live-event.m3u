@@ -1,1 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Spain VS England Football match today" tvg-logo="https://i.postimg.cc/W3DV1MWj/Chat-GPT-Image-Sep-27-2026-12-44-50-AM.png" group-title="cricket",Spain VS England Football match today
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://www.tapmad.com/
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=VLC/3.0.18 LibVLC/3.0.18&Referer=https://www.tapmad.com/
+
+#EXTINF:-1 tvg-name="Spain VS England Football match today" tvg-logo="https://i.postimg.cc/W3DV1MWj/Chat-GPT-Image-Sep-27-2026-12-44-50-AM.png" group-title="cricket",Spain VS England Football match today
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://www.tapmad.com/
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=VLC/3.0.18 LibVLC/3.0.18&Referer=https://www.tapmad.com/
