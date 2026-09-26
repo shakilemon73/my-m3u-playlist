@@ -1,2 +1,65 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-name="4ever Theater" tvg-logo="https://i.imgur.com/kfngtev.png" group-title="Entertainment",4ever Theater
+https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw
+#EXTINF:-1 tvg-name="5AAB TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="Entertainment",5AAB TV (720p) [Not 24/7]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-name="5SELECT (576p)" tvg-logo="https://i.imgur.com/WJ9xR6l.png" group-title="Entertainment",5SELECT (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8
+#EXTINF:-1 tvg-name="4seven (576p)" tvg-logo="https://i.imgur.com/Fpaxyop.png" group-title="Entertainment",4seven (576p)
+https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8
+#EXTINF:-1 tvg-name="13th Street Universal HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png" group-title="Entertainment",13th Street Universal HD (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8
+#EXTINF:-1 tvg-name="2x2 (576i)" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment",2x2 (576i)
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+#EXTINF:-1 tvg-name="4U TV (720p)" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="5STAR (576p)" tvg-logo="https://i.imgur.com/PI11s9s.png" group-title="Entertainment",5STAR (576p)
+https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8
+#EXTINF:-1 tvg-name="ENT Channel" group-title="Entretenimiento",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="E! (Entertainment Television)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/E!.png" group-title="USA - Entertainment",E! (Entertainment Television)
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/11651.ts
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/USANetwork.png" group-title="USA - Entertainment",USA Network
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/10252.ts
+#EXTINF:-1 tvg-name="OWN" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/OWN.png" group-title="USA - Entertainment",OWN
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/46698.ts
+#EXTINF:-1 tvg-name="FXX USA" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/FXX.png" group-title="USA - Entertainment",FXX USA
+http://fortv.cc:8080/live/parks@prudent.com/0314@8162/46699.ts
+#EXTINF:-1 tvg-name="Vice TV (Viceland)" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/ViceTV.png" group-title="USA - Entertainment",Vice TV (Viceland)
+http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/46697.ts
+#EXTINF:-1 tvg-name="13 Realities (1080p)" tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Entertainment",13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-name="13 Entretención (720p)" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Entertainment",13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-name="Zyoon TV" group-title="Entretenimiento",Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-name="1KZN TV (576p)" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="TV",E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-name="Varied TV" group-title="Entretenimiento",Varied TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal LMS" group-title="Entretenimiento",Canal LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+#EXTINF:-1 tvg-name="EnerGeek Fan" group-title="Entretenimiento",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+#EXTINF:-1 tvg-name="TL+" group-title="Entretenimiento",TL+
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="ENT Family" group-title="Entretenimiento",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="Primired" group-title="Entretenimiento",Primired
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="TL+ Santa Ana" group-title="Entretenimiento",TL+ Santa Ana
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="30A Georgia Hollywood Review TV (720p)" tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" group-title="Entertainment;News",30A Georgia Hollywood Review TV (720p)
+https://30a-tv.com/gh.m3u8
+#EXTINF:-1 tvg-name="VCONLINE" group-title="Entretenimiento",VCONLINE
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-name="30A Television Channel (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="Entertainment",30A Television Channel (720p)
+https://30a-tv.com/feeds/masters/30atv.m3u8
+#EXTINF:-1 tvg-name="30A Sidewalks (720p)" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Entertainment",30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-name="PRIDEtv Latam" group-title="Entretenimiento",PRIDEtv Latam
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
+#EXTINF:-1 tvg-name="Punto 99" group-title="Entretenimiento",Punto 99
+https://stmv5.voxtvhd.com.br/tvcoolretro/tvcoolretro/playlist.m3u8
