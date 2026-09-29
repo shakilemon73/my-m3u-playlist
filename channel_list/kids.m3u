@@ -1,4 +1,100 @@
 #EXTM3U
+
+#EXTM3U name="Kids"
+#EXTINF:-1 tvg-name="UNIVERSAL KIDS WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",UNIVERSAL KIDS WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71674.ts
+#EXTINF:-1 tvg-name="UNIVERSAL KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/960px-Universal_Kids_2019_Logo.svg.png" group-title="AM | USA | KIDS ",UNIVERSAL KIDS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/494712.ts
+#EXTINF:-1 tvg-name="NICK JR WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",NICK JR WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032487.ts
+#EXTINF:-1 tvg-name="NICK TOONS WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",NICK TOONS WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032489.ts
+#EXTINF:-1 tvg-name="DISNEY JR EAST HD" group-title="AM | USA | KIDS ",DISNEY JR EAST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032490.ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL EAST HD" group-title="AM | USA | KIDS ",DISNEY CHANNEL EAST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032491.ts
+#EXTINF:-1 tvg-name="PAW PATROL HD" group-title="AM | USA | KIDS ",PAW PATROL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1085328.ts
+#EXTINF:-1 tvg-name="RELIGIOUS 3ABN KIDS HD" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="AM | USA | KIDS ",RELIGIOUS 3ABN KIDS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1322598.ts
+#EXTINF:-1 tvg-name="DISNEY XD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg" group-title="AM | USA | KIDS ",DISNEY XD HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/494705.ts
+#EXTINF:-1 tvg-name="CARTOONITO ES HD" group-title="AM | USA | KIDS ",CARTOONITO ES HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/494707.ts
+#EXTINF:-1 tvg-name="FILMRISE KIDS HD" tvg-logo="https://i.imgur.com/XkSR66q.png" group-title="AM | USA | KIDS ",FILMRISE KIDS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/494710.ts
+#EXTINF:-1 tvg-name="STARZ KIDS AND FAMILY HD" group-title="AM | USA | KIDS ",STARZ KIDS AND FAMILY HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/494713.ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/n0t2B3Z.png" group-title="AM | USA | KIDS ",DISNEY CHANNEL HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/494886.ts
+#EXTINF:-1 tvg-name="TEEN NICK SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick.png" group-title="AM | USA | KIDS ",TEEN NICK SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71312.ts
+#EXTINF:-1 tvg-name="BABY FIRST TV HD" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="AM | USA | KIDS ",BABY FIRST TV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71459.ts
+#EXTINF:-1 tvg-name="NICKELODEON WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",NICKELODEON WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032486.ts
+#EXTINF:-1 tvg-name="NICK HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick.png" group-title="AM | USA | KIDS ",NICK HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71465.ts
+#EXTINF:-1 tvg-name="NICK JR HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Nick%20Jr.png" group-title="AM | USA | KIDS ",NICK JR HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71467.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK EAST HD" group-title="AM | USA | KIDS ",CARTOON NETWORK EAST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71469.ts
+#EXTINF:-1 tvg-name="DISNEY JR WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",DISNEY JR WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71471.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",CARTOON NETWORK WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71475.ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",DISNEY CHANNEL WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71476.ts
+#EXTINF:-1 tvg-name="DISNEY JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="AM | USA | KIDS ",DISNEY JR HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71478.ts
+#EXTINF:-1 tvg-name="DISNEY XD EAST HD" group-title="AM | USA | KIDS ",DISNEY XD EAST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71479.ts
+#EXTINF:-1 tvg-name="BABY TV SD" group-title="AM | USA | KIDS ",BABY TV SD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71481.ts
+#EXTINF:-1 tvg-name="KIDS" tvg-logo="https://i.imgur.com/XkSR66q.png" group-title="AM | USA | KIDS ",KIDS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/34868.ts
+#EXTINF:-1 tvg-name="TEENNICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="AM | USA | KIDS ",TEENNICK HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/494715.ts
+#EXTINF:-1 tvg-name="DISNEY XD WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",DISNEY XD WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71470.ts
+#EXTINF:-1 tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" group-title="AM | USA | KIDS ",BOOMERANG HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71482.ts
+#EXTINF:-1 tvg-name="NICK TOONS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/The_Family_Channel_Logo.png" group-title="AM | USA | KIDS ",NICK TOONS UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/71461.ts
+#EXTINF:-1 tvg-name="TEEN NICK WEST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/West_color_logo.png" group-title="AM | USA | KIDS ",TEEN NICK WEST HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1032488.ts
+
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/Boomerang.png" group-title="USA - Kids",Boomerang
 http://cord-cutter.net:8080/live/parks@prudent.com/0314@8162/14741.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="https://raw.githubusercontent.com/dtv-history/Live-TV/main/Logos/CartoonNetwork.png" group-title="USA - Kids",Cartoon Network East
