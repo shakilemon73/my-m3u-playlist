@@ -1,4 +1,74 @@
 #EXTM3U
+#EXTM3U name="Playlist with logos (3)"
+#EXTINF:-1 tvg-name="WORLD CRICKET" group-title="cricket",WORLD CRICKET
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404539.ts
+#EXTINF:-1 tvg-name="A-SPORTS HD" tvg-logo="https://i.imgur.com/EVJuFRs.png" group-title="cricket",A-SPORTS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/266255.ts
+#EXTINF:-1 tvg-name="ASTRO CRICKET HD" tvg-logo="https://i.imgur.com/miyMp5p.png" group-title="cricket",ASTRO CRICKET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404519.ts
+#EXTINF:-1 tvg-name="CRICKET GOLD [PLEX]" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="cricket",CRICKET GOLD [PLEX]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404526.ts
+#EXTINF:-1 tvg-name="CRICKET GOLD [Stirr]" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="cricket",CRICKET GOLD [Stirr]
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404525.ts
+#EXTINF:-1 tvg-name="FOX SPORTS 501 HD" tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="cricket",FOX SPORTS 501 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1405863.ts
+#EXTINF:-1 tvg-name="PTV SPORTS HD" tvg-logo="https://i.imgur.com/1OuaIUS.png" group-title="cricket",PTV SPORTS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404537.ts
+#EXTINF:-1 tvg-name="SKY SPORTS CRICKET FHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="cricket",SKY SPORTS CRICKET FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404520.ts
+#EXTINF:-1 tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="cricket",SKY SPORTS CRICKET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404521.ts
+#EXTINF:-1 tvg-name="SPORTS 18 FHD" group-title="cricket",SPORTS 18 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404536.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 1 HD ENGLISH FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143843_ld_h15_aa.png?lock=720x540" group-title="cricket",STAR SPORTS 1 HD ENGLISH FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404528.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 1 HD HINDI FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143843_ld_h15_aa.png?lock=720x540" group-title="cricket",STAR SPORTS 1 HD HINDI FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404529.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 1 TELUGU FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143843_ld_h15_aa.png?lock=720x540" group-title="cricket",STAR SPORTS 1 TELUGU FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404535.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 2 FHD" tvg-logo="https://dtil.tmsimg.com/assets/s158351_ld_h15_ab.png?lock=720x540" group-title="cricket",STAR SPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404530.ts
+#EXTINF:-1 tvg-name="STAR SPORTS 3 FHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="cricket",STAR SPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404531.ts
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 1 FHD" tvg-logo="https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png?lock=720x540" group-title="cricket",STAR SPORTS SELECT 1 FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404532.ts
+#EXTINF:-1 tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143851_ld_h15_aa.png?lock=720x540" group-title="cricket",STAR SPORTS SELECT 2 HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404533.ts
+#EXTINF:-1 tvg-name="STAR SPORTS TAMIL FHD" tvg-logo="https://i.imgur.com/HDktL48.png" group-title="cricket",STAR SPORTS TAMIL FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404534.ts
+#EXTINF:-1 tvg-name="SUPERSPORT CRICKET HD" tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="cricket",SUPERSPORT CRICKET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404522.ts
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="cricket",T SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404538.ts
+#EXTINF:-1 tvg-name="TEN SPORTS FHD" tvg-logo="https://i.imgur.com/7qS6TcE.png" group-title="cricket",TEN SPORTS FHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1406508.ts
+#EXTINF:-1 tvg-name="WILLOW CRICKET EXTRA HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="cricket",WILLOW CRICKET EXTRA HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404523.ts
+#EXTINF:-1 tvg-name="WILLOW CRICKET HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="cricket",WILLOW CRICKET HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/live/93653542FAAC/3186163D9743/1404524.ts
 
 #EXTINF:-1 tvg-name="tapmad" tvg-logo="https://play-lh.googleusercontent.com/x6Sl5ty0KOGrEtJbz_cD3Y93mbYVZ6PAwdQwFRqmvTW98K7gPRbKmhQXepG7I8TCFchnQF7T5uz01YwpG2VaaA=w416-h235-rw" group-title="cricket",tapmad
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
