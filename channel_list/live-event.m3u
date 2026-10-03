@@ -1,2 +1,5 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Brazil VS India ◉" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01m3y9s1a8tywp2s3pyp.jpg" group-title="live event",Brazil VS India
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://vca.easy747.com/93653542FAAC/3186163D9743/1090642.ts
