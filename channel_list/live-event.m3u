@@ -1,10 +1,2 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="France.Belgium" tvg-name="France vs Belgium" tvg-logo="https://editorial.uefa.com/resources/028e-1b411b3ee213-32585bc73a60-1000/euro_24_-_2_players_h2h_-_facebook_16_.jpeg" group-title="Live Event",France vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/842.ts
 
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="France.Belgium" tvg-name="France vs Belgium" tvg-logo="https://editorial.uefa.com/resources/028e-1b411b3ee213-32585bc73a60-1000/euro_24_-_2_players_h2h_-_facebook_16_.jpeg" group-title="Live event",France vs Belgium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/134829.ts
+
