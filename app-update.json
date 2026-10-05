@@ -1,5 +1,5 @@
 {
-  "versionCode": 5,
+  "versionCode": 6,
   "versionName": "1.2",
   "apkUrl": "https://github.com/shakilemon73/my-m3u-playlist/raw/refs/heads/main/releases/download/app-release.apk",
   "releaseNotes": "• Integrated Official Telegram Community & Support (https://t.me/protvplus1)\n• Added AppFileProvider & FileInstallService for seamless package installations\n• Automated build version tracking system\n• Enhanced stream playback stability & auto-recovery for buffering streams\n• Bug fixes and UI performance optimizations",
