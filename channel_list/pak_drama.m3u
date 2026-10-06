@@ -2,7 +2,6 @@
 #############################
 # Pak Drama
 #############################
-#EXTM3U name="pkgg"
 #EXTINF:-1 tvg-name="HUM TV" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="pak drama",HUM TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7574.ts
