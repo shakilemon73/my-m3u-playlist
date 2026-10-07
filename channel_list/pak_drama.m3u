@@ -2,6 +2,115 @@
 #############################
 # Pak Drama
 #############################
+#EXTINF:-1 tvg-name="HUM TV" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="pak drama",HUM TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7574.ts
+#EXTINF:-1 tvg-name="HUM MASALA TV" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="pak drama",HUM MASALA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7571.ts
+#EXTINF:-1 tvg-name="HUM SITARAY" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="pak drama",HUM SITARAY
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7573.ts
+#EXTINF:-1 tvg-name="HUM EUROPE" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="pak drama",HUM EUROPE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7570.ts
+#EXTINF:-1 tvg-name="ARY DIGITAL" tvg-logo="https://i.ibb.co/DqxCNMW/ARY-DIGITAL.png" group-title="pak drama",ARY DIGITAL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7533.ts
+#EXTINF:-1 tvg-name="ARY ZINDAGI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ARY_Zindagi.jpg/revision/latest?cb=20140511163352" group-title="pak drama",ARY ZINDAGI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7540.ts
+#EXTINF:-1 tvg-name="ARY FAMILY" tvg-logo="https://static.wikia.nocookie.net/youtube/images/3/38/ARYArabia.jpg/revision/latest/thumbnail/width/360/height/360?cb=20241206172438" group-title="pak drama",ARY FAMILY
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7534.ts
+#EXTINF:-1 tvg-name="PTV SPORTS HD" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="pak drama",PTV SPORTS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7604.ts
+#EXTINF:-1 tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="pak drama",A SPORTS HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7626.ts
+#EXTINF:-1 tvg-name="GEO SUPER" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="pak drama",GEO SUPER
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7564.ts
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Atv_pakistan.PNG" group-title="pak drama",ATV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7541.ts
+#EXTINF:-1 tvg-name="AVT KHYBER TV" tvg-logo="https://i.imgur.com/FqkABWT.png" group-title="pak drama",AVT KHYBER TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7542.ts
+#EXTINF:-1 tvg-name="GEO ENTERTAINMENT" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-logo.png" group-title="pak drama",GEO ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7561.ts
+#EXTINF:-1 tvg-name="GEO KAHANI" tvg-logo="https://w7.pngwing.com/pngs/660/764/png-transparent-geo-logo-pakistan-geo-tv-geo-news-television-channel-ten-miscellaneous-television-blue.png" group-title="pak drama",GEO KAHANI
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7562.ts
+#EXTINF:-1 tvg-name="GEO TV" tvg-logo="https://w7.pngwing.com/pngs/660/764/png-transparent-geo-logo-pakistan-geo-tv-geo-news-television-channel-ten-miscellaneous-television-blue.png" group-title="pak drama",GEO TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7566.ts
+#EXTINF:-1 tvg-name="EXPRESS ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmJIlEvRtzj9KkM0lVsIEwHiuGRpPWDkt84VpA2BOaHarA1fhtvLgQWM&s=10" group-title="pak drama",EXPRESS ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7558.ts
+#EXTINF:-1 tvg-name="A PLUS" tvg-logo="https://i.imgur.com/uu0UJme.png" group-title="pak drama",A PLUS
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7526.ts
+#EXTINF:-1 tvg-name="AAJ ENTERTAINMENT" tvg-logo="https://yt3.googleusercontent.com/dU-Bp46E2XlBaw376I_Boc-0lTEHgBrFJffOK4g1qQvQW5Ah00qL1IYGfWTYjekh8HibJb7nsQ=s900-c-k-c0x00ffffff-no-rj" group-title="pak drama",AAJ ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7527.ts
+#EXTINF:-1 tvg-name="BOL ENTERTAINMENT" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQGz2y0JkNl-Jw/company-logo_200_200/company-logo_200_200/0/1631436488479/bol_entertainment_logo?e=2147483647&v=beta&t=WeoIf5iu4y_hEa1uHOzHcLz7a0Hj1iGtfVjtS_bI80A" group-title="pak drama",BOL ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7545.ts
+#EXTINF:-1 tvg-name="PLAY ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXf7dtRBl-PmQkZk0xdDjHqh0iT2Soe7NCct0hHtnGnj_7XuKw_Ku-4-U&s=" group-title="pak drama",PLAY ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7600.ts
+#EXTINF:-1 tvg-name="AWAZ ENTERTAINMENT" tvg-logo="https://yt3.googleusercontent.com/GKMv8HG8mV2IjUPaFzYPtRP_rEIaPHUeI_m6-4sjr253S9gwlTlBTpmFLV5L9ysZG2CIS93W=s900-c-k-c0x00ffffff-no-rj" group-title="pak drama",AWAZ ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7543.ts
+#EXTINF:-1 tvg-name="URDU 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nOu1MnYeyTUx2UftyttjUKQvNQQHBLFXYQf9-UI7s-cQU=s900-c-k-c0x00ffffff-no-rj" group-title="pak drama",URDU 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7622.ts
+#EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://i.imgur.com/RZtVUJR.png" group-title="pak drama",TV ONE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7621.ts
+#EXTINF:-1 tvg-name="ZINDAGI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zindagi_2018.jpg/revision/latest?cb=20240314185634" group-title="pak drama",ZINDAGI TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7625.ts
+#EXTINF:-1 tvg-name="SEE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbR2UYO9qGbjJ5P3K5Anf5_ImzEq_OYYylK60CyvjXNDYB-In4m_r_7dt_&s=10" group-title="pak drama",SEE TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7613.ts
+#EXTINF:-1 tvg-name="WASEEB TV" tvg-logo="https://i.imgur.com/RsF5yVA.png" group-title="pak drama",WASEEB TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7623.ts
+#EXTINF:-1 tvg-name="LAHORE RANG" tvg-logo="https://yt3.googleusercontent.com/54_m_weq-Jyu2n99eW-JLRMQlMOABeOHkarGmpqWje0iyeN-UlLRbP9ZautAzA232VqwWc99zQ=s900-c-k-c0x00ffffff-no-rj" group-title="pak drama",LAHORE RANG
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7588.ts
+#EXTINF:-1 tvg-name="KASHISH TV" tvg-logo="https://yt3.googleusercontent.com/bjf0sKcAzamW_LbhuwF5kMwrYjvnIySMP-m_Fd8flg1K5TIMHT73iY5owZkOBtHgE6NlQB7-DA=s900-c-k-c0x00ffffff-no-rj" group-title="pak drama",KASHISH TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7580.ts
+#EXTINF:-1 tvg-name="APNA CHANNEL" tvg-logo="https://i.imgur.com/ICSA4W6.png" group-title="pak drama",APNA CHANNEL
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7531.ts
+#EXTINF:-1 tvg-name="ARUJ TV" tvg-logo="https://pbs.twimg.com/profile_images/443341166327517184/RF5VJboh_400x400.jpeg" group-title="pak drama",ARUJ TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7532.ts
+#EXTINF:-1 tvg-name="DHARTI TV" tvg-logo="https://yt3.googleusercontent.com/fLhD-0S1NKWfTUG7gNPsOPDgg3B-b35lADjy4sXprZuqqw3DKM2uBkN4xjXckdbc3YegwqotOQ=s900-c-k-c0x00ffffff-no-rj" group-title="pak drama",DHARTI TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7554.ts
+#EXTINF:-1 tvg-name="ROHI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ZjU3Ss1KoOR17ZC3SH-j_y5khozzpk7Ym2Z8kRFbJw&s=10" group-title="pak drama",ROHI TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7609.ts
+#EXTINF:-1 tvg-name="PASHTO 1" tvg-logo="https://i.imgur.com/tUsLDRe.png" group-title="pak drama",PASHTO 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7597.ts
+#EXTINF:-1 tvg-name="KTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="pak drama",KTN
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7585.ts
+#EXTINF:-1 tvg-name="TV CANADA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/TVOne_Canada.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="pak drama",TV CANADA ONE
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7620.ts
+#EXTINF:-1 tvg-name="FILMAX" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="pak drama",FILMAX
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7560.ts
+
 #EXTINF:-1 tvg-name="GOLD TV 24/7 | WARIS BAIG HD" group-title="Pak Drama",GOLD TV 24/7 | WARIS BAIG HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 http://vca.easy747.com/live/93653542FAAC/3186163D9743/1015228.ts
