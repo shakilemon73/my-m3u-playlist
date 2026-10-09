@@ -124,7 +124,4 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8|User-Agent=VLC/3.0.18 LibVLC/3.0.18&Referer=https://www.tapmad.com/
 #EXTINF:-1 tvg-name="beIN sports Xtra HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Sports",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://i.pinimg.com/736x/20/f8/53/20f853787e15c584b40cb92aee225029.jpg" group-title="Cricket",Bein Sports
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
-http://5dtv.cc:8080/live/gagan/1234/167576.m3u8
+
