@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="cricket",Star Sports 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7340.ts
+#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540" group-title="cricket",Star Sports 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7341.ts
+#EXTINF:-1 tvg-name="Star Sports 3" tvg-logo="https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540" group-title="cricket",Star Sports 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7339.ts
+#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png?lock=720x540" group-title="cricket",Star Sports Select 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7342.ts
+#EXTINF:-1 tvg-name="Star Sports Select 2" tvg-logo="https://dtil.tmsimg.com/assets/s143851_ld_h15_aa.png?lock=720x540" group-title="cricket",Star Sports Select 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7343.ts
+#EXTINF:-1 tvg-name="Sony TEN 1" tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="cricket",Sony TEN 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7321.ts
+#EXTINF:-1 tvg-name="Sony TEN 2" tvg-logo="https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540" group-title="cricket",Sony TEN 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7322.ts
+#EXTINF:-1 tvg-name="Sony TEN 3" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="cricket",Sony TEN 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7323.ts
+#EXTINF:-1 tvg-name="Sony Six" tvg-logo="https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png?lock=720x540" group-title="cricket",Sony Six
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7320.ts
+#EXTINF:-1 tvg-name="DD Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20Sports.png" group-title="cricket",DD Sports
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7144.ts
+#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EUROSPORT_HD/images/LOGO_HD/image.png" group-title="cricket",Eurosport
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://31.43.191.125:8080/live/VIP011091765297528157/44a3abb7244d/7168.ts
 
 #EXTINF:-1 tvg-name="WORLD CRICKET" group-title="cricket",WORLD CRICKET
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
